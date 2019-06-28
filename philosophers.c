@@ -17,8 +17,8 @@ void *philo_act(void *intVal) {
   for (int round = 1, dinnerCnt = 0; ;round++) {
     char *thisGuy = philos[seat];
     printf("[%d]/[%d] %s is thinking\n", dinnerCnt, round, thisGuy);
-    // sleep for 0~2s randomly to prevent race
-    sleep(rand() % 1000 / 500);
+    // sleep for 0~1s randomly to prevent race
+    usleep(rand() % 1000000); // us
     printf("[%d]/[%d] %s becomes hungry\n", dinnerCnt, round, thisGuy);
 
     // try to get the right fork
@@ -34,7 +34,7 @@ void *philo_act(void *intVal) {
     printf("[%d]/[%d] %s gets the left fork\n", dinnerCnt, round, thisGuy);
 
     // if get both forks
-    sleep(rand() % 1000 / 500);
+    usleep(rand() % 1000000); // us
     printf("[%d]/[%d] %s finishes %dth dinner\n", dinnerCnt, round, thisGuy, dinnerCnt++);
     // release forks
     pthread_mutex_unlock(&forks[(seat + 1) % 5]);

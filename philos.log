@@ -1,2839 +1,2217 @@
 Alice joined
 [0]/[1] Alice is thinking
-[0]/[1] Alice becomes hungry
-[0]/[1] Alice gets the right fork
-[0]/[1] Alice gets the left fork
 Bob joined
 [0]/[1] Bob is thinking
-[0]/[1] Bob becomes hungry
-[0]/[1] Bob gets the right fork
-[0]/[1] Bob gets the left fork
 Carol joined
 [0]/[1] Carol is thinking
 David joined
 [0]/[1] David is thinking
 Esan joined
-[0]/[1] David becomes hungry
-[0]/[2] David is thinking
-[0]/[2] David becomes hungry
-[0]/[3] David is thinking
-[0]/[3] David becomes hungry
-[0]/[4] David is thinking
-[0]/[4] David becomes hungry
-[0]/[5] David is thinking
-[0]/[5] David becomes hungry
-[0]/[6] David is thinking
 [0]/[1] Esan is thinking
-[0]/[1] Carol becomes hungry
-[0]/[1] Carol gets the right fork
-[1]/[1] Alice finishes 0th dinner
-[0]/[2] Carol is thinking
-[1]/[2] Alice is thinking
-[1]/[1] Bob finishes 0th dinner
-[1]/[2] Bob is thinking
-[1]/[2] Bob becomes hungry
-[1]/[2] Bob gets the right fork
-[1]/[2] Bob gets the left fork
-[2]/[2] Bob finishes 1th dinner
-[2]/[3] Bob is thinking
-[0]/[6] David becomes hungry
-[0]/[6] David gets the right fork
-[0]/[6] David gets the left fork
 [0]/[1] Esan becomes hungry
 [0]/[1] Esan gets the right fork
 [0]/[1] Esan gets the left fork
+[0]/[1] David becomes hungry
+[0]/[1] David gets the right fork
+[0]/[1] David gets the left fork
+[0]/[1] Alice becomes hungry
+[0]/[1] Alice gets the right fork
+[0]/[2] Alice is thinking
+[0]/[1] Bob becomes hungry
+[0]/[2] Bob is thinking
+[0]/[2] Bob becomes hungry
+[0]/[3] Bob is thinking
+[0]/[3] Bob becomes hungry
+[0]/[4] Bob is thinking
+[0]/[1] Carol becomes hungry
+[0]/[2] Carol is thinking
 [0]/[2] Carol becomes hungry
 [0]/[3] Carol is thinking
-[0]/[3] Carol becomes hungry
-[0]/[4] Carol is thinking
-[2]/[3] Bob becomes hungry
-[0]/[4] Carol becomes hungry
-[1]/[2] Alice becomes hungry
-[2]/[4] Bob is thinking
-[1]/[2] Alice gets the right fork
+[1]/[1] Esan finishes 0th dinner
+[1]/[2] Esan is thinking
+[1]/[1] David finishes 0th dinner
+[1]/[2] David is thinking
+[0]/[4] Bob becomes hungry
+[0]/[4] Bob gets the right fork
+[0]/[4] Bob gets the left fork
+[0]/[2] Alice becomes hungry
+[0]/[2] Alice gets the right fork
+[0]/[2] Alice gets the left fork
+[1]/[2] Alice finishes 0th dinner
 [1]/[3] Alice is thinking
 [1]/[3] Alice becomes hungry
 [1]/[3] Alice gets the right fork
-[1]/[4] Alice is thinking
+[1]/[3] Alice gets the left fork
+[0]/[3] Carol becomes hungry
+[0]/[3] Carol gets the right fork
+[0]/[4] Carol is thinking
+[0]/[4] Carol becomes hungry
+[0]/[4] Carol gets the right fork
 [0]/[5] Carol is thinking
-[0]/[5] Carol becomes hungry
-[0]/[6] Carol is thinking
-[0]/[6] Carol becomes hungry
-[0]/[7] Carol is thinking
-[0]/[7] Carol becomes hungry
-[0]/[8] Carol is thinking
-[0]/[8] Carol becomes hungry
-[0]/[9] Carol is thinking
-[0]/[9] Carol becomes hungry
-[0]/[10] Carol is thinking
-[1]/[6] David finishes 0th dinner
-[1]/[7] David is thinking
-[1]/[7] David becomes hungry
-[1]/[7] David gets the right fork
-[1]/[7] David gets the left fork
-[2]/[7] David finishes 1th dinner
-[2]/[8] David is thinking
-[2]/[8] David becomes hungry
-[2]/[8] David gets the right fork
-[2]/[8] David gets the left fork
-[1]/[1] Esan finishes 0th dinner
-[1]/[2] Esan is thinking
 [1]/[2] Esan becomes hungry
-[1]/[2] Esan gets the right fork
-[1]/[2] Esan gets the left fork
-[2]/[2] Esan finishes 1th dinner
-[2]/[3] Esan is thinking
-[2]/[3] Esan becomes hungry
-[2]/[3] Esan gets the right fork
-[2]/[3] Esan gets the left fork
-[3]/[3] Esan finishes 2th dinner
-[3]/[4] Esan is thinking
-[0]/[10] Carol becomes hungry
-[0]/[10] Carol gets the right fork
-[0]/[10] Carol gets the left fork
-[1]/[4] Alice becomes hungry
-[1]/[10] Carol finishes 0th dinner
-[1]/[11] Carol is thinking
-[1]/[4] Alice gets the right fork
-[1]/[5] Alice is thinking
-[1]/[5] Alice becomes hungry
-[1]/[5] Alice gets the right fork
-[1]/[6] Alice is thinking
-[2]/[4] Bob becomes hungry
-[2]/[5] Bob is thinking
-[2]/[5] Bob becomes hungry
-[2]/[6] Bob is thinking
-[2]/[6] Bob becomes hungry
+[1]/[3] Esan is thinking
+[1]/[2] David becomes hungry
+[1]/[3] David is thinking
+[1]/[4] Bob finishes 0th dinner
+[1]/[5] Bob is thinking
+[2]/[3] Alice finishes 1th dinner
+[2]/[4] Alice is thinking
+[1]/[3] David becomes hungry
+[1]/[3] David gets the right fork
+[1]/[3] David gets the left fork
+[0]/[5] Carol becomes hungry
+[0]/[5] Carol gets the right fork
+[0]/[5] Carol gets the left fork
+[1]/[5] Bob becomes hungry
+[1]/[6] Bob is thinking
+[2]/[4] Alice becomes hungry
+[2]/[5] Alice is thinking
+[1]/[3] Esan becomes hungry
+[1]/[3] Esan gets the right fork
+[1]/[4] Esan is thinking
+[2]/[3] David finishes 1th dinner
+[2]/[4] David is thinking
+[1]/[5] Carol finishes 0th dinner
+[1]/[6] Carol is thinking
+[1]/[6] Bob becomes hungry
+[1]/[6] Bob gets the right fork
+[1]/[6] Bob gets the left fork
+[1]/[4] Esan becomes hungry
+[1]/[5] Esan is thinking
+[2]/[5] Alice becomes hungry
+[2]/[5] Alice gets the right fork
+[2]/[5] Alice gets the left fork
+[1]/[6] Carol becomes hungry
+[1]/[6] Carol gets the right fork
+[1]/[7] Carol is thinking
+[3]/[5] Alice finishes 2th dinner
+[3]/[6] Alice is thinking
+[2]/[6] Bob finishes 1th dinner
 [2]/[7] Bob is thinking
-[3]/[4] Esan becomes hungry
-[3]/[4] Esan gets the right fork
-[3]/[4] Esan gets the left fork
-[3]/[8] David finishes 2th dinner
-[4]/[4] Esan finishes 3th dinner
-[4]/[5] Esan is thinking
-[3]/[9] David is thinking
-[3]/[9] David becomes hungry
-[3]/[9] David gets the right fork
-[3]/[9] David gets the left fork
-[4]/[9] David finishes 3th dinner
-[4]/[10] David is thinking
-[4]/[10] David becomes hungry
-[4]/[10] David gets the right fork
-[4]/[10] David gets the left fork
-[5]/[10] David finishes 4th dinner
-[5]/[11] David is thinking
-[5]/[11] David becomes hungry
-[5]/[11] David gets the right fork
-[5]/[11] David gets the left fork
-[6]/[11] David finishes 5th dinner
-[6]/[12] David is thinking
-[1]/[11] Carol becomes hungry
-[1]/[11] Carol gets the right fork
-[1]/[11] Carol gets the left fork
+[2]/[4] David becomes hungry
+[2]/[4] David gets the right fork
+[2]/[4] David gets the left fork
+[1]/[5] Esan becomes hungry
+[1]/[5] Esan gets the right fork
+[1]/[5] Esan gets the left fork
+[1]/[7] Carol becomes hungry
+[1]/[8] Carol is thinking
+[3]/[4] David finishes 2th dinner
+[3]/[5] David is thinking
+[3]/[5] David becomes hungry
+[3]/[5] David gets the right fork
+[3]/[5] David gets the left fork
 [2]/[7] Bob becomes hungry
-[2]/[11] Carol finishes 1th dinner
-[2]/[12] Carol is thinking
-[2]/[7] Bob gets the right fork
-[2]/[7] Bob gets the left fork
-[3]/[7] Bob finishes 2th dinner
-[3]/[8] Bob is thinking
-[1]/[6] Alice becomes hungry
-[1]/[6] Alice gets the right fork
-[1]/[6] Alice gets the left fork
-[2]/[6] Alice finishes 1th dinner
-[2]/[7] Alice is thinking
-[6]/[12] David becomes hungry
-[6]/[12] David gets the right fork
-[6]/[12] David gets the left fork
-[7]/[12] David finishes 6th dinner
-[7]/[13] David is thinking
-[4]/[5] Esan becomes hungry
-[4]/[5] Esan gets the right fork
-[4]/[5] Esan gets the left fork
-[5]/[5] Esan finishes 4th dinner
-[5]/[6] Esan is thinking
-[2]/[7] Alice becomes hungry
-[2]/[7] Alice gets the right fork
-[2]/[7] Alice gets the left fork
-[2]/[12] Carol becomes hungry
-[2]/[12] Carol gets the right fork
-[2]/[13] Carol is thinking
-[3]/[8] Bob becomes hungry
-[3]/[8] Bob gets the right fork
-[3]/[8] Bob gets the left fork
-[7]/[13] David becomes hungry
-[7]/[14] David is thinking
-[5]/[6] Esan becomes hungry
-[5]/[7] Esan is thinking
-[5]/[7] Esan becomes hungry
-[5]/[8] Esan is thinking
-[2]/[13] Carol becomes hungry
-[3]/[7] Alice finishes 2th dinner
-[2]/[13] Carol gets the right fork
+[2]/[8] Bob is thinking
+[2]/[8] Bob becomes hungry
+[2]/[9] Bob is thinking
+[3]/[6] Alice becomes hungry
+[3]/[6] Alice gets the right fork
+[3]/[7] Alice is thinking
+[2]/[9] Bob becomes hungry
+[2]/[10] Bob is thinking
+[1]/[8] Carol becomes hungry
+[1]/[9] Carol is thinking
+[2]/[5] Esan finishes 1th dinner
+[2]/[6] Esan is thinking
+[3]/[7] Alice becomes hungry
+[3]/[7] Alice gets the right fork
 [3]/[8] Alice is thinking
-[2]/[13] Carol gets the left fork
+[4]/[5] David finishes 3th dinner
+[4]/[6] David is thinking
+[1]/[9] Carol becomes hungry
+[1]/[9] Carol gets the right fork
+[1]/[9] Carol gets the left fork
 [3]/[8] Alice becomes hungry
 [3]/[9] Alice is thinking
-[4]/[8] Bob finishes 3th dinner
-[4]/[9] Bob is thinking
-[4]/[9] Bob becomes hungry
-[4]/[9] Bob gets the right fork
-[4]/[9] Bob gets the left fork
-[5]/[9] Bob finishes 4th dinner
-[5]/[10] Bob is thinking
-[5]/[8] Esan becomes hungry
-[5]/[8] Esan gets the right fork
-[5]/[9] Esan is thinking
-[5]/[9] Esan becomes hungry
-[5]/[9] Esan gets the right fork
-[5]/[10] Esan is thinking
-[7]/[14] David becomes hungry
-[7]/[14] David gets the right fork
-[7]/[14] David gets the left fork
-[5]/[10] Esan becomes hungry
-[5]/[10] Esan gets the right fork
-[5]/[11] Esan is thinking
-[5]/[11] Esan becomes hungry
-[5]/[11] Esan gets the right fork
-[5]/[12] Esan is thinking
-[5]/[12] Esan becomes hungry
-[5]/[12] Esan gets the right fork
-[5]/[13] Esan is thinking
-[8]/[14] David finishes 7th dinner
-[8]/[15] David is thinking
-[5]/[10] Bob becomes hungry
-[5]/[10] Bob gets the right fork
-[3]/[13] Carol finishes 2th dinner
+[4]/[6] David becomes hungry
+[4]/[6] David gets the right fork
+[4]/[6] David gets the left fork
+[2]/[10] Bob becomes hungry
+[2]/[11] Bob is thinking
+[2]/[11] Bob becomes hungry
+[2]/[12] Bob is thinking
+[2]/[12] Bob becomes hungry
+[2]/[13] Bob is thinking
+[2]/[6] Esan becomes hungry
+[2]/[6] Esan gets the right fork
+[2]/[7] Esan is thinking
+[5]/[6] David finishes 4th dinner
+[5]/[7] David is thinking
+[3]/[9] Alice becomes hungry
+[3]/[10] Alice is thinking
+[2]/[9] Carol finishes 1th dinner
+[2]/[10] Carol is thinking
+[2]/[10] Carol becomes hungry
+[2]/[10] Carol gets the right fork
+[2]/[10] Carol gets the left fork
+[2]/[13] Bob becomes hungry
+[2]/[13] Bob gets the right fork
+[2]/[13] Bob gets the left fork
+[3]/[10] Carol finishes 2th dinner
+[3]/[11] Carol is thinking
+[2]/[7] Esan becomes hungry
+[2]/[8] Esan is thinking
+[2]/[8] Esan becomes hungry
+[2]/[9] Esan is thinking
+[3]/[10] Alice becomes hungry
+[3]/[10] Alice gets the right fork
+[3]/[10] Alice gets the left fork
+[2]/[9] Esan becomes hungry
+[2]/[10] Esan is thinking
+[5]/[7] David becomes hungry
+[5]/[8] David is thinking
+[4]/[10] Alice finishes 3th dinner
+[4]/[11] Alice is thinking
+[4]/[11] Alice becomes hungry
+[4]/[11] Alice gets the right fork
+[4]/[11] Alice gets the left fork
+[5]/[8] David becomes hungry
+[5]/[9] David is thinking
+[3]/[13] Bob finishes 2th dinner
+[3]/[14] Bob is thinking
+[3]/[11] Carol becomes hungry
+[3]/[11] Carol gets the right fork
+[3]/[12] Carol is thinking
+[3]/[14] Bob becomes hungry
+[3]/[14] Bob gets the right fork
+[3]/[14] Bob gets the left fork
+[3]/[12] Carol becomes hungry
+[3]/[12] Carol gets the right fork
+[3]/[13] Carol is thinking
+[2]/[10] Esan becomes hungry
+[2]/[11] Esan is thinking
+[4]/[14] Bob finishes 3th dinner
+[4]/[15] Bob is thinking
+[5]/[11] Alice finishes 4th dinner
+[5]/[12] Alice is thinking
+[5]/[9] David becomes hungry
+[5]/[9] David gets the right fork
+[5]/[9] David gets the left fork
+[6]/[9] David finishes 5th dinner
+[6]/[10] David is thinking
+[5]/[12] Alice becomes hungry
+[5]/[12] Alice gets the right fork
+[5]/[12] Alice gets the left fork
+[4]/[15] Bob becomes hungry
+[4]/[15] Bob gets the right fork
+[4]/[15] Bob gets the left fork
+[6]/[10] David becomes hungry
+[6]/[11] David is thinking
+[2]/[11] Esan becomes hungry
+[2]/[12] Esan is thinking
+[5]/[15] Bob finishes 4th dinner
+[5]/[16] Bob is thinking
+[6]/[12] Alice finishes 5th dinner
+[6]/[13] Alice is thinking
+[2]/[12] Esan becomes hungry
+[2]/[12] Esan gets the right fork
+[2]/[12] Esan gets the left fork
+[3]/[13] Carol becomes hungry
 [3]/[14] Carol is thinking
+[5]/[16] Bob becomes hungry
+[5]/[16] Bob gets the right fork
+[5]/[17] Bob is thinking
+[6]/[11] David becomes hungry
+[6]/[11] David gets the right fork
+[6]/[11] David gets the left fork
+[5]/[17] Bob becomes hungry
+[5]/[18] Bob is thinking
+[3]/[12] Esan finishes 2th dinner
+[3]/[13] Esan is thinking
+[6]/[13] Alice becomes hungry
+[6]/[13] Alice gets the right fork
+[6]/[14] Alice is thinking
 [3]/[14] Carol becomes hungry
 [3]/[14] Carol gets the right fork
 [3]/[14] Carol gets the left fork
-[5]/[10] Bob gets the left fork
-[6]/[10] Bob finishes 5th dinner
-[6]/[11] Bob is thinking
-[6]/[11] Bob becomes hungry
-[6]/[11] Bob gets the right fork
-[6]/[11] Bob gets the left fork
-[3]/[9] Alice becomes hungry
-[3]/[10] Alice is thinking
-[3]/[10] Alice becomes hungry
-[3]/[11] Alice is thinking
-[3]/[11] Alice becomes hungry
-[3]/[12] Alice is thinking
+[5]/[18] Bob becomes hungry
+[5]/[19] Bob is thinking
+[5]/[19] Bob becomes hungry
+[5]/[20] Bob is thinking
+[3]/[13] Esan becomes hungry
+[3]/[13] Esan gets the right fork
+[3]/[14] Esan is thinking
 [4]/[14] Carol finishes 3th dinner
-[5]/[13] Esan becomes hungry
 [4]/[15] Carol is thinking
-[5]/[14] Esan is thinking
-[5]/[14] Esan becomes hungry
-[7]/[11] Bob finishes 6th dinner
-[5]/[15] Esan is thinking
-[7]/[12] Bob is thinking
+[7]/[11] David finishes 6th dinner
+[7]/[12] David is thinking
+[3]/[14] Esan becomes hungry
+[3]/[14] Esan gets the right fork
+[3]/[14] Esan gets the left fork
+[5]/[20] Bob becomes hungry
+[5]/[20] Bob gets the right fork
+[5]/[21] Bob is thinking
+[4]/[14] Esan finishes 3th dinner
+[4]/[15] Esan is thinking
+[6]/[14] Alice becomes hungry
+[6]/[14] Alice gets the right fork
+[6]/[14] Alice gets the left fork
+[7]/[14] Alice finishes 6th dinner
+[7]/[15] Alice is thinking
+[5]/[21] Bob becomes hungry
+[5]/[21] Bob gets the right fork
+[5]/[21] Bob gets the left fork
+[7]/[12] David becomes hungry
+[7]/[12] David gets the right fork
+[7]/[13] David is thinking
+[6]/[21] Bob finishes 5th dinner
+[6]/[22] Bob is thinking
+[7]/[15] Alice becomes hungry
+[7]/[15] Alice gets the right fork
+[7]/[15] Alice gets the left fork
+[4]/[15] Carol becomes hungry
+[4]/[15] Carol gets the right fork
+[4]/[16] Carol is thinking
+[4]/[15] Esan becomes hungry
+[4]/[15] Esan gets the right fork
+[4]/[15] Esan gets the left fork
+[4]/[16] Carol becomes hungry
+[4]/[17] Carol is thinking
+[4]/[17] Carol becomes hungry
+[4]/[18] Carol is thinking
+[4]/[18] Carol becomes hungry
+[4]/[19] Carol is thinking
+[6]/[22] Bob becomes hungry
+[6]/[22] Bob gets the right fork
+[6]/[23] Bob is thinking
+[7]/[13] David becomes hungry
+[7]/[14] David is thinking
+[5]/[15] Esan finishes 4th dinner
+[5]/[16] Esan is thinking
+[5]/[16] Esan becomes hungry
+[5]/[16] Esan gets the right fork
+[5]/[16] Esan gets the left fork
+[8]/[15] Alice finishes 7th dinner
+[8]/[16] Alice is thinking
+[4]/[19] Carol becomes hungry
+[4]/[20] Carol is thinking
+[7]/[14] David becomes hungry
+[7]/[14] David gets the right fork
+[7]/[14] David gets the left fork
+[6]/[23] Bob becomes hungry
+[6]/[24] Bob is thinking
+[6]/[16] Esan finishes 5th dinner
+[6]/[17] Esan is thinking
+[4]/[20] Carol becomes hungry
+[4]/[20] Carol gets the right fork
+[4]/[20] Carol gets the left fork
+[8]/[16] Alice becomes hungry
+[8]/[17] Alice is thinking
+[6]/[24] Bob becomes hungry
+[6]/[25] Bob is thinking
+[8]/[14] David finishes 7th dinner
+[8]/[15] David is thinking
+[8]/[17] Alice becomes hungry
+[8]/[18] Alice is thinking
+[6]/[25] Bob becomes hungry
+[6]/[25] Bob gets the right fork
+[6]/[25] Bob gets the left fork
+[6]/[17] Esan becomes hungry
+[6]/[18] Esan is thinking
+[8]/[18] Alice becomes hungry
+[8]/[19] Alice is thinking
+[5]/[20] Carol finishes 4th dinner
+[5]/[21] Carol is thinking
+[5]/[21] Carol becomes hungry
+[5]/[21] Carol gets the right fork
+[5]/[21] Carol gets the left fork
+[7]/[25] Bob finishes 6th dinner
+[7]/[26] Bob is thinking
+[6]/[18] Esan becomes hungry
+[6]/[18] Esan gets the right fork
+[6]/[19] Esan is thinking
 [8]/[15] David becomes hungry
 [8]/[15] David gets the right fork
 [8]/[15] David gets the left fork
+[6]/[19] Esan becomes hungry
+[6]/[19] Esan gets the right fork
+[6]/[20] Esan is thinking
+[8]/[19] Alice becomes hungry
+[8]/[20] Alice is thinking
+[8]/[20] Alice becomes hungry
+[8]/[21] Alice is thinking
+[6]/[21] Carol finishes 5th dinner
+[6]/[22] Carol is thinking
+[6]/[20] Esan becomes hungry
+[6]/[20] Esan gets the right fork
+[6]/[20] Esan gets the left fork
+[7]/[26] Bob becomes hungry
+[7]/[27] Bob is thinking
+[6]/[22] Carol becomes hungry
+[6]/[23] Carol is thinking
 [9]/[15] David finishes 8th dinner
 [9]/[16] David is thinking
-[3]/[12] Alice becomes hungry
-[3]/[12] Alice gets the right fork
-[3]/[12] Alice gets the left fork
+[8]/[21] Alice becomes hungry
+[8]/[21] Alice gets the right fork
+[8]/[21] Alice gets the left fork
+[7]/[27] Bob becomes hungry
+[7]/[27] Bob gets the right fork
+[7]/[28] Bob is thinking
+[7]/[20] Esan finishes 6th dinner
+[7]/[21] Esan is thinking
+[9]/[21] Alice finishes 8th dinner
+[9]/[22] Alice is thinking
+[9]/[22] Alice becomes hungry
+[9]/[22] Alice gets the right fork
+[9]/[22] Alice gets the left fork
+[6]/[23] Carol becomes hungry
+[6]/[23] Carol gets the right fork
+[6]/[24] Carol is thinking
 [9]/[16] David becomes hungry
 [9]/[17] David is thinking
+[7]/[21] Esan becomes hungry
+[7]/[21] Esan gets the right fork
+[7]/[21] Esan gets the left fork
 [9]/[17] David becomes hungry
 [9]/[18] David is thinking
-[7]/[12] Bob becomes hungry
 [9]/[18] David becomes hungry
-[7]/[12] Bob gets the right fork
-[7]/[12] Bob gets the left fork
-[5]/[15] Esan becomes hungry
-[4]/[15] Carol becomes hungry
-[4]/[15] Carol gets the right fork
-[5]/[16] Esan is thinking
-[4]/[16] Carol is thinking
-[5]/[16] Esan becomes hungry
-[5]/[17] Esan is thinking
 [9]/[19] David is thinking
-[4]/[12] Alice finishes 3th dinner
-[4]/[13] Alice is thinking
+[7]/[28] Bob becomes hungry
+[7]/[28] Bob gets the right fork
+[7]/[29] Bob is thinking
+[8]/[21] Esan finishes 7th dinner
+[8]/[22] Esan is thinking
+[8]/[22] Esan becomes hungry
+[8]/[22] Esan gets the right fork
+[8]/[22] Esan gets the left fork
+[6]/[24] Carol becomes hungry
+[6]/[25] Carol is thinking
 [9]/[19] David becomes hungry
-[5]/[17] Esan becomes hungry
-[9]/[19] David gets the right fork
-[4]/[16] Carol becomes hungry
-[4]/[16] Carol gets the right fork
-[4]/[16] Carol gets the left fork
-[8]/[12] Bob finishes 7th dinner
-[5]/[18] Esan is thinking
-[8]/[13] Bob is thinking
 [9]/[20] David is thinking
-[4]/[13] Alice becomes hungry
-[4]/[14] Alice is thinking
-[4]/[14] Alice becomes hungry
-[4]/[15] Alice is thinking
-[5]/[18] Esan becomes hungry
-[8]/[13] Bob becomes hungry
-[5]/[18] Esan gets the right fork
-[8]/[13] Bob gets the right fork
-[5]/[19] Esan is thinking
+[10]/[22] Alice finishes 9th dinner
+[10]/[23] Alice is thinking
 [9]/[20] David becomes hungry
-[5]/[16] Carol finishes 4th dinner
-[5]/[17] Carol is thinking
 [9]/[20] David gets the right fork
 [9]/[20] David gets the left fork
+[6]/[25] Carol becomes hungry
+[6]/[26] Carol is thinking
+[6]/[26] Carol becomes hungry
+[6]/[27] Carol is thinking
+[9]/[22] Esan finishes 8th dinner
+[9]/[23] Esan is thinking
+[7]/[29] Bob becomes hungry
+[7]/[30] Bob is thinking
 [10]/[20] David finishes 9th dinner
 [10]/[21] David is thinking
+[10]/[23] Alice becomes hungry
+[10]/[23] Alice gets the right fork
+[10]/[23] Alice gets the left fork
 [10]/[21] David becomes hungry
-[10]/[21] David gets the right fork
-[10]/[21] David gets the left fork
-[11]/[21] David finishes 10th dinner
-[11]/[22] David is thinking
-[8]/[14] Bob is thinking
-[8]/[14] Bob becomes hungry
-[8]/[14] Bob gets the right fork
-[8]/[14] Bob gets the left fork
-[4]/[15] Alice becomes hungry
-[4]/[15] Alice gets the right fork
-[4]/[15] Alice gets the left fork
-[5]/[15] Alice finishes 4th dinner
-[5]/[16] Alice is thinking
-[5]/[16] Alice becomes hungry
-[5]/[16] Alice gets the right fork
-[5]/[16] Alice gets the left fork
-[6]/[16] Alice finishes 5th dinner
-[6]/[17] Alice is thinking
-[6]/[17] Alice becomes hungry
-[6]/[17] Alice gets the right fork
-[6]/[17] Alice gets the left fork
-[5]/[19] Esan becomes hungry
-[5]/[20] Esan is thinking
-[5]/[20] Esan becomes hungry
-[5]/[21] Esan is thinking
-[7]/[17] Alice finishes 6th dinner
-[7]/[18] Alice is thinking
-[5]/[17] Carol becomes hungry
-[5]/[17] Carol gets the right fork
-[5]/[17] Carol gets the left fork
-[11]/[22] David becomes hungry
-[9]/[14] Bob finishes 8th dinner
-[11]/[22] David gets the right fork
-[9]/[15] Bob is thinking
-[11]/[22] David gets the left fork
-[9]/[15] Bob becomes hungry
-[9]/[16] Bob is thinking
-[5]/[21] Esan becomes hungry
-[5]/[21] Esan gets the right fork
-[5]/[22] Esan is thinking
-[12]/[22] David finishes 11th dinner
-[12]/[23] David is thinking
-[12]/[23] David becomes hungry
-[12]/[23] David gets the right fork
-[12]/[23] David gets the left fork
-[13]/[23] David finishes 12th dinner
-[13]/[24] David is thinking
-[6]/[17] Carol finishes 5th dinner
-[6]/[18] Carol is thinking
-[7]/[18] Alice becomes hungry
-[6]/[18] Carol becomes hungry
-[6]/[18] Carol gets the right fork
-[6]/[18] Carol gets the left fork
-[7]/[18] Carol finishes 6th dinner
-[7]/[19] Carol is thinking
-[7]/[19] Alice is thinking
-[7]/[19] Carol becomes hungry
-[9]/[16] Bob becomes hungry
-[7]/[19] Carol gets the right fork
-[7]/[19] Alice becomes hungry
-[7]/[19] Alice gets the right fork
-[9]/[16] Bob gets the right fork
-[9]/[16] Bob gets the left fork
-[7]/[20] Carol is thinking
-[7]/[19] Alice gets the left fork
-[5]/[22] Esan becomes hungry
-[5]/[23] Esan is thinking
-[5]/[23] Esan becomes hungry
-[5]/[24] Esan is thinking
-[5]/[24] Esan becomes hungry
-[5]/[25] Esan is thinking
-[5]/[25] Esan becomes hungry
-[5]/[26] Esan is thinking
-[5]/[26] Esan becomes hungry
-[5]/[27] Esan is thinking
-[5]/[27] Esan becomes hungry
-[5]/[28] Esan is thinking
-[5]/[28] Esan becomes hungry
-[5]/[29] Esan is thinking
-[7]/[20] Carol becomes hungry
-[7]/[20] Carol gets the right fork
-[7]/[21] Carol is thinking
-[7]/[21] Carol becomes hungry
-[7]/[21] Carol gets the right fork
-[7]/[22] Carol is thinking
-[7]/[22] Carol becomes hungry
-[7]/[22] Carol gets the right fork
-[7]/[23] Carol is thinking
-[7]/[23] Carol becomes hungry
-[7]/[23] Carol gets the right fork
-[7]/[24] Carol is thinking
-[8]/[19] Alice finishes 7th dinner
-[8]/[20] Alice is thinking
-[13]/[24] David becomes hungry
-[10]/[16] Bob finishes 9th dinner
-[13]/[24] David gets the right fork
-[13]/[25] David is thinking
-[10]/[17] Bob is thinking
-[13]/[25] David becomes hungry
-[13]/[25] David gets the right fork
-[13]/[25] David gets the left fork
-[14]/[25] David finishes 13th dinner
-[14]/[26] David is thinking
-[5]/[29] Esan becomes hungry
-[14]/[26] David becomes hungry
-[14]/[26] David gets the right fork
-[14]/[26] David gets the left fork
-[8]/[20] Alice becomes hungry
-[10]/[17] Bob becomes hungry
-[10]/[18] Bob is thinking
-[8]/[20] Alice gets the right fork
-[8]/[21] Alice is thinking
-[7]/[24] Carol becomes hungry
-[5]/[29] Esan gets the right fork
-[7]/[24] Carol gets the right fork
-[7]/[24] Carol gets the left fork
-[5]/[30] Esan is thinking
-[5]/[30] Esan becomes hungry
-[5]/[30] Esan gets the right fork
-[5]/[31] Esan is thinking
-[8]/[21] Alice becomes hungry
-[8]/[22] Alice is thinking
-[8]/[22] Alice becomes hungry
-[8]/[23] Alice is thinking
-[8]/[23] Alice becomes hungry
-[8]/[24] Alice is thinking
-[10]/[18] Bob becomes hungry
-[10]/[19] Bob is thinking
-[10]/[19] Bob becomes hungry
-[10]/[20] Bob is thinking
-[10]/[20] Bob becomes hungry
-[10]/[21] Bob is thinking
-[8]/[24] Alice becomes hungry
-[8]/[25] Alice is thinking
-[8]/[25] Alice becomes hungry
-[8]/[26] Alice is thinking
-[8]/[26] Alice becomes hungry
-[8]/[27] Alice is thinking
-[8]/[27] Alice becomes hungry
-[8]/[28] Alice is thinking
-[8]/[28] Alice becomes hungry
-[5]/[31] Esan becomes hungry
-[8]/[29] Alice is thinking
-[5]/[31] Esan gets the right fork
-[5]/[32] Esan is thinking
-[8]/[29] Alice becomes hungry
-[8]/[30] Alice is thinking
-[5]/[32] Esan becomes hungry
-[5]/[32] Esan gets the right fork
-[5]/[33] Esan is thinking
-[8]/[30] Alice becomes hungry
-[8]/[24] Carol finishes 7th dinner
-[8]/[31] Alice is thinking
-[8]/[25] Carol is thinking
-[15]/[26] David finishes 14th dinner
-[10]/[21] Bob becomes hungry
-[15]/[27] David is thinking
-[10]/[21] Bob gets the right fork
-[10]/[21] Bob gets the left fork
-[15]/[27] David becomes hungry
-[15]/[27] David gets the right fork
-[15]/[28] David is thinking
-[11]/[21] Bob finishes 10th dinner
-[11]/[22] Bob is thinking
-[15]/[28] David becomes hungry
-[15]/[28] David gets the right fork
-[15]/[28] David gets the left fork
-[16]/[28] David finishes 15th dinner
-[16]/[29] David is thinking
-[16]/[29] David becomes hungry
-[16]/[29] David gets the right fork
-[16]/[29] David gets the left fork
-[11]/[22] Bob becomes hungry
-[11]/[23] Bob is thinking
-[11]/[23] Bob becomes hungry
-[11]/[24] Bob is thinking
-[8]/[25] Carol becomes hungry
-[8]/[31] Alice becomes hungry
-[8]/[25] Carol gets the right fork
-[5]/[33] Esan becomes hungry
-[8]/[25] Carol gets the left fork
-[5]/[33] Esan gets the right fork
-[8]/[32] Alice is thinking
-[5]/[34] Esan is thinking
-[5]/[34] Esan becomes hungry
-[5]/[34] Esan gets the right fork
-[8]/[32] Alice becomes hungry
-[5]/[35] Esan is thinking
-[8]/[33] Alice is thinking
-[5]/[35] Esan becomes hungry
-[5]/[35] Esan gets the right fork
-[5]/[36] Esan is thinking
-[5]/[36] Esan becomes hungry
-[5]/[36] Esan gets the right fork
-[5]/[37] Esan is thinking
-[5]/[37] Esan becomes hungry
-[11]/[24] Bob becomes hungry
-[11]/[25] Bob is thinking
-[5]/[37] Esan gets the right fork
-[5]/[38] Esan is thinking
-[17]/[29] David finishes 16th dinner
-[11]/[25] Bob becomes hungry
-[17]/[30] David is thinking
-[11]/[25] Bob gets the right fork
-[11]/[25] Bob gets the left fork
-[8]/[33] Alice becomes hungry
-[9]/[25] Carol finishes 8th dinner
-[8]/[34] Alice is thinking
-[9]/[26] Carol is thinking
-[9]/[26] Carol becomes hungry
-[8]/[34] Alice becomes hungry
-[9]/[26] Carol gets the right fork
-[8]/[34] Alice gets the right fork
-[9]/[27] Carol is thinking
-[8]/[34] Alice gets the left fork
-[9]/[27] Carol becomes hungry
-[12]/[25] Bob finishes 11th dinner
-[5]/[38] Esan becomes hungry
-[12]/[26] Bob is thinking
-[17]/[30] David becomes hungry
-[5]/[38] Esan gets the right fork
-[17]/[31] David is thinking
-[12]/[26] Bob becomes hungry
-[5]/[39] Esan is thinking
-[17]/[31] David becomes hungry
-[9]/[27] Carol gets the right fork
-[9]/[34] Alice finishes 8th dinner
-[9]/[28] Carol is thinking
-[17]/[32] David is thinking
-[9]/[35] Alice is thinking
-[17]/[32] David becomes hungry
-[17]/[32] David gets the right fork
-[17]/[33] David is thinking
-[12]/[26] Bob gets the right fork
-[12]/[26] Bob gets the left fork
-[5]/[39] Esan becomes hungry
-[13]/[26] Bob finishes 12th dinner
-[13]/[27] Bob is thinking
-[13]/[27] Bob becomes hungry
-[13]/[27] Bob gets the right fork
-[13]/[27] Bob gets the left fork
-[5]/[40] Esan is thinking
-[14]/[27] Bob finishes 13th dinner
-[14]/[28] Bob is thinking
-[14]/[28] Bob becomes hungry
-[14]/[28] Bob gets the right fork
-[14]/[28] Bob gets the left fork
-[5]/[40] Esan becomes hungry
-[5]/[41] Esan is thinking
-[5]/[41] Esan becomes hungry
-[5]/[42] Esan is thinking
-[9]/[35] Alice becomes hungry
-[9]/[35] Alice gets the right fork
-[9]/[35] Alice gets the left fork
-[17]/[33] David becomes hungry
-[9]/[28] Carol becomes hungry
-[5]/[42] Esan becomes hungry
-[17]/[34] David is thinking
-[5]/[43] Esan is thinking
-[5]/[43] Esan becomes hungry
-[5]/[44] Esan is thinking
-[9]/[28] Carol gets the right fork
-[9]/[29] Carol is thinking
-[15]/[28] Bob finishes 14th dinner
-[15]/[29] Bob is thinking
-[15]/[29] Bob becomes hungry
-[15]/[29] Bob gets the right fork
-[15]/[29] Bob gets the left fork
-[16]/[29] Bob finishes 15th dinner
-[16]/[30] Bob is thinking
-[16]/[30] Bob becomes hungry
-[16]/[30] Bob gets the right fork
-[16]/[30] Bob gets the left fork
-[17]/[30] Bob finishes 16th dinner
-[17]/[31] Bob is thinking
-[5]/[44] Esan becomes hungry
-[5]/[44] Esan gets the right fork
-[5]/[44] Esan gets the left fork
-[6]/[44] Esan finishes 5th dinner
-[6]/[45] Esan is thinking
-[17]/[34] David becomes hungry
-[9]/[29] Carol becomes hungry
+[10]/[22] David is thinking
+[9]/[23] Esan becomes hungry
+[9]/[23] Esan gets the right fork
+[9]/[23] Esan gets the left fork
+[7]/[30] Bob becomes hungry
+[7]/[30] Bob gets the right fork
+[7]/[31] Bob is thinking
+[11]/[23] Alice finishes 10th dinner
+[11]/[24] Alice is thinking
+[11]/[24] Alice becomes hungry
+[11]/[24] Alice gets the right fork
+[11]/[24] Alice gets the left fork
+[6]/[27] Carol becomes hungry
+[6]/[28] Carol is thinking
+[12]/[24] Alice finishes 11th dinner
+[12]/[25] Alice is thinking
+[10]/[22] David becomes hungry
+[10]/[22] David gets the right fork
+[10]/[22] David gets the left fork
+[6]/[28] Carol becomes hungry
+[6]/[29] Carol is thinking
+[6]/[29] Carol becomes hungry
+[6]/[30] Carol is thinking
+[10]/[23] Esan finishes 9th dinner
+[10]/[24] Esan is thinking
+[12]/[25] Alice becomes hungry
+[12]/[25] Alice gets the right fork
+[12]/[26] Alice is thinking
+[12]/[26] Alice becomes hungry
+[12]/[26] Alice gets the right fork
+[12]/[27] Alice is thinking
+[7]/[31] Bob becomes hungry
+[7]/[32] Bob is thinking
+[6]/[30] Carol becomes hungry
+[6]/[30] Carol gets the right fork
+[6]/[30] Carol gets the left fork
+[7]/[32] Bob becomes hungry
+[7]/[33] Bob is thinking
+[12]/[27] Alice becomes hungry
+[12]/[28] Alice is thinking
+[11]/[22] David finishes 10th dinner
+[11]/[23] David is thinking
+[10]/[24] Esan becomes hungry
+[10]/[24] Esan gets the right fork
+[10]/[25] Esan is thinking
+[7]/[33] Bob becomes hungry
+[7]/[33] Bob gets the right fork
+[7]/[33] Bob gets the left fork
+[8]/[33] Bob finishes 7th dinner
+[8]/[34] Bob is thinking
+[7]/[30] Carol finishes 6th dinner
+[7]/[31] Carol is thinking
+[12]/[28] Alice becomes hungry
+[12]/[28] Alice gets the right fork
+[12]/[28] Alice gets the left fork
+[7]/[31] Carol becomes hungry
+[7]/[31] Carol gets the right fork
+[7]/[32] Carol is thinking
+[8]/[34] Bob becomes hungry
+[8]/[34] Bob gets the right fork
+[8]/[34] Bob gets the left fork
+[7]/[32] Carol becomes hungry
+[7]/[32] Carol gets the right fork
+[7]/[33] Carol is thinking
+[11]/[23] David becomes hungry
+[11]/[24] David is thinking
+[7]/[33] Carol becomes hungry
+[7]/[33] Carol gets the right fork
+[7]/[34] Carol is thinking
+[10]/[25] Esan becomes hungry
+[10]/[26] Esan is thinking
+[11]/[24] David becomes hungry
+[11]/[25] David is thinking
+[7]/[34] Carol becomes hungry
+[7]/[34] Carol gets the right fork
+[7]/[35] Carol is thinking
+[13]/[28] Alice finishes 12th dinner
+[13]/[29] Alice is thinking
+[9]/[34] Bob finishes 8th dinner
+[9]/[35] Bob is thinking
+[13]/[29] Alice becomes hungry
+[13]/[29] Alice gets the right fork
+[13]/[29] Alice gets the left fork
+[9]/[35] Bob becomes hungry
+[9]/[35] Bob gets the right fork
+[9]/[35] Bob gets the left fork
+[10]/[26] Esan becomes hungry
+[10]/[27] Esan is thinking
+[10]/[27] Esan becomes hungry
+[10]/[28] Esan is thinking
+[10]/[28] Esan becomes hungry
+[10]/[29] Esan is thinking
+[11]/[25] David becomes hungry
+[11]/[26] David is thinking
+[14]/[29] Alice finishes 13th dinner
+[14]/[30] Alice is thinking
+[10]/[35] Bob finishes 9th dinner
+[10]/[36] Bob is thinking
+[7]/[35] Carol becomes hungry
+[7]/[35] Carol gets the right fork
+[7]/[35] Carol gets the left fork
+[14]/[30] Alice becomes hungry
+[14]/[31] Alice is thinking
+[14]/[31] Alice becomes hungry
+[14]/[32] Alice is thinking
+[11]/[26] David becomes hungry
+[11]/[26] David gets the right fork
+[11]/[26] David gets the left fork
+[12]/[26] David finishes 11th dinner
+[12]/[27] David is thinking
+[10]/[36] Bob becomes hungry
+[10]/[36] Bob gets the right fork
+[10]/[36] Bob gets the left fork
+[8]/[35] Carol finishes 7th dinner
+[8]/[36] Carol is thinking
+[14]/[32] Alice becomes hungry
+[14]/[32] Alice gets the right fork
+[14]/[32] Alice gets the left fork
+[10]/[29] Esan becomes hungry
+[10]/[30] Esan is thinking
+[10]/[30] Esan becomes hungry
+[10]/[31] Esan is thinking
+[15]/[32] Alice finishes 14th dinner
+[15]/[33] Alice is thinking
+[8]/[36] Carol becomes hungry
+[8]/[36] Carol gets the right fork
+[8]/[36] Carol gets the left fork
+[11]/[36] Bob finishes 10th dinner
+[11]/[37] Bob is thinking
+[12]/[27] David becomes hungry
+[12]/[27] David gets the right fork
+[12]/[27] David gets the left fork
+[11]/[37] Bob becomes hungry
+[11]/[38] Bob is thinking
+[10]/[31] Esan becomes hungry
+[10]/[31] Esan gets the right fork
+[10]/[32] Esan is thinking
+[15]/[33] Alice becomes hungry
+[15]/[34] Alice is thinking
+[9]/[36] Carol finishes 8th dinner
+[9]/[37] Carol is thinking
+[15]/[34] Alice becomes hungry
+[15]/[34] Alice gets the right fork
+[15]/[35] Alice is thinking
+[13]/[27] David finishes 12th dinner
+[13]/[28] David is thinking
+[15]/[35] Alice becomes hungry
+[15]/[35] Alice gets the right fork
+[15]/[35] Alice gets the left fork
+[11]/[38] Bob becomes hungry
+[11]/[38] Bob gets the right fork
+[11]/[38] Bob gets the left fork
+[10]/[32] Esan becomes hungry
+[10]/[33] Esan is thinking
+[16]/[35] Alice finishes 15th dinner
+[16]/[36] Alice is thinking
+[9]/[37] Carol becomes hungry
+[9]/[37] Carol gets the right fork
+[9]/[37] Carol gets the left fork
+[13]/[28] David becomes hungry
+[13]/[28] David gets the right fork
+[13]/[29] David is thinking
+[12]/[38] Bob finishes 11th dinner
+[12]/[39] Bob is thinking
+[10]/[37] Carol finishes 9th dinner
+[10]/[38] Carol is thinking
+[13]/[29] David becomes hungry
+[13]/[29] David gets the right fork
+[13]/[29] David gets the left fork
+[12]/[39] Bob becomes hungry
+[12]/[40] Bob is thinking
+[10]/[33] Esan becomes hungry
+[10]/[33] Esan gets the right fork
+[10]/[33] Esan gets the left fork
+[10]/[38] Carol becomes hungry
+[10]/[39] Carol is thinking
+[16]/[36] Alice becomes hungry
+[16]/[36] Alice gets the right fork
+[16]/[37] Alice is thinking
+[11]/[33] Esan finishes 10th dinner
+[11]/[34] Esan is thinking
+[14]/[29] David finishes 13th dinner
+[14]/[30] David is thinking
+[10]/[39] Carol becomes hungry
+[10]/[39] Carol gets the right fork
+[10]/[39] Carol gets the left fork
+[11]/[34] Esan becomes hungry
+[11]/[34] Esan gets the right fork
+[11]/[35] Esan is thinking
+[12]/[40] Bob becomes hungry
+[12]/[40] Bob gets the right fork
+[12]/[40] Bob gets the left fork
+[13]/[40] Bob finishes 12th dinner
+[13]/[41] Bob is thinking
+[16]/[37] Alice becomes hungry
+[16]/[38] Alice is thinking
+[14]/[30] David becomes hungry
+[14]/[30] David gets the right fork
+[14]/[30] David gets the left fork
+[11]/[39] Carol finishes 10th dinner
+[16]/[38] Alice becomes hungry
+[11]/[40] Carol is thinking
+[16]/[38] Alice gets the right fork
+[16]/[39] Alice is thinking
+[11]/[35] Esan becomes hungry
+[11]/[35] Esan gets the right fork
+[11]/[35] Esan gets the left fork
+[13]/[41] Bob becomes hungry
+[13]/[42] Bob is thinking
+[15]/[30] David finishes 14th dinner
+[15]/[31] David is thinking
+[16]/[39] Alice becomes hungry
+[16]/[39] Alice gets the right fork
+[16]/[39] Alice gets the left fork
+[11]/[40] Carol becomes hungry
+[11]/[41] Carol is thinking
+[17]/[39] Alice finishes 16th dinner
+[17]/[40] Alice is thinking
+[12]/[35] Esan finishes 11th dinner
+[12]/[36] Esan is thinking
+[13]/[42] Bob becomes hungry
+[13]/[42] Bob gets the right fork
+[13]/[42] Bob gets the left fork
+[17]/[40] Alice becomes hungry
+[17]/[40] Alice gets the right fork
+[17]/[40] Alice gets the left fork
+[11]/[41] Carol becomes hungry
+[11]/[41] Carol gets the right fork
+[11]/[42] Carol is thinking
+[14]/[42] Bob finishes 13th dinner
+[14]/[43] Bob is thinking
+[15]/[31] David becomes hungry
+[15]/[32] David is thinking
+[18]/[40] Alice finishes 17th dinner
+[18]/[41] Alice is thinking
+[12]/[36] Esan becomes hungry
+[12]/[36] Esan gets the right fork
+[12]/[36] Esan gets the left fork
+[11]/[42] Carol becomes hungry
+[11]/[43] Carol is thinking
+[14]/[43] Bob becomes hungry
+[14]/[43] Bob gets the right fork
+[14]/[44] Bob is thinking
+[15]/[32] David becomes hungry
+[15]/[32] David gets the right fork
+[15]/[32] David gets the left fork
+[11]/[43] Carol becomes hungry
+[11]/[44] Carol is thinking
+[16]/[32] David finishes 15th dinner
+[16]/[33] David is thinking
+[14]/[44] Bob becomes hungry
+[14]/[44] Bob gets the right fork
+[14]/[45] Bob is thinking
+[18]/[41] Alice becomes hungry
+[18]/[41] Alice gets the right fork
+[18]/[41] Alice gets the left fork
+[11]/[44] Carol becomes hungry
+[11]/[45] Carol is thinking
+[11]/[45] Carol becomes hungry
+[11]/[46] Carol is thinking
+[11]/[46] Carol becomes hungry
+[11]/[47] Carol is thinking
+[11]/[47] Carol becomes hungry
+[11]/[48] Carol is thinking
+[13]/[36] Esan finishes 12th dinner
+[13]/[37] Esan is thinking
+[16]/[33] David becomes hungry
+[16]/[34] David is thinking
+[13]/[37] Esan becomes hungry
+[13]/[37] Esan gets the right fork
+[13]/[37] Esan gets the left fork
+[14]/[37] Esan finishes 13th dinner
+[14]/[38] Esan is thinking
+[19]/[41] Alice finishes 18th dinner
+[19]/[42] Alice is thinking
+[14]/[45] Bob becomes hungry
+[14]/[45] Bob gets the right fork
+[14]/[45] Bob gets the left fork
+[11]/[48] Carol becomes hungry
+[11]/[48] Carol gets the right fork
+[11]/[48] Carol gets the left fork
+[15]/[45] Bob finishes 14th dinner
+[15]/[46] Bob is thinking
+[14]/[38] Esan becomes hungry
+[14]/[38] Esan gets the right fork
+[14]/[39] Esan is thinking
+[16]/[34] David becomes hungry
+[16]/[34] David gets the right fork
+[16]/[34] David gets the left fork
+[19]/[42] Alice becomes hungry
+[19]/[43] Alice is thinking
+[15]/[46] Bob becomes hungry
+[15]/[47] Bob is thinking
+[15]/[47] Bob becomes hungry
+[15]/[48] Bob is thinking
+[17]/[34] David finishes 16th dinner
 [17]/[35] David is thinking
-[10]/[35] Alice finishes 9th dinner
-[9]/[29] Carol gets the right fork
-[17]/[31] Bob becomes hungry
+[12]/[48] Carol finishes 11th dinner
+[12]/[49] Carol is thinking
+[14]/[39] Esan becomes hungry
+[14]/[39] Esan gets the right fork
+[14]/[39] Esan gets the left fork
+[12]/[49] Carol becomes hungry
+[12]/[50] Carol is thinking
+[19]/[43] Alice becomes hungry
+[19]/[43] Alice gets the right fork
+[19]/[43] Alice gets the left fork
+[15]/[48] Bob becomes hungry
+[15]/[48] Bob gets the right fork
+[15]/[49] Bob is thinking
 [17]/[35] David becomes hungry
-[10]/[36] Alice is thinking
-[17]/[31] Bob gets the right fork
-[9]/[29] Carol gets the left fork
-[10]/[29] Carol finishes 9th dinner
-[17]/[31] Bob gets the left fork
-[10]/[30] Carol is thinking
-[10]/[30] Carol becomes hungry
-[6]/[45] Esan becomes hungry
-[10]/[30] Carol gets the right fork
-[10]/[30] Carol gets the left fork
-[6]/[46] Esan is thinking
-[6]/[46] Esan becomes hungry
-[6]/[47] Esan is thinking
-[17]/[35] David gets the right fork
-[6]/[47] Esan becomes hungry
 [17]/[36] David is thinking
-[6]/[48] Esan is thinking
-[6]/[48] Esan becomes hungry
-[6]/[49] Esan is thinking
+[12]/[50] Carol becomes hungry
+[12]/[51] Carol is thinking
+[15]/[49] Bob becomes hungry
+[15]/[49] Bob gets the right fork
+[15]/[50] Bob is thinking
+[20]/[43] Alice finishes 19th dinner
+[20]/[44] Alice is thinking
+[15]/[39] Esan finishes 14th dinner
+[15]/[40] Esan is thinking
 [17]/[36] David becomes hungry
 [17]/[36] David gets the right fork
-[17]/[37] David is thinking
-[17]/[37] David becomes hungry
-[17]/[37] David gets the right fork
-[17]/[38] David is thinking
-[17]/[38] David becomes hungry
-[17]/[38] David gets the right fork
-[17]/[39] David is thinking
-[17]/[39] David becomes hungry
-[17]/[39] David gets the right fork
-[17]/[40] David is thinking
-[6]/[49] Esan becomes hungry
-[10]/[36] Alice becomes hungry
-[6]/[50] Esan is thinking
-[10]/[37] Alice is thinking
-[18]/[31] Bob finishes 17th dinner
-[6]/[50] Esan becomes hungry
-[11]/[30] Carol finishes 10th dinner
-[6]/[50] Esan gets the right fork
-[11]/[31] Carol is thinking
-[18]/[32] Bob is thinking
-[10]/[37] Alice becomes hungry
-[18]/[32] Bob becomes hungry
-[18]/[32] Bob gets the right fork
-[18]/[33] Bob is thinking
-[6]/[50] Esan gets the left fork
-[10]/[37] Alice gets the right fork
-[10]/[37] Alice gets the left fork
-[7]/[50] Esan finishes 6th dinner
-[7]/[51] Esan is thinking
-[11]/[37] Alice finishes 10th dinner
-[11]/[38] Alice is thinking
-[11]/[38] Alice becomes hungry
-[11]/[38] Alice gets the right fork
-[11]/[38] Alice gets the left fork
-[12]/[38] Alice finishes 11th dinner
-[12]/[39] Alice is thinking
-[11]/[31] Carol becomes hungry
-[11]/[31] Carol gets the right fork
-[11]/[31] Carol gets the left fork
-[7]/[51] Esan becomes hungry
-[12]/[31] Carol finishes 11th dinner
-[12]/[32] Carol is thinking
-[17]/[40] David becomes hungry
-[17]/[40] David gets the right fork
-[7]/[51] Esan gets the right fork
-[17]/[40] David gets the left fork
-[7]/[51] Esan gets the left fork
-[18]/[40] David finishes 17th dinner
+[17]/[36] David gets the left fork
+[20]/[44] Alice becomes hungry
+[20]/[44] Alice gets the right fork
+[20]/[45] Alice is thinking
+[12]/[51] Carol becomes hungry
+[12]/[51] Carol gets the right fork
+[12]/[51] Carol gets the left fork
+[15]/[40] Esan becomes hungry
+[15]/[40] Esan gets the right fork
+[15]/[41] Esan is thinking
+[20]/[45] Alice becomes hungry
+[20]/[46] Alice is thinking
+[18]/[36] David finishes 17th dinner
+[18]/[37] David is thinking
+[15]/[50] Bob becomes hungry
+[15]/[50] Bob gets the right fork
+[15]/[50] Bob gets the left fork
+[15]/[41] Esan becomes hungry
+[15]/[42] Esan is thinking
+[15]/[42] Esan becomes hungry
+[15]/[43] Esan is thinking
+[16]/[50] Bob finishes 15th dinner
+[16]/[51] Bob is thinking
+[15]/[43] Esan becomes hungry
+[15]/[43] Esan gets the right fork
+[15]/[44] Esan is thinking
+[15]/[44] Esan becomes hungry
+[15]/[44] Esan gets the right fork
+[15]/[45] Esan is thinking
+[13]/[51] Carol finishes 12th dinner
+[13]/[52] Carol is thinking
+[16]/[51] Bob becomes hungry
+[16]/[51] Bob gets the right fork
+[16]/[51] Bob gets the left fork
+[20]/[46] Alice becomes hungry
+[20]/[46] Alice gets the right fork
+[20]/[46] Alice gets the left fork
+[13]/[52] Carol becomes hungry
+[13]/[52] Carol gets the right fork
+[13]/[53] Carol is thinking
+[18]/[37] David becomes hungry
+[18]/[38] David is thinking
+[17]/[51] Bob finishes 16th dinner
+[17]/[52] Bob is thinking
+[15]/[45] Esan becomes hungry
+[15]/[45] Esan gets the right fork
+[15]/[45] Esan gets the left fork
+[13]/[53] Carol becomes hungry
+[13]/[54] Carol is thinking
+[17]/[52] Bob becomes hungry
+[17]/[52] Bob gets the right fork
+[17]/[53] Bob is thinking
+[18]/[38] David becomes hungry
+[18]/[39] David is thinking
+[17]/[53] Bob becomes hungry
+[17]/[53] Bob gets the right fork
+[17]/[54] Bob is thinking
+[21]/[46] Alice finishes 20th dinner
+[21]/[47] Alice is thinking
+[16]/[45] Esan finishes 15th dinner
+[16]/[46] Esan is thinking
+[13]/[54] Carol becomes hungry
+[13]/[54] Carol gets the right fork
+[13]/[54] Carol gets the left fork
+[17]/[54] Bob becomes hungry
+[17]/[54] Bob gets the right fork
+[17]/[54] Bob gets the left fork
+[16]/[46] Esan becomes hungry
+[16]/[47] Esan is thinking
+[18]/[54] Bob finishes 17th dinner
+[18]/[55] Bob is thinking
+[18]/[55] Bob becomes hungry
+[18]/[55] Bob gets the right fork
+[18]/[55] Bob gets the left fork
+[18]/[39] David becomes hungry
+[18]/[39] David gets the right fork
+[18]/[40] David is thinking
+[16]/[47] Esan becomes hungry
+[16]/[48] Esan is thinking
+[16]/[48] Esan becomes hungry
+[16]/[49] Esan is thinking
+[21]/[47] Alice becomes hungry
+[21]/[48] Alice is thinking
+[14]/[54] Carol finishes 13th dinner
+[14]/[55] Carol is thinking
+[18]/[40] David becomes hungry
+[18]/[40] David gets the right fork
 [18]/[41] David is thinking
-[18]/[33] Bob becomes hungry
-[18]/[33] Bob gets the right fork
-[18]/[34] Bob is thinking
-[12]/[32] Carol becomes hungry
-[12]/[33] Carol is thinking
-[12]/[39] Alice becomes hungry
-[8]/[51] Esan finishes 7th dinner
+[21]/[48] Alice becomes hungry
+[21]/[48] Alice gets the right fork
+[21]/[48] Alice gets the left fork
+[16]/[49] Esan becomes hungry
+[16]/[50] Esan is thinking
+[19]/[55] Bob finishes 18th dinner
+[19]/[56] Bob is thinking
 [18]/[41] David becomes hungry
-[8]/[52] Esan is thinking
-[18]/[41] David gets the right fork
-[18]/[41] David gets the left fork
-[8]/[52] Esan becomes hungry
-[12]/[39] Alice gets the right fork
-[18]/[34] Bob becomes hungry
-[12]/[40] Alice is thinking
-[18]/[35] Bob is thinking
-[8]/[52] Esan gets the right fork
-[8]/[52] Esan gets the left fork
-[12]/[33] Carol becomes hungry
-[12]/[34] Carol is thinking
-[19]/[41] David finishes 18th dinner
-[19]/[42] David is thinking
-[9]/[52] Esan finishes 8th dinner
-[9]/[53] Esan is thinking
-[18]/[35] Bob becomes hungry
-[12]/[40] Alice becomes hungry
-[18]/[35] Bob gets the right fork
-[12]/[40] Alice gets the right fork
-[12]/[40] Alice gets the left fork
-[18]/[35] Bob gets the left fork
-[13]/[40] Alice finishes 12th dinner
-[19]/[35] Bob finishes 18th dinner
-[13]/[41] Alice is thinking
-[19]/[36] Bob is thinking
-[12]/[34] Carol becomes hungry
-[12]/[34] Carol gets the right fork
-[12]/[34] Carol gets the left fork
-[13]/[34] Carol finishes 12th dinner
-[13]/[35] Carol is thinking
-[13]/[41] Alice becomes hungry
-[13]/[41] Alice gets the right fork
-[13]/[41] Alice gets the left fork
-[19]/[42] David becomes hungry
+[18]/[42] David is thinking
+[16]/[50] Esan becomes hungry
+[16]/[50] Esan gets the right fork
+[16]/[50] Esan gets the left fork
+[17]/[50] Esan finishes 16th dinner
+[17]/[51] Esan is thinking
+[14]/[55] Carol becomes hungry
+[14]/[55] Carol gets the right fork
+[14]/[56] Carol is thinking
+[22]/[48] Alice finishes 21th dinner
+[22]/[49] Alice is thinking
+[22]/[49] Alice becomes hungry
+[22]/[49] Alice gets the right fork
+[22]/[49] Alice gets the left fork
+[23]/[49] Alice finishes 22th dinner
+[23]/[50] Alice is thinking
+[14]/[56] Carol becomes hungry
+[14]/[56] Carol gets the right fork
+[14]/[56] Carol gets the left fork
+[19]/[56] Bob becomes hungry
+[19]/[56] Bob gets the right fork
+[19]/[56] Bob gets the left fork
+[20]/[56] Bob finishes 19th dinner
+[20]/[57] Bob is thinking
+[18]/[42] David becomes hungry
+[18]/[42] David gets the right fork
+[18]/[42] David gets the left fork
+[20]/[57] Bob becomes hungry
+[20]/[58] Bob is thinking
+[17]/[51] Esan becomes hungry
+[17]/[51] Esan gets the right fork
+[17]/[52] Esan is thinking
+[17]/[52] Esan becomes hungry
+[17]/[52] Esan gets the right fork
+[17]/[53] Esan is thinking
+[20]/[58] Bob becomes hungry
+[20]/[59] Bob is thinking
+[15]/[56] Carol finishes 14th dinner
+[15]/[57] Carol is thinking
+[23]/[50] Alice becomes hungry
+[23]/[50] Alice gets the right fork
+[23]/[51] Alice is thinking
+[19]/[42] David finishes 18th dinner
 [19]/[43] David is thinking
+[17]/[53] Esan becomes hungry
+[17]/[53] Esan gets the right fork
+[17]/[53] Esan gets the left fork
+[20]/[59] Bob becomes hungry
+[20]/[59] Bob gets the right fork
+[20]/[60] Bob is thinking
+[15]/[57] Carol becomes hungry
+[15]/[58] Carol is thinking
+[23]/[51] Alice becomes hungry
+[23]/[51] Alice gets the right fork
+[23]/[51] Alice gets the left fork
+[24]/[51] Alice finishes 23th dinner
+[24]/[52] Alice is thinking
+[20]/[60] Bob becomes hungry
+[20]/[60] Bob gets the right fork
+[20]/[61] Bob is thinking
+[18]/[53] Esan finishes 17th dinner
+[18]/[54] Esan is thinking
+[15]/[58] Carol becomes hungry
+[15]/[58] Carol gets the right fork
+[15]/[58] Carol gets the left fork
 [19]/[43] David becomes hungry
-[19]/[44] David is thinking
-[9]/[53] Esan becomes hungry
-[9]/[53] Esan gets the right fork
-[9]/[53] Esan gets the left fork
-[19]/[36] Bob becomes hungry
-[19]/[36] Bob gets the right fork
-[19]/[37] Bob is thinking
-[13]/[35] Carol becomes hungry
-[13]/[36] Carol is thinking
-[19]/[44] David becomes hungry
-[19]/[45] David is thinking
-[19]/[45] David becomes hungry
-[19]/[46] David is thinking
-[19]/[46] David becomes hungry
-[19]/[47] David is thinking
-[10]/[53] Esan finishes 9th dinner
-[19]/[37] Bob becomes hungry
-[10]/[54] Esan is thinking
-[19]/[37] Bob gets the right fork
-[19]/[37] Bob gets the left fork
-[20]/[37] Bob finishes 19th dinner
-[20]/[38] Bob is thinking
-[14]/[41] Alice finishes 13th dinner
-[14]/[42] Alice is thinking
-[14]/[42] Alice becomes hungry
-[14]/[42] Alice gets the right fork
-[14]/[42] Alice gets the left fork
-[15]/[42] Alice finishes 14th dinner
-[15]/[43] Alice is thinking
-[13]/[36] Carol becomes hungry
-[13]/[36] Carol gets the right fork
-[13]/[36] Carol gets the left fork
-[14]/[36] Carol finishes 13th dinner
-[14]/[37] Carol is thinking
-[14]/[37] Carol becomes hungry
-[14]/[37] Carol gets the right fork
-[14]/[37] Carol gets the left fork
-[15]/[37] Carol finishes 14th dinner
-[15]/[38] Carol is thinking
-[10]/[54] Esan becomes hungry
-[10]/[54] Esan gets the right fork
-[10]/[54] Esan gets the left fork
-[11]/[54] Esan finishes 10th dinner
-[11]/[55] Esan is thinking
-[11]/[55] Esan becomes hungry
-[11]/[55] Esan gets the right fork
-[11]/[55] Esan gets the left fork
-[12]/[55] Esan finishes 11th dinner
-[12]/[56] Esan is thinking
-[12]/[56] Esan becomes hungry
-[12]/[56] Esan gets the right fork
-[12]/[56] Esan gets the left fork
-[13]/[56] Esan finishes 12th dinner
-[13]/[57] Esan is thinking
-[15]/[43] Alice becomes hungry
-[20]/[38] Bob becomes hungry
-[19]/[47] David becomes hungry
-[20]/[38] Bob gets the right fork
-[20]/[38] Bob gets the left fork
-[19]/[47] David gets the right fork
-[19]/[48] David is thinking
-[15]/[43] Alice gets the right fork
-[15]/[43] Alice gets the left fork
-[16]/[43] Alice finishes 15th dinner
-[16]/[44] Alice is thinking
-[16]/[44] Alice becomes hungry
-[16]/[44] Alice gets the right fork
-[16]/[44] Alice gets the left fork
-[17]/[44] Alice finishes 16th dinner
-[17]/[45] Alice is thinking
-[15]/[38] Carol becomes hungry
-[15]/[38] Carol gets the right fork
-[15]/[38] Carol gets the left fork
-[17]/[45] Alice becomes hungry
-[13]/[57] Esan becomes hungry
-[17]/[46] Alice is thinking
-[13]/[58] Esan is thinking
-[19]/[48] David becomes hungry
-[21]/[38] Bob finishes 20th dinner
-[19]/[48] David gets the right fork
-[19]/[49] David is thinking
-[21]/[39] Bob is thinking
-[19]/[49] David becomes hungry
-[19]/[49] David gets the right fork
-[19]/[49] David gets the left fork
-[16]/[38] Carol finishes 15th dinner
-[16]/[39] Carol is thinking
-[17]/[46] Alice becomes hungry
-[20]/[49] David finishes 19th dinner
-[17]/[46] Alice gets the right fork
-[20]/[50] David is thinking
-[17]/[46] Alice gets the left fork
-[18]/[46] Alice finishes 17th dinner
-[18]/[47] Alice is thinking
-[18]/[47] Alice becomes hungry
-[18]/[47] Alice gets the right fork
-[18]/[47] Alice gets the left fork
-[13]/[58] Esan becomes hungry
-[21]/[39] Bob becomes hungry
-[13]/[58] Esan gets the right fork
-[13]/[58] Esan gets the left fork
-[21]/[39] Bob gets the right fork
-[21]/[40] Bob is thinking
-[14]/[58] Esan finishes 13th dinner
-[14]/[59] Esan is thinking
-[14]/[59] Esan becomes hungry
-[14]/[59] Esan gets the right fork
-[14]/[59] Esan gets the left fork
-[15]/[59] Esan finishes 14th dinner
-[15]/[60] Esan is thinking
-[16]/[39] Carol becomes hungry
-[16]/[39] Carol gets the right fork
-[16]/[40] Carol is thinking
-[19]/[47] Alice finishes 18th dinner
-[19]/[48] Alice is thinking
-[15]/[60] Esan becomes hungry
-[15]/[60] Esan gets the right fork
-[15]/[60] Esan gets the left fork
-[20]/[50] David becomes hungry
-[20]/[50] David gets the right fork
-[20]/[50] David gets the left fork
-[21]/[40] Bob becomes hungry
-[21]/[41] Bob is thinking
-[21]/[41] Bob becomes hungry
-[21]/[42] Bob is thinking
-[16]/[60] Esan finishes 15th dinner
-[16]/[61] Esan is thinking
-[16]/[40] Carol becomes hungry
-[16]/[40] Carol gets the right fork
-[16]/[40] Carol gets the left fork
-[17]/[40] Carol finishes 16th dinner
-[19]/[48] Alice becomes hungry
-[17]/[41] Carol is thinking
-[19]/[48] Alice gets the right fork
-[19]/[49] Alice is thinking
-[19]/[49] Alice becomes hungry
-[19]/[49] Alice gets the right fork
-[19]/[50] Alice is thinking
-[16]/[61] Esan becomes hungry
-[16]/[61] Esan gets the right fork
-[16]/[61] Esan gets the left fork
-[17]/[61] Esan finishes 16th dinner
-[17]/[62] Esan is thinking
-[21]/[50] David finishes 20th dinner
-[21]/[42] Bob becomes hungry
-[21]/[51] David is thinking
-[21]/[42] Bob gets the right fork
-[21]/[42] Bob gets the left fork
-[22]/[42] Bob finishes 21th dinner
-[22]/[43] Bob is thinking
-[19]/[50] Alice becomes hungry
-[19]/[50] Alice gets the right fork
-[19]/[50] Alice gets the left fork
-[17]/[41] Carol becomes hungry
-[17]/[41] Carol gets the right fork
-[17]/[42] Carol is thinking
-[17]/[42] Carol becomes hungry
-[17]/[42] Carol gets the right fork
-[17]/[43] Carol is thinking
-[17]/[43] Carol becomes hungry
-[17]/[43] Carol gets the right fork
-[17]/[44] Carol is thinking
-[17]/[44] Carol becomes hungry
-[17]/[44] Carol gets the right fork
-[17]/[45] Carol is thinking
-[17]/[45] Carol becomes hungry
-[17]/[45] Carol gets the right fork
-[17]/[46] Carol is thinking
-[17]/[46] Carol becomes hungry
-[17]/[46] Carol gets the right fork
-[17]/[47] Carol is thinking
-[17]/[62] Esan becomes hungry
-[17]/[62] Esan gets the right fork
-[17]/[62] Esan gets the left fork
-[22]/[43] Bob becomes hungry
-[22]/[43] Bob gets the right fork
-[22]/[44] Bob is thinking
-[21]/[51] David becomes hungry
-[21]/[52] David is thinking
-[22]/[44] Bob becomes hungry
-[22]/[44] Bob gets the right fork
-[22]/[45] Bob is thinking
-[21]/[52] David becomes hungry
-[21]/[53] David is thinking
-[21]/[53] David becomes hungry
-[21]/[54] David is thinking
-[20]/[50] Alice finishes 19th dinner
-[20]/[51] Alice is thinking
-[20]/[51] Alice becomes hungry
-[20]/[51] Alice gets the right fork
-[20]/[51] Alice gets the left fork
-[21]/[51] Alice finishes 20th dinner
-[21]/[52] Alice is thinking
-[21]/[52] Alice becomes hungry
-[21]/[52] Alice gets the right fork
-[21]/[52] Alice gets the left fork
-[17]/[47] Carol becomes hungry
-[17]/[48] Carol is thinking
-[17]/[48] Carol becomes hungry
-[17]/[49] Carol is thinking
-[18]/[62] Esan finishes 17th dinner
-[18]/[63] Esan is thinking
-[21]/[54] David becomes hungry
-[21]/[55] David is thinking
-[18]/[63] Esan becomes hungry
-[18]/[63] Esan gets the right fork
-[21]/[55] David becomes hungry
-[22]/[45] Bob becomes hungry
-[21]/[56] David is thinking
-[21]/[56] David becomes hungry
-[22]/[45] Bob gets the right fork
-[21]/[57] David is thinking
-[22]/[46] Bob is thinking
-[18]/[63] Esan gets the left fork
-[21]/[57] David becomes hungry
-[21]/[58] David is thinking
-[17]/[49] Carol becomes hungry
-[17]/[50] Carol is thinking
-[22]/[52] Alice finishes 21th dinner
-[22]/[53] Alice is thinking
-[22]/[53] Alice becomes hungry
-[22]/[53] Alice gets the right fork
-[22]/[53] Alice gets the left fork
-[19]/[63] Esan finishes 18th dinner
-[19]/[64] Esan is thinking
-[19]/[64] Esan becomes hungry
-[19]/[64] Esan gets the right fork
-[19]/[64] Esan gets the left fork
-[21]/[58] David becomes hungry
-[21]/[59] David is thinking
-[22]/[46] Bob becomes hungry
-[22]/[46] Bob gets the right fork
-[22]/[47] Bob is thinking
-[17]/[50] Carol becomes hungry
-[23]/[53] Alice finishes 22th dinner
-[17]/[51] Carol is thinking
-[23]/[54] Alice is thinking
-[23]/[54] Alice becomes hungry
-[23]/[54] Alice gets the right fork
-[23]/[54] Alice gets the left fork
-[24]/[54] Alice finishes 23th dinner
-[24]/[55] Alice is thinking
-[20]/[64] Esan finishes 19th dinner
-[21]/[59] David becomes hungry
-[21]/[59] David gets the right fork
-[21]/[59] David gets the left fork
-[20]/[65] Esan is thinking
-[22]/[47] Bob becomes hungry
-[22]/[48] Bob is thinking
-[22]/[48] Bob becomes hungry
-[22]/[49] Bob is thinking
-[17]/[51] Carol becomes hungry
-[17]/[51] Carol gets the right fork
-[17]/[51] Carol gets the left fork
-[24]/[55] Alice becomes hungry
-[24]/[56] Alice is thinking
-[22]/[49] Bob becomes hungry
-[20]/[65] Esan becomes hungry
-[22]/[50] Bob is thinking
-[22]/[50] Bob becomes hungry
-[20]/[65] Esan gets the right fork
-[22]/[51] Bob is thinking
-[20]/[66] Esan is thinking
-[22]/[59] David finishes 21th dinner
-[20]/[66] Esan becomes hungry
-[22]/[60] David is thinking
-[20]/[66] Esan gets the right fork
-[20]/[67] Esan is thinking
-[20]/[67] Esan becomes hungry
-[20]/[67] Esan gets the right fork
-[20]/[68] Esan is thinking
-[24]/[56] Alice becomes hungry
-[24]/[57] Alice is thinking
-[18]/[51] Carol finishes 17th dinner
-[18]/[52] Carol is thinking
-[18]/[52] Carol becomes hungry
-[18]/[52] Carol gets the right fork
-[18]/[52] Carol gets the left fork
-[19]/[52] Carol finishes 18th dinner
-[19]/[53] Carol is thinking
-[19]/[53] Carol becomes hungry
-[19]/[53] Carol gets the right fork
-[19]/[53] Carol gets the left fork
-[20]/[53] Carol finishes 19th dinner
-[20]/[54] Carol is thinking
-[22]/[60] David becomes hungry
-[22]/[60] David gets the right fork
-[22]/[60] David gets the left fork
-[22]/[51] Bob becomes hungry
-[22]/[52] Bob is thinking
-[20]/[68] Esan becomes hungry
-[23]/[60] David finishes 22th dinner
-[20]/[68] Esan gets the right fork
-[23]/[61] David is thinking
-[20]/[68] Esan gets the left fork
-[23]/[61] David becomes hungry
-[23]/[61] David gets the right fork
-[23]/[61] David gets the left fork
-[21]/[68] Esan finishes 20th dinner
-[24]/[61] David finishes 23th dinner
-[21]/[69] Esan is thinking
+[19]/[43] David gets the right fork
+[19]/[43] David gets the left fork
+[24]/[52] Alice becomes hungry
+[24]/[53] Alice is thinking
+[20]/[61] Bob becomes hungry
+[20]/[62] Bob is thinking
+[16]/[58] Carol finishes 15th dinner
+[16]/[59] Carol is thinking
+[20]/[43] David finishes 19th dinner
+[20]/[44] David is thinking
+[20]/[62] Bob becomes hungry
+[20]/[62] Bob gets the right fork
+[20]/[62] Bob gets the left fork
+[24]/[53] Alice becomes hungry
+[24]/[53] Alice gets the right fork
+[24]/[53] Alice gets the left fork
+[18]/[54] Esan becomes hungry
+[18]/[55] Esan is thinking
+[16]/[59] Carol becomes hungry
+[16]/[59] Carol gets the right fork
+[16]/[60] Carol is thinking
+[21]/[62] Bob finishes 20th dinner
+[21]/[63] Bob is thinking
+[20]/[44] David becomes hungry
+[20]/[45] David is thinking
+[20]/[45] David becomes hungry
+[20]/[46] David is thinking
+[21]/[63] Bob becomes hungry
+[21]/[63] Bob gets the right fork
+[21]/[63] Bob gets the left fork
+[25]/[53] Alice finishes 24th dinner
+[25]/[54] Alice is thinking
+[22]/[63] Bob finishes 21th dinner
+[22]/[64] Bob is thinking
+[16]/[60] Carol becomes hungry
+[16]/[60] Carol gets the right fork
+[16]/[60] Carol gets the left fork
+[18]/[55] Esan becomes hungry
+[18]/[55] Esan gets the right fork
+[18]/[56] Esan is thinking
+[22]/[64] Bob becomes hungry
+[22]/[64] Bob gets the right fork
+[22]/[64] Bob gets the left fork
+[25]/[54] Alice becomes hungry
+[25]/[55] Alice is thinking
+[17]/[60] Carol finishes 16th dinner
+[17]/[61] Carol is thinking
+[18]/[56] Esan becomes hungry
+[18]/[57] Esan is thinking
+[25]/[55] Alice becomes hungry
+[25]/[55] Alice gets the right fork
+[25]/[55] Alice gets the left fork
+[20]/[46] David becomes hungry
+[20]/[47] David is thinking
+[23]/[64] Bob finishes 22th dinner
+[23]/[65] Bob is thinking
+[26]/[55] Alice finishes 25th dinner
+[26]/[56] Alice is thinking
+[20]/[47] David becomes hungry
+[20]/[47] David gets the right fork
+[20]/[47] David gets the left fork
+[23]/[65] Bob becomes hungry
+[23]/[66] Bob is thinking
+[26]/[56] Alice becomes hungry
+[26]/[56] Alice gets the right fork
+[26]/[57] Alice is thinking
+[17]/[61] Carol becomes hungry
+[17]/[61] Carol gets the right fork
+[17]/[61] Carol gets the left fork
+[23]/[66] Bob becomes hungry
+[23]/[67] Bob is thinking
+[18]/[57] Esan becomes hungry
+[18]/[57] Esan gets the right fork
+[18]/[58] Esan is thinking
+[26]/[57] Alice becomes hungry
+[26]/[58] Alice is thinking
+[18]/[61] Carol finishes 17th dinner
+[18]/[62] Carol is thinking
+[21]/[47] David finishes 20th dinner
+[21]/[48] David is thinking
+[18]/[58] Esan becomes hungry
+[18]/[58] Esan gets the right fork
+[18]/[58] Esan gets the left fork
+[23]/[67] Bob becomes hungry
+[23]/[67] Bob gets the right fork
+[23]/[68] Bob is thinking
+[23]/[68] Bob becomes hungry
+[23]/[68] Bob gets the right fork
+[23]/[69] Bob is thinking
+[19]/[58] Esan finishes 18th dinner
+[19]/[59] Esan is thinking
+[23]/[69] Bob becomes hungry
+[23]/[69] Bob gets the right fork
+[23]/[69] Bob gets the left fork
+[18]/[62] Carol becomes hungry
+[18]/[62] Carol gets the right fork
+[18]/[62] Carol gets the left fork
+[26]/[58] Alice becomes hungry
+[26]/[59] Alice is thinking
+[19]/[62] Carol finishes 18th dinner
+[19]/[63] Carol is thinking
+[24]/[69] Bob finishes 23th dinner
+[24]/[70] Bob is thinking
+[19]/[59] Esan becomes hungry
+[19]/[59] Esan gets the right fork
+[19]/[59] Esan gets the left fork
+[21]/[48] David becomes hungry
+[21]/[48] David gets the right fork
+[21]/[48] David gets the left fork
+[19]/[63] Carol becomes hungry
+[19]/[64] Carol is thinking
+[24]/[70] Bob becomes hungry
+[24]/[71] Bob is thinking
+[20]/[59] Esan finishes 19th dinner
+[20]/[60] Esan is thinking
+[22]/[48] David finishes 21th dinner
+[22]/[49] David is thinking
+[26]/[59] Alice becomes hungry
+[26]/[59] Alice gets the right fork
+[26]/[59] Alice gets the left fork
+[27]/[59] Alice finishes 26th dinner
+[27]/[60] Alice is thinking
+[19]/[64] Carol becomes hungry
+[19]/[64] Carol gets the right fork
+[19]/[64] Carol gets the left fork
+[27]/[60] Alice becomes hungry
+[27]/[61] Alice is thinking
+[27]/[61] Alice becomes hungry
+[27]/[62] Alice is thinking
+[20]/[64] Carol finishes 19th dinner
+[20]/[65] Carol is thinking
+[27]/[62] Alice becomes hungry
+[27]/[62] Alice gets the right fork
+[27]/[62] Alice gets the left fork
+[24]/[71] Bob becomes hungry
+[24]/[71] Bob gets the right fork
+[24]/[71] Bob gets the left fork
+[25]/[71] Bob finishes 24th dinner
+[25]/[72] Bob is thinking
+[22]/[49] David becomes hungry
+[22]/[50] David is thinking
+[20]/[60] Esan becomes hungry
+[20]/[60] Esan gets the right fork
+[20]/[60] Esan gets the left fork
+[21]/[60] Esan finishes 20th dinner
+[21]/[61] Esan is thinking
+[21]/[61] Esan becomes hungry
+[21]/[61] Esan gets the right fork
+[21]/[61] Esan gets the left fork
+[20]/[65] Carol becomes hungry
+[20]/[66] Carol is thinking
+[22]/[50] David becomes hungry
+[22]/[51] David is thinking
+[28]/[62] Alice finishes 27th dinner
+[28]/[63] Alice is thinking
+[25]/[72] Bob becomes hungry
+[25]/[72] Bob gets the right fork
+[25]/[73] Bob is thinking
+[22]/[61] Esan finishes 21th dinner
+[22]/[62] Esan is thinking
+[22]/[62] Esan becomes hungry
+[22]/[62] Esan gets the right fork
+[22]/[62] Esan gets the left fork
+[22]/[51] David becomes hungry
+[22]/[51] David gets the right fork
+[22]/[51] David gets the left fork
+[20]/[66] Carol becomes hungry
+[20]/[67] Carol is thinking
+[23]/[62] Esan finishes 22th dinner
+[23]/[63] Esan is thinking
+[20]/[67] Carol becomes hungry
+[20]/[67] Carol gets the right fork
+[20]/[67] Carol gets the left fork
+[28]/[63] Alice becomes hungry
+[28]/[64] Alice is thinking
+[25]/[73] Bob becomes hungry
+[25]/[74] Bob is thinking
+[23]/[51] David finishes 22th dinner
+[23]/[52] David is thinking
+[25]/[74] Bob becomes hungry
+[25]/[74] Bob gets the right fork
+[25]/[74] Bob gets the left fork
+[28]/[64] Alice becomes hungry
+[28]/[65] Alice is thinking
+[23]/[63] Esan becomes hungry
+[23]/[64] Esan is thinking
+[23]/[52] David becomes hungry
+[23]/[52] David gets the right fork
+[23]/[53] David is thinking
+[21]/[67] Carol finishes 20th dinner
+[21]/[68] Carol is thinking
+[21]/[68] Carol becomes hungry
+[21]/[68] Carol gets the right fork
+[21]/[68] Carol gets the left fork
+[23]/[53] David becomes hungry
+[23]/[53] David gets the right fork
+[23]/[54] David is thinking
+[28]/[65] Alice becomes hungry
+[28]/[66] Alice is thinking
+[23]/[64] Esan becomes hungry
+[23]/[65] Esan is thinking
+[26]/[74] Bob finishes 25th dinner
+[26]/[75] Bob is thinking
+[28]/[66] Alice becomes hungry
+[28]/[67] Alice is thinking
+[23]/[54] David becomes hungry
+[23]/[54] David gets the right fork
+[23]/[54] David gets the left fork
+[22]/[68] Carol finishes 21th dinner
+[22]/[69] Carol is thinking
+[22]/[69] Carol becomes hungry
+[22]/[69] Carol gets the right fork
+[22]/[69] Carol gets the left fork
+[23]/[65] Esan becomes hungry
+[23]/[65] Esan gets the right fork
+[23]/[66] Esan is thinking
+[26]/[75] Bob becomes hungry
+[26]/[76] Bob is thinking
+[24]/[54] David finishes 23th dinner
+[24]/[55] David is thinking
+[26]/[76] Bob becomes hungry
+[26]/[76] Bob gets the right fork
+[26]/[76] Bob gets the left fork
+[23]/[69] Carol finishes 22th dinner
+[23]/[70] Carol is thinking
+[24]/[55] David becomes hungry
+[24]/[55] David gets the right fork
+[24]/[56] David is thinking
+[28]/[67] Alice becomes hungry
+[28]/[67] Alice gets the right fork
+[28]/[67] Alice gets the left fork
+[23]/[70] Carol becomes hungry
+[23]/[70] Carol gets the right fork
+[23]/[71] Carol is thinking
+[27]/[76] Bob finishes 26th dinner
+[27]/[77] Bob is thinking
+[23]/[66] Esan becomes hungry
+[23]/[66] Esan gets the right fork
+[23]/[66] Esan gets the left fork
+[27]/[77] Bob becomes hungry
+[27]/[77] Bob gets the right fork
+[27]/[78] Bob is thinking
+[24]/[56] David becomes hungry
+[24]/[57] David is thinking
+[29]/[67] Alice finishes 28th dinner
+[29]/[68] Alice is thinking
+[29]/[68] Alice becomes hungry
+[29]/[68] Alice gets the right fork
+[29]/[68] Alice gets the left fork
+[24]/[57] David becomes hungry
+[24]/[58] David is thinking
+[27]/[78] Bob becomes hungry
+[27]/[78] Bob gets the right fork
+[27]/[79] Bob is thinking
+[24]/[66] Esan finishes 23th dinner
+[24]/[67] Esan is thinking
+[23]/[71] Carol becomes hungry
+[23]/[71] Carol gets the right fork
+[23]/[72] Carol is thinking
+[30]/[68] Alice finishes 29th dinner
+[30]/[69] Alice is thinking
+[30]/[69] Alice becomes hungry
+[30]/[69] Alice gets the right fork
+[30]/[69] Alice gets the left fork
+[23]/[72] Carol becomes hungry
+[23]/[72] Carol gets the right fork
+[23]/[73] Carol is thinking
+[31]/[69] Alice finishes 30th dinner
+[31]/[70] Alice is thinking
+[27]/[79] Bob becomes hungry
+[27]/[79] Bob gets the right fork
+[27]/[79] Bob gets the left fork
+[24]/[67] Esan becomes hungry
+[24]/[68] Esan is thinking
+[24]/[58] David becomes hungry
+[24]/[58] David gets the right fork
+[24]/[59] David is thinking
+[24]/[59] David becomes hungry
+[24]/[59] David gets the right fork
+[24]/[60] David is thinking
+[24]/[60] David becomes hungry
+[24]/[60] David gets the right fork
+[24]/[61] David is thinking
+[28]/[79] Bob finishes 27th dinner
+[28]/[80] Bob is thinking
+[31]/[70] Alice becomes hungry
+[31]/[70] Alice gets the right fork
+[31]/[70] Alice gets the left fork
+[23]/[73] Carol becomes hungry
+[23]/[73] Carol gets the right fork
+[23]/[74] Carol is thinking
+[24]/[61] David becomes hungry
 [24]/[62] David is thinking
-[21]/[69] Esan becomes hungry
-[21]/[69] Esan gets the right fork
-[21]/[69] Esan gets the left fork
-[22]/[69] Esan finishes 21th dinner
-[22]/[70] Esan is thinking
-[24]/[57] Alice becomes hungry
-[24]/[57] Alice gets the right fork
-[24]/[57] Alice gets the left fork
-[20]/[54] Carol becomes hungry
-[25]/[57] Alice finishes 24th dinner
-[25]/[58] Alice is thinking
-[20]/[54] Carol gets the right fork
-[20]/[54] Carol gets the left fork
-[21]/[54] Carol finishes 20th dinner
-[21]/[55] Carol is thinking
-[21]/[55] Carol becomes hungry
-[21]/[55] Carol gets the right fork
-[21]/[55] Carol gets the left fork
+[24]/[68] Esan becomes hungry
+[24]/[68] Esan gets the right fork
+[24]/[68] Esan gets the left fork
+[23]/[74] Carol becomes hungry
+[23]/[75] Carol is thinking
+[23]/[75] Carol becomes hungry
+[23]/[76] Carol is thinking
+[32]/[70] Alice finishes 31th dinner
+[32]/[71] Alice is thinking
+[25]/[68] Esan finishes 24th dinner
+[25]/[69] Esan is thinking
 [24]/[62] David becomes hungry
 [24]/[62] David gets the right fork
 [24]/[62] David gets the left fork
-[22]/[70] Esan becomes hungry
-[22]/[70] Esan gets the right fork
-[22]/[71] Esan is thinking
-[22]/[52] Bob becomes hungry
-[22]/[53] Bob is thinking
-[22]/[55] Carol finishes 21th dinner
-[25]/[58] Alice becomes hungry
-[22]/[56] Carol is thinking
-[25]/[58] Alice gets the right fork
-[25]/[59] Alice is thinking
-[25]/[59] Alice becomes hungry
-[22]/[56] Carol becomes hungry
-[25]/[59] Alice gets the right fork
-[22]/[56] Carol gets the right fork
-[22]/[57] Carol is thinking
-[25]/[60] Alice is thinking
-[22]/[57] Carol becomes hungry
-[22]/[57] Carol gets the right fork
-[25]/[60] Alice becomes hungry
-[22]/[57] Carol gets the left fork
-[25]/[61] Alice is thinking
-[23]/[57] Carol finishes 22th dinner
-[25]/[61] Alice becomes hungry
-[23]/[58] Carol is thinking
-[25]/[61] Alice gets the right fork
-[25]/[62] Alice is thinking
-[23]/[58] Carol becomes hungry
-[23]/[58] Carol gets the right fork
-[23]/[58] Carol gets the left fork
-[24]/[58] Carol finishes 23th dinner
-[24]/[59] Carol is thinking
-[24]/[59] Carol becomes hungry
-[24]/[59] Carol gets the right fork
-[24]/[59] Carol gets the left fork
-[25]/[59] Carol finishes 24th dinner
-[25]/[60] Carol is thinking
-[25]/[60] Carol becomes hungry
-[25]/[60] Carol gets the right fork
-[25]/[60] Carol gets the left fork
-[22]/[71] Esan becomes hungry
-[22]/[71] Esan gets the right fork
-[22]/[72] Esan is thinking
+[28]/[80] Bob becomes hungry
+[28]/[81] Bob is thinking
+[32]/[71] Alice becomes hungry
+[32]/[71] Alice gets the right fork
+[32]/[72] Alice is thinking
 [25]/[62] David finishes 24th dinner
-[22]/[53] Bob becomes hungry
 [25]/[63] David is thinking
-[22]/[53] Bob gets the right fork
-[22]/[53] Bob gets the left fork
-[23]/[53] Bob finishes 22th dinner
-[23]/[54] Bob is thinking
+[25]/[69] Esan becomes hungry
+[25]/[69] Esan gets the right fork
+[25]/[69] Esan gets the left fork
+[23]/[76] Carol becomes hungry
+[23]/[77] Carol is thinking
+[32]/[72] Alice becomes hungry
+[32]/[72] Alice gets the right fork
+[32]/[72] Alice gets the left fork
 [25]/[63] David becomes hungry
-[23]/[54] Bob becomes hungry
-[25]/[63] David gets the right fork
-[23]/[54] Bob gets the right fork
-[23]/[54] Bob gets the left fork
 [25]/[64] David is thinking
-[25]/[62] Alice becomes hungry
-[25]/[63] Alice is thinking
-[25]/[63] Alice becomes hungry
-[25]/[64] Alice is thinking
-[26]/[60] Carol finishes 25th dinner
-[26]/[61] Carol is thinking
+[28]/[81] Bob becomes hungry
+[28]/[81] Bob gets the right fork
+[28]/[82] Bob is thinking
+[23]/[77] Carol becomes hungry
+[23]/[78] Carol is thinking
+[26]/[69] Esan finishes 25th dinner
+[26]/[70] Esan is thinking
+[28]/[82] Bob becomes hungry
+[28]/[82] Bob gets the right fork
+[28]/[82] Bob gets the left fork
+[23]/[78] Carol becomes hungry
+[23]/[78] Carol gets the right fork
+[23]/[79] Carol is thinking
+[23]/[79] Carol becomes hungry
+[23]/[79] Carol gets the right fork
+[23]/[80] Carol is thinking
+[33]/[72] Alice finishes 32th dinner
+[33]/[73] Alice is thinking
+[26]/[70] Esan becomes hungry
+[26]/[71] Esan is thinking
 [25]/[64] David becomes hungry
 [25]/[64] David gets the right fork
 [25]/[65] David is thinking
-[22]/[72] Esan becomes hungry
-[22]/[73] Esan is thinking
+[33]/[73] Alice becomes hungry
+[33]/[73] Alice gets the right fork
+[33]/[73] Alice gets the left fork
+[29]/[82] Bob finishes 28th dinner
+[29]/[83] Bob is thinking
 [25]/[65] David becomes hungry
-[22]/[73] Esan becomes hungry
-[22]/[74] Esan is thinking
-[25]/[65] David gets the right fork
 [25]/[66] David is thinking
-[24]/[54] Bob finishes 23th dinner
-[24]/[55] Bob is thinking
-[25]/[64] Alice becomes hungry
-[25]/[64] Alice gets the right fork
-[25]/[64] Alice gets the left fork
-[24]/[55] Bob becomes hungry
-[24]/[55] Bob gets the right fork
-[24]/[55] Bob gets the left fork
-[26]/[61] Carol becomes hungry
-[22]/[74] Esan becomes hungry
-[26]/[61] Carol gets the right fork
-[22]/[75] Esan is thinking
-[26]/[62] Carol is thinking
-[22]/[75] Esan becomes hungry
-[22]/[76] Esan is thinking
-[22]/[76] Esan becomes hungry
-[22]/[77] Esan is thinking
+[23]/[80] Carol becomes hungry
+[23]/[80] Carol gets the right fork
+[23]/[81] Carol is thinking
 [25]/[66] David becomes hungry
 [25]/[67] David is thinking
+[29]/[83] Bob becomes hungry
+[29]/[83] Bob gets the right fork
+[29]/[83] Bob gets the left fork
+[30]/[83] Bob finishes 29th dinner
+[30]/[84] Bob is thinking
+[26]/[71] Esan becomes hungry
+[26]/[71] Esan gets the right fork
+[26]/[71] Esan gets the left fork
+[34]/[73] Alice finishes 33th dinner
+[34]/[74] Alice is thinking
+[27]/[71] Esan finishes 26th dinner
+[27]/[72] Esan is thinking
+[23]/[81] Carol becomes hungry
+[23]/[81] Carol gets the right fork
+[23]/[81] Carol gets the left fork
 [25]/[67] David becomes hungry
-[25]/[68] David is thinking
-[25]/[68] David becomes hungry
-[25]/[55] Bob finishes 24th dinner
-[25]/[69] David is thinking
-[25]/[56] Bob is thinking
-[22]/[77] Esan becomes hungry
-[25]/[69] David becomes hungry
-[26]/[62] Carol becomes hungry
-[22]/[77] Esan gets the right fork
-[26]/[62] Carol gets the right fork
-[26]/[64] Alice finishes 25th dinner
-[26]/[63] Carol is thinking
-[25]/[70] David is thinking
-[26]/[65] Alice is thinking
-[26]/[65] Alice becomes hungry
-[26]/[65] Alice gets the right fork
-[26]/[65] Alice gets the left fork
-[22]/[78] Esan is thinking
-[25]/[70] David becomes hungry
-[25]/[71] David is thinking
-[25]/[71] David becomes hungry
-[25]/[72] David is thinking
-[25]/[56] Bob becomes hungry
-[25]/[56] Bob gets the right fork
-[25]/[56] Bob gets the left fork
-[26]/[56] Bob finishes 25th dinner
-[26]/[57] Bob is thinking
-[22]/[78] Esan becomes hungry
-[22]/[78] Esan gets the right fork
-[22]/[78] Esan gets the left fork
-[23]/[78] Esan finishes 22th dinner
-[23]/[79] Esan is thinking
-[27]/[65] Alice finishes 26th dinner
-[25]/[72] David becomes hungry
-[26]/[63] Carol becomes hungry
-[25]/[72] David gets the right fork
-[26]/[63] Carol gets the right fork
-[26]/[63] Carol gets the left fork
-[25]/[72] David gets the left fork
-[27]/[63] Carol finishes 26th dinner
-[27]/[64] Carol is thinking
-[27]/[64] Carol becomes hungry
-[27]/[64] Carol gets the right fork
-[27]/[64] Carol gets the left fork
-[28]/[64] Carol finishes 27th dinner
-[28]/[65] Carol is thinking
-[27]/[66] Alice is thinking
-[27]/[66] Alice becomes hungry
-[23]/[79] Esan becomes hungry
-[27]/[66] Alice gets the right fork
-[27]/[67] Alice is thinking
-[23]/[79] Esan gets the right fork
-[23]/[79] Esan gets the left fork
-[27]/[67] Alice becomes hungry
-[27]/[67] Alice gets the right fork
-[27]/[68] Alice is thinking
-[28]/[65] Carol becomes hungry
-[28]/[66] Carol is thinking
-[26]/[57] Bob becomes hungry
-[26]/[72] David finishes 25th dinner
-[26]/[58] Bob is thinking
-[27]/[68] Alice becomes hungry
-[26]/[58] Bob becomes hungry
-[26]/[58] Bob gets the right fork
-[27]/[68] Alice gets the right fork
-[27]/[68] Alice gets the left fork
-[26]/[59] Bob is thinking
-[28]/[68] Alice finishes 27th dinner
-[28]/[69] Alice is thinking
-[28]/[69] Alice becomes hungry
-[28]/[69] Alice gets the right fork
-[28]/[69] Alice gets the left fork
-[26]/[73] David is thinking
-[26]/[73] David becomes hungry
-[26]/[74] David is thinking
-[26]/[74] David becomes hungry
-[26]/[75] David is thinking
-[26]/[75] David becomes hungry
-[26]/[76] David is thinking
-[28]/[66] Carol becomes hungry
-[28]/[67] Carol is thinking
-[29]/[69] Alice finishes 28th dinner
-[28]/[67] Carol becomes hungry
-[28]/[68] Carol is thinking
-[29]/[70] Alice is thinking
-[24]/[79] Esan finishes 23th dinner
-[24]/[80] Esan is thinking
-[26]/[59] Bob becomes hungry
-[26]/[59] Bob gets the right fork
-[26]/[59] Bob gets the left fork
-[26]/[76] David becomes hungry
-[26]/[76] David gets the right fork
-[26]/[77] David is thinking
-[28]/[68] Carol becomes hungry
-[28]/[68] Carol gets the right fork
-[28]/[68] Carol gets the left fork
-[29]/[68] Carol finishes 28th dinner
-[29]/[69] Carol is thinking
-[27]/[59] Bob finishes 26th dinner
-[27]/[60] Bob is thinking
-[27]/[60] Bob becomes hungry
-[27]/[60] Bob gets the right fork
-[27]/[60] Bob gets the left fork
-[29]/[70] Alice becomes hungry
-[29]/[70] Alice gets the right fork
-[29]/[70] Alice gets the left fork
-[24]/[80] Esan becomes hungry
-[24]/[81] Esan is thinking
-[24]/[81] Esan becomes hungry
-[24]/[82] Esan is thinking
-[24]/[82] Esan becomes hungry
-[24]/[83] Esan is thinking
-[26]/[77] David becomes hungry
-[26]/[78] David is thinking
-[26]/[78] David becomes hungry
-[26]/[79] David is thinking
-[24]/[83] Esan becomes hungry
-[24]/[84] Esan is thinking
-[24]/[84] Esan becomes hungry
-[24]/[85] Esan is thinking
-[29]/[69] Carol becomes hungry
-[29]/[69] Carol gets the right fork
-[28]/[60] Bob finishes 27th dinner
-[29]/[70] Carol is thinking
-[28]/[61] Bob is thinking
-[29]/[70] Carol becomes hungry
-[29]/[70] Carol gets the right fork
-[29]/[71] Carol is thinking
-[30]/[70] Alice finishes 29th dinner
-[30]/[71] Alice is thinking
-[26]/[79] David becomes hungry
-[26]/[79] David gets the right fork
-[26]/[79] David gets the left fork
-[27]/[79] David finishes 26th dinner
-[27]/[80] David is thinking
-[27]/[80] David becomes hungry
-[27]/[80] David gets the right fork
-[27]/[80] David gets the left fork
-[28]/[80] David finishes 27th dinner
-[28]/[81] David is thinking
-[30]/[71] Alice becomes hungry
-[30]/[71] Alice gets the right fork
-[30]/[71] Alice gets the left fork
-[24]/[85] Esan becomes hungry
-[24]/[85] Esan gets the right fork
-[24]/[85] Esan gets the left fork
-[25]/[85] Esan finishes 24th dinner
-[28]/[61] Bob becomes hungry
-[29]/[71] Carol becomes hungry
-[29]/[71] Carol gets the right fork
-[29]/[72] Carol is thinking
-[28]/[61] Bob gets the right fork
-[29]/[72] Carol becomes hungry
-[28]/[61] Bob gets the left fork
-[29]/[72] Carol gets the right fork
-[29]/[73] Carol is thinking
-[25]/[86] Esan is thinking
-[25]/[86] Esan becomes hungry
-[25]/[87] Esan is thinking
-[28]/[81] David becomes hungry
-[28]/[82] David is thinking
-[29]/[73] Carol becomes hungry
-[29]/[73] Carol gets the right fork
-[29]/[74] Carol is thinking
-[31]/[71] Alice finishes 30th dinner
-[25]/[87] Esan becomes hungry
-[31]/[72] Alice is thinking
-[31]/[72] Alice becomes hungry
-[31]/[72] Alice gets the right fork
-[31]/[72] Alice gets the left fork
-[25]/[88] Esan is thinking
-[29]/[61] Bob finishes 28th dinner
-[29]/[62] Bob is thinking
-[29]/[62] Bob becomes hungry
-[29]/[62] Bob gets the right fork
-[29]/[62] Bob gets the left fork
-[30]/[62] Bob finishes 29th dinner
-[30]/[63] Bob is thinking
-[28]/[82] David becomes hungry
-[28]/[83] David is thinking
-[28]/[83] David becomes hungry
-[28]/[84] David is thinking
-[28]/[84] David becomes hungry
-[28]/[85] David is thinking
-[28]/[85] David becomes hungry
-[28]/[86] David is thinking
-[28]/[86] David becomes hungry
-[28]/[87] David is thinking
-[25]/[88] Esan becomes hungry
-[25]/[88] Esan gets the right fork
-[25]/[88] Esan gets the left fork
-[26]/[88] Esan finishes 25th dinner
-[26]/[89] Esan is thinking
-[26]/[89] Esan becomes hungry
-[26]/[89] Esan gets the right fork
-[26]/[89] Esan gets the left fork
-[32]/[72] Alice finishes 31th dinner
-[32]/[73] Alice is thinking
-[32]/[73] Alice becomes hungry
-[32]/[73] Alice gets the right fork
-[30]/[63] Bob becomes hungry
-[32]/[73] Alice gets the left fork
-[30]/[63] Bob gets the right fork
-[30]/[64] Bob is thinking
-[29]/[74] Carol becomes hungry
-[30]/[64] Bob becomes hungry
-[30]/[64] Bob gets the right fork
-[29]/[75] Carol is thinking
-[30]/[65] Bob is thinking
-[29]/[75] Carol becomes hungry
-[29]/[76] Carol is thinking
-[28]/[87] David becomes hungry
-[28]/[88] David is thinking
-[28]/[88] David becomes hungry
-[28]/[89] David is thinking
-[33]/[73] Alice finishes 32th dinner
-[29]/[76] Carol becomes hungry
-[33]/[74] Alice is thinking
-[29]/[77] Carol is thinking
-[29]/[77] Carol becomes hungry
-[29]/[78] Carol is thinking
-[29]/[78] Carol becomes hungry
-[27]/[89] Esan finishes 26th dinner
-[30]/[65] Bob becomes hungry
-[27]/[90] Esan is thinking
-[30]/[65] Bob gets the right fork
-[30]/[65] Bob gets the left fork
-[31]/[65] Bob finishes 30th dinner
-[31]/[66] Bob is thinking
-[29]/[79] Carol is thinking
-[33]/[74] Alice becomes hungry
-[33]/[74] Alice gets the right fork
-[33]/[74] Alice gets the left fork
-[34]/[74] Alice finishes 33th dinner
+[25]/[67] David gets the right fork
+[25]/[67] David gets the left fork
+[34]/[74] Alice becomes hungry
 [34]/[75] Alice is thinking
-[28]/[89] David becomes hungry
-[28]/[89] David gets the right fork
-[28]/[89] David gets the left fork
-[29]/[89] David finishes 28th dinner
-[29]/[90] David is thinking
-[29]/[90] David becomes hungry
-[29]/[90] David gets the right fork
-[29]/[90] David gets the left fork
-[27]/[90] Esan becomes hungry
-[27]/[90] Esan gets the right fork
-[27]/[90] Esan gets the left fork
-[29]/[79] Carol becomes hungry
-[29]/[80] Carol is thinking
-[31]/[66] Bob becomes hungry
-[31]/[67] Bob is thinking
-[31]/[67] Bob becomes hungry
-[31]/[68] Bob is thinking
-[31]/[68] Bob becomes hungry
-[31]/[69] Bob is thinking
-[31]/[69] Bob becomes hungry
-[31]/[70] Bob is thinking
-[29]/[80] Carol becomes hungry
-[29]/[81] Carol is thinking
-[29]/[81] Carol becomes hungry
-[29]/[82] Carol is thinking
-[31]/[70] Bob becomes hungry
-[29]/[82] Carol becomes hungry
+[24]/[81] Carol finishes 23th dinner
+[24]/[82] Carol is thinking
+[26]/[67] David finishes 25th dinner
+[26]/[68] David is thinking
+[30]/[84] Bob becomes hungry
+[30]/[84] Bob gets the right fork
+[30]/[84] Bob gets the left fork
+[27]/[72] Esan becomes hungry
+[27]/[73] Esan is thinking
+[24]/[82] Carol becomes hungry
+[24]/[82] Carol gets the right fork
+[24]/[82] Carol gets the left fork
 [34]/[75] Alice becomes hungry
-[30]/[90] David finishes 29th dinner
-[29]/[83] Carol is thinking
-[30]/[91] David is thinking
-[29]/[83] Carol becomes hungry
-[29]/[84] Carol is thinking
-[29]/[84] Carol becomes hungry
-[29]/[85] Carol is thinking
-[28]/[90] Esan finishes 27th dinner
-[34]/[75] Alice gets the right fork
-[34]/[75] Alice gets the left fork
-[28]/[91] Esan is thinking
-[31]/[71] Bob is thinking
-[35]/[75] Alice finishes 34th dinner
-[28]/[91] Esan becomes hungry
-[35]/[76] Alice is thinking
-[28]/[91] Esan gets the right fork
-[28]/[91] Esan gets the left fork
-[29]/[91] Esan finishes 28th dinner
-[29]/[92] Esan is thinking
-[29]/[92] Esan becomes hungry
-[29]/[92] Esan gets the right fork
-[29]/[92] Esan gets the left fork
-[30]/[91] David becomes hungry
-[30]/[91] David gets the right fork
-[30]/[91] David gets the left fork
-[31]/[91] David finishes 30th dinner
-[31]/[92] David is thinking
-[31]/[92] David becomes hungry
-[31]/[92] David gets the right fork
-[31]/[92] David gets the left fork
-[32]/[92] David finishes 31th dinner
-[32]/[93] David is thinking
-[32]/[93] David becomes hungry
-[32]/[93] David gets the right fork
-[32]/[93] David gets the left fork
-[29]/[85] Carol becomes hungry
-[29]/[86] Carol is thinking
-[30]/[92] Esan finishes 29th dinner
-[30]/[93] Esan is thinking
-[30]/[93] Esan becomes hungry
-[30]/[93] Esan gets the right fork
-[30]/[93] Esan gets the left fork
-[31]/[71] Bob becomes hungry
-[35]/[76] Alice becomes hungry
-[31]/[72] Bob is thinking
-[35]/[76] Alice gets the right fork
-[31]/[72] Bob becomes hungry
-[35]/[77] Alice is thinking
-[31]/[73] Bob is thinking
-[31]/[73] Bob becomes hungry
-[31]/[74] Bob is thinking
-[33]/[93] David finishes 32th dinner
-[33]/[94] David is thinking
-[31]/[93] Esan finishes 30th dinner
-[31]/[94] Esan is thinking
-[31]/[94] Esan becomes hungry
-[31]/[94] Esan gets the right fork
-[31]/[94] Esan gets the left fork
-[32]/[94] Esan finishes 31th dinner
-[32]/[95] Esan is thinking
-[31]/[74] Bob becomes hungry
-[31]/[74] Bob gets the right fork
-[31]/[74] Bob gets the left fork
-[29]/[86] Carol becomes hungry
-[35]/[77] Alice becomes hungry
-[29]/[86] Carol gets the right fork
-[35]/[77] Alice gets the right fork
-[35]/[77] Alice gets the left fork
-[29]/[87] Carol is thinking
-[36]/[77] Alice finishes 35th dinner
-[29]/[87] Carol becomes hungry
-[36]/[78] Alice is thinking
-[29]/[87] Carol gets the right fork
-[29]/[87] Carol gets the left fork
-[30]/[87] Carol finishes 29th dinner
-[30]/[88] Carol is thinking
-[30]/[88] Carol becomes hungry
-[30]/[88] Carol gets the right fork
-[30]/[88] Carol gets the left fork
-[33]/[94] David becomes hungry
-[33]/[94] David gets the right fork
-[33]/[95] David is thinking
-[31]/[88] Carol finishes 30th dinner
-[31]/[89] Carol is thinking
-[36]/[78] Alice becomes hungry
-[36]/[78] Alice gets the right fork
-[36]/[78] Alice gets the left fork
-[37]/[78] Alice finishes 36th dinner
-[37]/[79] Alice is thinking
-[32]/[95] Esan becomes hungry
-[32]/[96] Esan is thinking
-[37]/[79] Alice becomes hungry
-[37]/[79] Alice gets the right fork
-[37]/[79] Alice gets the left fork
-[38]/[79] Alice finishes 37th dinner
-[38]/[80] Alice is thinking
-[32]/[74] Bob finishes 31th dinner
-[32]/[75] Bob is thinking
-[33]/[95] David becomes hungry
-[33]/[95] David gets the right fork
-[33]/[95] David gets the left fork
-[38]/[80] Alice becomes hungry
-[38]/[80] Alice gets the right fork
-[38]/[81] Alice is thinking
-[38]/[81] Alice becomes hungry
-[38]/[81] Alice gets the right fork
+[34]/[76] Alice is thinking
+[31]/[84] Bob finishes 30th dinner
+[31]/[85] Bob is thinking
+[34]/[76] Alice becomes hungry
+[34]/[77] Alice is thinking
+[25]/[82] Carol finishes 24th dinner
+[25]/[83] Carol is thinking
+[27]/[73] Esan becomes hungry
+[27]/[73] Esan gets the right fork
+[27]/[73] Esan gets the left fork
+[26]/[68] David becomes hungry
+[26]/[68] David gets the right fork
+[26]/[68] David gets the left fork
+[25]/[83] Carol becomes hungry
+[25]/[84] Carol is thinking
+[25]/[84] Carol becomes hungry
+[25]/[85] Carol is thinking
+[28]/[73] Esan finishes 27th dinner
+[28]/[74] Esan is thinking
+[31]/[85] Bob becomes hungry
+[31]/[86] Bob is thinking
+[27]/[68] David finishes 26th dinner
+[27]/[69] David is thinking
+[34]/[77] Alice becomes hungry
+[34]/[77] Alice gets the right fork
+[34]/[77] Alice gets the left fork
+[28]/[74] Esan becomes hungry
+[28]/[74] Esan gets the right fork
+[28]/[74] Esan gets the left fork
+[25]/[85] Carol becomes hungry
+[25]/[86] Carol is thinking
+[27]/[69] David becomes hungry
+[27]/[70] David is thinking
+[31]/[86] Bob becomes hungry
+[31]/[86] Bob gets the right fork
+[31]/[87] Bob is thinking
+[35]/[77] Alice finishes 34th dinner
+[35]/[78] Alice is thinking
+[31]/[87] Bob becomes hungry
+[31]/[87] Bob gets the right fork
+[31]/[88] Bob is thinking
+[35]/[78] Alice becomes hungry
+[35]/[78] Alice gets the right fork
+[35]/[78] Alice gets the left fork
+[27]/[70] David becomes hungry
+[27]/[71] David is thinking
+[25]/[86] Carol becomes hungry
+[25]/[87] Carol is thinking
+[36]/[78] Alice finishes 35th dinner
+[36]/[79] Alice is thinking
+[29]/[74] Esan finishes 28th dinner
+[29]/[75] Esan is thinking
+[27]/[71] David becomes hungry
+[27]/[71] David gets the right fork
+[27]/[71] David gets the left fork
+[36]/[79] Alice becomes hungry
+[36]/[79] Alice gets the right fork
+[36]/[80] Alice is thinking
+[31]/[88] Bob becomes hungry
+[31]/[89] Bob is thinking
+[29]/[75] Esan becomes hungry
+[29]/[75] Esan gets the right fork
+[29]/[75] Esan gets the left fork
+[25]/[87] Carol becomes hungry
+[25]/[88] Carol is thinking
+[28]/[71] David finishes 27th dinner
+[28]/[72] David is thinking
+[31]/[89] Bob becomes hungry
+[31]/[89] Bob gets the right fork
+[31]/[90] Bob is thinking
+[36]/[80] Alice becomes hungry
+[36]/[80] Alice gets the right fork
+[36]/[80] Alice gets the left fork
+[31]/[90] Bob becomes hungry
+[31]/[90] Bob gets the right fork
+[31]/[91] Bob is thinking
+[28]/[72] David becomes hungry
+[28]/[73] David is thinking
+[25]/[88] Carol becomes hungry
+[25]/[89] Carol is thinking
+[30]/[75] Esan finishes 29th dinner
+[30]/[76] Esan is thinking
+[37]/[80] Alice finishes 36th dinner
+[37]/[81] Alice is thinking
+[25]/[89] Carol becomes hungry
+[25]/[89] Carol gets the right fork
+[25]/[89] Carol gets the left fork
+[30]/[76] Esan becomes hungry
+[30]/[76] Esan gets the right fork
+[30]/[77] Esan is thinking
+[31]/[91] Bob becomes hungry
+[31]/[91] Bob gets the right fork
+[31]/[91] Bob gets the left fork
+[26]/[89] Carol finishes 25th dinner
+[26]/[90] Carol is thinking
+[30]/[77] Esan becomes hungry
+[30]/[78] Esan is thinking
+[37]/[81] Alice becomes hungry
+[37]/[81] Alice gets the right fork
+[37]/[81] Alice gets the left fork
+[30]/[78] Esan becomes hungry
+[30]/[79] Esan is thinking
+[28]/[73] David becomes hungry
+[28]/[74] David is thinking
+[30]/[79] Esan becomes hungry
+[30]/[80] Esan is thinking
+[26]/[90] Carol becomes hungry
+[26]/[90] Carol gets the right fork
+[26]/[91] Carol is thinking
+[38]/[81] Alice finishes 37th dinner
 [38]/[82] Alice is thinking
+[32]/[91] Bob finishes 31th dinner
+[32]/[92] Bob is thinking
+[28]/[74] David becomes hungry
+[28]/[74] David gets the right fork
+[28]/[74] David gets the left fork
+[32]/[92] Bob becomes hungry
+[32]/[93] Bob is thinking
+[30]/[80] Esan becomes hungry
+[30]/[80] Esan gets the right fork
+[30]/[80] Esan gets the left fork
 [38]/[82] Alice becomes hungry
 [38]/[82] Alice gets the right fork
 [38]/[83] Alice is thinking
+[29]/[74] David finishes 28th dinner
+[29]/[75] David is thinking
+[26]/[91] Carol becomes hungry
+[26]/[92] Carol is thinking
+[32]/[93] Bob becomes hungry
+[32]/[93] Bob gets the right fork
+[32]/[94] Bob is thinking
+[31]/[80] Esan finishes 30th dinner
+[31]/[81] Esan is thinking
 [38]/[83] Alice becomes hungry
 [38]/[83] Alice gets the right fork
-[38]/[84] Alice is thinking
-[38]/[84] Alice becomes hungry
-[38]/[84] Alice gets the right fork
-[38]/[85] Alice is thinking
-[31]/[89] Carol becomes hungry
-[31]/[89] Carol gets the right fork
-[31]/[89] Carol gets the left fork
-[32]/[89] Carol finishes 31th dinner
-[32]/[90] Carol is thinking
-[32]/[90] Carol becomes hungry
-[32]/[90] Carol gets the right fork
-[32]/[90] Carol gets the left fork
-[33]/[90] Carol finishes 32th dinner
-[32]/[75] Bob becomes hungry
-[32]/[76] Bob is thinking
-[33]/[91] Carol is thinking
-[32]/[76] Bob becomes hungry
-[32]/[77] Bob is thinking
-[32]/[96] Esan becomes hungry
-[32]/[96] Esan gets the right fork
-[32]/[96] Esan gets the left fork
-[38]/[85] Alice becomes hungry
-[38]/[85] Alice gets the right fork
-[38]/[86] Alice is thinking
-[34]/[95] David finishes 33th dinner
-[34]/[96] David is thinking
-[34]/[96] David becomes hungry
-[34]/[96] David gets the right fork
-[34]/[96] David gets the left fork
-[33]/[96] Esan finishes 32th dinner
-[33]/[97] Esan is thinking
-[32]/[77] Bob becomes hungry
-[32]/[78] Bob is thinking
-[33]/[91] Carol becomes hungry
-[33]/[91] Carol gets the right fork
-[33]/[91] Carol gets the left fork
-[34]/[91] Carol finishes 33th dinner
-[34]/[92] Carol is thinking
-[38]/[86] Alice becomes hungry
-[38]/[86] Alice gets the right fork
-[38]/[87] Alice is thinking
-[38]/[87] Alice becomes hungry
-[38]/[87] Alice gets the right fork
-[38]/[88] Alice is thinking
-[35]/[96] David finishes 34th dinner
-[35]/[97] David is thinking
-[35]/[97] David becomes hungry
-[35]/[97] David gets the right fork
-[35]/[97] David gets the left fork
-[36]/[97] David finishes 35th dinner
-[36]/[98] David is thinking
-[33]/[97] Esan becomes hungry
-[33]/[97] Esan gets the right fork
-[33]/[97] Esan gets the left fork
-[34]/[97] Esan finishes 33th dinner
-[34]/[98] Esan is thinking
-[34]/[98] Esan becomes hungry
-[34]/[98] Esan gets the right fork
-[34]/[98] Esan gets the left fork
-[34]/[92] Carol becomes hungry
-[34]/[93] Carol is thinking
-[32]/[78] Bob becomes hungry
-[32]/[78] Bob gets the right fork
-[32]/[79] Bob is thinking
-[38]/[88] Alice becomes hungry
-[38]/[88] Alice gets the right fork
-[38]/[88] Alice gets the left fork
-[39]/[88] Alice finishes 38th dinner
-[39]/[89] Alice is thinking
-[36]/[98] David becomes hungry
-[36]/[98] David gets the right fork
-[36]/[98] David gets the left fork
-[34]/[93] Carol becomes hungry
-[35]/[98] Esan finishes 34th dinner
-[34]/[94] Carol is thinking
-[35]/[99] Esan is thinking
-[32]/[79] Bob becomes hungry
-[32]/[80] Bob is thinking
-[32]/[80] Bob becomes hungry
-[32]/[81] Bob is thinking
-[39]/[89] Alice becomes hungry
-[39]/[89] Alice gets the right fork
-[39]/[90] Alice is thinking
-[39]/[90] Alice becomes hungry
-[39]/[90] Alice gets the right fork
-[39]/[91] Alice is thinking
-[37]/[98] David finishes 36th dinner
-[37]/[99] David is thinking
-[37]/[99] David becomes hungry
-[37]/[99] David gets the right fork
-[37]/[99] David gets the left fork
-[38]/[99] David finishes 37th dinner
-[38]/[100] David is thinking
-[38]/[100] David becomes hungry
-[38]/[100] David gets the right fork
-[38]/[100] David gets the left fork
-[39]/[100] David finishes 38th dinner
-[39]/[101] David is thinking
-[35]/[99] Esan becomes hungry
-[35]/[99] Esan gets the right fork
-[35]/[99] Esan gets the left fork
-[36]/[99] Esan finishes 35th dinner
-[36]/[100] Esan is thinking
-[34]/[94] Carol becomes hungry
-[36]/[100] Esan becomes hungry
-[34]/[94] Carol gets the right fork
-[34]/[94] Carol gets the left fork
-[35]/[94] Carol finishes 34th dinner
-[35]/[95] Carol is thinking
-[36]/[100] Esan gets the right fork
-[36]/[100] Esan gets the left fork
-[32]/[81] Bob becomes hungry
-[32]/[81] Bob gets the right fork
-[32]/[82] Bob is thinking
-[32]/[82] Bob becomes hungry
-[32]/[82] Bob gets the right fork
-[32]/[83] Bob is thinking
-[39]/[91] Alice becomes hungry
-[39]/[101] David becomes hungry
-[39]/[91] Alice gets the right fork
-[39]/[101] David gets the right fork
-[39]/[101] David gets the left fork
-[39]/[92] Alice is thinking
-[40]/[101] David finishes 39th dinner
+[38]/[83] Alice gets the left fork
+[39]/[83] Alice finishes 38th dinner
+[39]/[84] Alice is thinking
+[29]/[75] David becomes hungry
+[29]/[75] David gets the right fork
+[29]/[75] David gets the left fork
+[32]/[94] Bob becomes hungry
+[32]/[95] Bob is thinking
+[26]/[92] Carol becomes hungry
+[26]/[92] Carol gets the right fork
+[26]/[92] Carol gets the left fork
+[32]/[95] Bob becomes hungry
+[32]/[96] Bob is thinking
+[27]/[92] Carol finishes 26th dinner
+[27]/[93] Carol is thinking
+[39]/[84] Alice becomes hungry
+[39]/[84] Alice gets the right fork
+[39]/[85] Alice is thinking
+[30]/[75] David finishes 29th dinner
+[30]/[76] David is thinking
+[31]/[81] Esan becomes hungry
+[31]/[81] Esan gets the right fork
+[31]/[81] Esan gets the left fork
+[39]/[85] Alice becomes hungry
+[39]/[85] Alice gets the right fork
+[39]/[85] Alice gets the left fork
+[32]/[96] Bob becomes hungry
+[32]/[96] Bob gets the right fork
+[32]/[97] Bob is thinking
+[27]/[93] Carol becomes hungry
+[27]/[94] Carol is thinking
+[32]/[81] Esan finishes 31th dinner
+[32]/[82] Esan is thinking
+[27]/[94] Carol becomes hungry
+[27]/[94] Carol gets the right fork
+[27]/[95] Carol is thinking
+[27]/[95] Carol becomes hungry
+[27]/[95] Carol gets the right fork
+[27]/[96] Carol is thinking
+[32]/[97] Bob becomes hungry
+[32]/[97] Bob gets the right fork
+[32]/[97] Bob gets the left fork
+[32]/[82] Esan becomes hungry
+[32]/[83] Esan is thinking
+[27]/[96] Carol becomes hungry
+[27]/[96] Carol gets the right fork
+[27]/[97] Carol is thinking
+[30]/[76] David becomes hungry
+[30]/[77] David is thinking
+[40]/[85] Alice finishes 39th dinner
+[40]/[86] Alice is thinking
+[40]/[86] Alice becomes hungry
+[40]/[86] Alice gets the right fork
+[40]/[86] Alice gets the left fork
+[30]/[77] David becomes hungry
+[30]/[78] David is thinking
+[41]/[86] Alice finishes 40th dinner
+[41]/[87] Alice is thinking
+[33]/[97] Bob finishes 32th dinner
+[33]/[98] Bob is thinking
+[32]/[83] Esan becomes hungry
+[32]/[83] Esan gets the right fork
+[32]/[83] Esan gets the left fork
+[27]/[97] Carol becomes hungry
+[27]/[98] Carol is thinking
+[30]/[78] David becomes hungry
+[30]/[78] David gets the right fork
+[30]/[78] David gets the left fork
+[27]/[98] Carol becomes hungry
+[27]/[99] Carol is thinking
+[41]/[87] Alice becomes hungry
+[41]/[87] Alice gets the right fork
+[41]/[88] Alice is thinking
+[33]/[98] Bob becomes hungry
+[33]/[99] Bob is thinking
+[33]/[83] Esan finishes 32th dinner
+[33]/[84] Esan is thinking
+[33]/[84] Esan becomes hungry
+[33]/[84] Esan gets the right fork
+[33]/[84] Esan gets the left fork
+[27]/[99] Carol becomes hungry
+[27]/[100] Carol is thinking
+[31]/[78] David finishes 30th dinner
+[31]/[79] David is thinking
+[41]/[88] Alice becomes hungry
+[41]/[88] Alice gets the right fork
+[41]/[88] Alice gets the left fork
+[27]/[100] Carol becomes hungry
+[27]/[101] Carol is thinking
+[31]/[79] David becomes hungry
+[31]/[80] David is thinking
+[33]/[99] Bob becomes hungry
+[33]/[99] Bob gets the right fork
+[33]/[100] Bob is thinking
+[27]/[101] Carol becomes hungry
+[27]/[102] Carol is thinking
+[27]/[102] Carol becomes hungry
+[27]/[103] Carol is thinking
+[33]/[100] Bob becomes hungry
+[33]/[100] Bob gets the right fork
+[33]/[101] Bob is thinking
+[31]/[80] David becomes hungry
+[31]/[81] David is thinking
+[31]/[81] David becomes hungry
+[31]/[82] David is thinking
+[34]/[84] Esan finishes 33th dinner
+[34]/[85] Esan is thinking
+[34]/[85] Esan becomes hungry
+[34]/[85] Esan gets the right fork
+[34]/[85] Esan gets the left fork
+[35]/[85] Esan finishes 34th dinner
+[35]/[86] Esan is thinking
+[42]/[88] Alice finishes 41th dinner
+[42]/[89] Alice is thinking
+[35]/[86] Esan becomes hungry
+[35]/[86] Esan gets the right fork
+[35]/[86] Esan gets the left fork
+[42]/[89] Alice becomes hungry
+[42]/[89] Alice gets the right fork
+[42]/[89] Alice gets the left fork
+[43]/[89] Alice finishes 42th dinner
+[43]/[90] Alice is thinking
+[27]/[103] Carol becomes hungry
+[27]/[104] Carol is thinking
+[33]/[101] Bob becomes hungry
+[33]/[101] Bob gets the right fork
+[33]/[102] Bob is thinking
+[31]/[82] David becomes hungry
+[31]/[82] David gets the right fork
+[31]/[82] David gets the left fork
+[36]/[86] Esan finishes 35th dinner
+[36]/[87] Esan is thinking
+[27]/[104] Carol becomes hungry
+[27]/[104] Carol gets the right fork
+[27]/[104] Carol gets the left fork
+[43]/[90] Alice becomes hungry
+[43]/[91] Alice is thinking
+[32]/[82] David finishes 31th dinner
+[32]/[83] David is thinking
+[36]/[87] Esan becomes hungry
+[36]/[87] Esan gets the right fork
+[36]/[88] Esan is thinking
+[33]/[102] Bob becomes hungry
+[33]/[102] Bob gets the right fork
+[33]/[102] Bob gets the left fork
+[34]/[102] Bob finishes 33th dinner
+[34]/[103] Bob is thinking
+[28]/[104] Carol finishes 27th dinner
+[28]/[105] Carol is thinking
+[34]/[103] Bob becomes hungry
+[34]/[103] Bob gets the right fork
+[34]/[103] Bob gets the left fork
+[32]/[83] David becomes hungry
+[32]/[83] David gets the right fork
+[32]/[84] David is thinking
+[43]/[91] Alice becomes hungry
+[43]/[91] Alice gets the right fork
+[43]/[91] Alice gets the left fork
+[36]/[88] Esan becomes hungry
+[36]/[89] Esan is thinking
+[28]/[105] Carol becomes hungry
+[28]/[105] Carol gets the right fork
+[28]/[106] Carol is thinking
+[36]/[89] Esan becomes hungry
+[36]/[90] Esan is thinking
+[32]/[84] David becomes hungry
+[32]/[85] David is thinking
+[44]/[91] Alice finishes 43th dinner
+[44]/[92] Alice is thinking
+[35]/[103] Bob finishes 34th dinner
+[35]/[104] Bob is thinking
+[32]/[85] David becomes hungry
+[32]/[85] David gets the right fork
+[32]/[85] David gets the left fork
+[35]/[104] Bob becomes hungry
+[35]/[105] Bob is thinking
+[36]/[90] Esan becomes hungry
+[36]/[90] Esan gets the right fork
+[36]/[90] Esan gets the left fork
+[28]/[106] Carol becomes hungry
+[28]/[107] Carol is thinking
+[44]/[92] Alice becomes hungry
+[44]/[92] Alice gets the right fork
+[44]/[93] Alice is thinking
+[37]/[90] Esan finishes 36th dinner
+[37]/[91] Esan is thinking
+[35]/[105] Bob becomes hungry
+[35]/[106] Bob is thinking
+[33]/[85] David finishes 32th dinner
+[33]/[86] David is thinking
+[28]/[107] Carol becomes hungry
+[28]/[107] Carol gets the right fork
+[28]/[107] Carol gets the left fork
+[33]/[86] David becomes hungry
+[33]/[86] David gets the right fork
+[33]/[86] David gets the left fork
+[37]/[91] Esan becomes hungry
+[37]/[91] Esan gets the right fork
+[37]/[92] Esan is thinking
+[37]/[92] Esan becomes hungry
+[37]/[92] Esan gets the right fork
+[37]/[93] Esan is thinking
+[44]/[93] Alice becomes hungry
+[44]/[94] Alice is thinking
+[37]/[93] Esan becomes hungry
+[37]/[93] Esan gets the right fork
+[37]/[94] Esan is thinking
+[29]/[107] Carol finishes 28th dinner
+[29]/[108] Carol is thinking
+[37]/[94] Esan becomes hungry
+[37]/[94] Esan gets the right fork
+[37]/[94] Esan gets the left fork
+[29]/[108] Carol becomes hungry
+[29]/[109] Carol is thinking
+[34]/[86] David finishes 33th dinner
+[34]/[87] David is thinking
+[35]/[106] Bob becomes hungry
+[35]/[106] Bob gets the right fork
+[35]/[107] Bob is thinking
+[44]/[94] Alice becomes hungry
+[44]/[94] Alice gets the right fork
+[44]/[94] Alice gets the left fork
+[35]/[107] Bob becomes hungry
+[35]/[107] Bob gets the right fork
+[35]/[108] Bob is thinking
+[38]/[94] Esan finishes 37th dinner
+[38]/[95] Esan is thinking
+[35]/[108] Bob becomes hungry
+[35]/[108] Bob gets the right fork
+[35]/[108] Bob gets the left fork
+[45]/[94] Alice finishes 44th dinner
+[45]/[95] Alice is thinking
+[34]/[87] David becomes hungry
+[34]/[87] David gets the right fork
+[34]/[88] David is thinking
+[34]/[88] David becomes hungry
+[34]/[88] David gets the right fork
+[34]/[89] David is thinking
+[34]/[89] David becomes hungry
+[34]/[89] David gets the right fork
+[34]/[90] David is thinking
+[29]/[109] Carol becomes hungry
+[29]/[109] Carol gets the right fork
+[29]/[109] Carol gets the left fork
+[36]/[108] Bob finishes 35th dinner
+[36]/[109] Bob is thinking
+[38]/[95] Esan becomes hungry
+[38]/[95] Esan gets the right fork
+[38]/[96] Esan is thinking
+[36]/[109] Bob becomes hungry
+[36]/[109] Bob gets the right fork
+[36]/[109] Bob gets the left fork
+[45]/[95] Alice becomes hungry
+[45]/[96] Alice is thinking
+[34]/[90] David becomes hungry
+[34]/[90] David gets the right fork
+[34]/[91] David is thinking
+[38]/[96] Esan becomes hungry
+[38]/[97] Esan is thinking
+[30]/[109] Carol finishes 29th dinner
+[30]/[110] Carol is thinking
+[38]/[97] Esan becomes hungry
+[38]/[98] Esan is thinking
+[37]/[109] Bob finishes 36th dinner
+[37]/[110] Bob is thinking
+[45]/[96] Alice becomes hungry
+[45]/[96] Alice gets the right fork
+[45]/[96] Alice gets the left fork
+[37]/[110] Bob becomes hungry
+[37]/[110] Bob gets the right fork
+[37]/[110] Bob gets the left fork
+[38]/[110] Bob finishes 37th dinner
+[38]/[111] Bob is thinking
+[34]/[91] David becomes hungry
+[34]/[92] David is thinking
+[34]/[92] David becomes hungry
+[34]/[93] David is thinking
+[46]/[96] Alice finishes 45th dinner
+[46]/[97] Alice is thinking
+[30]/[110] Carol becomes hungry
+[30]/[110] Carol gets the right fork
+[30]/[110] Carol gets the left fork
+[46]/[97] Alice becomes hungry
+[46]/[98] Alice is thinking
+[38]/[98] Esan becomes hungry
+[38]/[98] Esan gets the right fork
+[38]/[99] Esan is thinking
+[38]/[111] Bob becomes hungry
+[38]/[111] Bob gets the right fork
+[38]/[111] Bob gets the left fork
+[31]/[110] Carol finishes 30th dinner
+[31]/[111] Carol is thinking
+[39]/[111] Bob finishes 38th dinner
+[39]/[112] Bob is thinking
+[34]/[93] David becomes hungry
+[34]/[93] David gets the right fork
+[34]/[93] David gets the left fork
+[38]/[99] Esan becomes hungry
+[38]/[99] Esan gets the right fork
+[38]/[99] Esan gets the left fork
+[46]/[98] Alice becomes hungry
+[46]/[98] Alice gets the right fork
+[46]/[99] Alice is thinking
+[31]/[111] Carol becomes hungry
+[31]/[112] Carol is thinking
+[35]/[93] David finishes 34th dinner
+[35]/[94] David is thinking
+[39]/[99] Esan finishes 38th dinner
+[39]/[100] Esan is thinking
+[39]/[100] Esan becomes hungry
+[39]/[100] Esan gets the right fork
+[39]/[100] Esan gets the left fork
+[39]/[112] Bob becomes hungry
+[39]/[112] Bob gets the right fork
+[39]/[113] Bob is thinking
+[35]/[94] David becomes hungry
+[35]/[94] David gets the right fork
+[35]/[94] David gets the left fork
+[39]/[113] Bob becomes hungry
+[39]/[114] Bob is thinking
+[46]/[99] Alice becomes hungry
+[46]/[99] Alice gets the right fork
+[46]/[100] Alice is thinking
+[46]/[100] Alice becomes hungry
+[46]/[100] Alice gets the right fork
+[46]/[101] Alice is thinking
+[31]/[112] Carol becomes hungry
+[31]/[113] Carol is thinking
+[36]/[94] David finishes 35th dinner
+[36]/[95] David is thinking
+[36]/[95] David becomes hungry
+[36]/[95] David gets the right fork
+[36]/[95] David gets the left fork
+[40]/[100] Esan finishes 39th dinner
+[40]/[101] Esan is thinking
+[37]/[95] David finishes 36th dinner
+[37]/[96] David is thinking
+[46]/[101] Alice becomes hungry
+[46]/[101] Alice gets the right fork
+[46]/[101] Alice gets the left fork
+[40]/[101] Esan becomes hungry
+[40]/[101] Esan gets the right fork
+[40]/[101] Esan gets the left fork
+[31]/[113] Carol becomes hungry
+[31]/[114] Carol is thinking
+[31]/[114] Carol becomes hungry
+[31]/[115] Carol is thinking
+[39]/[114] Bob becomes hungry
+[39]/[114] Bob gets the right fork
+[39]/[115] Bob is thinking
+[47]/[101] Alice finishes 46th dinner
+[47]/[102] Alice is thinking
+[37]/[96] David becomes hungry
+[37]/[96] David gets the right fork
+[37]/[96] David gets the left fork
+[47]/[102] Alice becomes hungry
+[47]/[102] Alice gets the right fork
+[47]/[103] Alice is thinking
+[47]/[103] Alice becomes hungry
+[47]/[103] Alice gets the right fork
+[47]/[104] Alice is thinking
+[31]/[115] Carol becomes hungry
+[31]/[116] Carol is thinking
+[31]/[116] Carol becomes hungry
+[31]/[117] Carol is thinking
+[39]/[115] Bob becomes hungry
+[39]/[116] Bob is thinking
+[41]/[101] Esan finishes 40th dinner
+[41]/[102] Esan is thinking
+[41]/[102] Esan becomes hungry
+[41]/[102] Esan gets the right fork
+[41]/[102] Esan gets the left fork
+[39]/[116] Bob becomes hungry
+[39]/[117] Bob is thinking
+[39]/[117] Bob becomes hungry
+[39]/[118] Bob is thinking
+[31]/[117] Carol becomes hungry
+[31]/[118] Carol is thinking
+[38]/[96] David finishes 37th dinner
+[38]/[97] David is thinking
+[42]/[102] Esan finishes 41th dinner
+[42]/[103] Esan is thinking
+[31]/[118] Carol becomes hungry
+[31]/[118] Carol gets the right fork
+[31]/[118] Carol gets the left fork
+[47]/[104] Alice becomes hungry
+[47]/[105] Alice is thinking
+[42]/[103] Esan becomes hungry
+[42]/[103] Esan gets the right fork
+[42]/[104] Esan is thinking
+[42]/[104] Esan becomes hungry
+[42]/[104] Esan gets the right fork
+[42]/[105] Esan is thinking
+[42]/[105] Esan becomes hungry
+[42]/[105] Esan gets the right fork
+[42]/[106] Esan is thinking
+[38]/[97] David becomes hungry
+[38]/[97] David gets the right fork
+[38]/[97] David gets the left fork
+[39]/[118] Bob becomes hungry
+[39]/[119] Bob is thinking
+[39]/[119] Bob becomes hungry
+[39]/[120] Bob is thinking
+[32]/[118] Carol finishes 31th dinner
+[32]/[119] Carol is thinking
+[42]/[106] Esan becomes hungry
+[42]/[106] Esan gets the right fork
+[42]/[106] Esan gets the left fork
+[47]/[105] Alice becomes hungry
+[47]/[105] Alice gets the right fork
+[47]/[106] Alice is thinking
+[39]/[97] David finishes 38th dinner
+[39]/[98] David is thinking
+[39]/[98] David becomes hungry
+[39]/[98] David gets the right fork
+[39]/[98] David gets the left fork
+[32]/[119] Carol becomes hungry
+[32]/[120] Carol is thinking
+[43]/[106] Esan finishes 42th dinner
+[43]/[107] Esan is thinking
+[39]/[120] Bob becomes hungry
+[39]/[121] Bob is thinking
+[40]/[98] David finishes 39th dinner
+[40]/[99] David is thinking
+[47]/[106] Alice becomes hungry
+[47]/[106] Alice gets the right fork
+[47]/[106] Alice gets the left fork
+[43]/[107] Esan becomes hungry
+[43]/[107] Esan gets the right fork
+[43]/[107] Esan gets the left fork
+[44]/[107] Esan finishes 43th dinner
+[44]/[108] Esan is thinking
+[39]/[121] Bob becomes hungry
+[39]/[121] Bob gets the right fork
+[39]/[121] Bob gets the left fork
+[32]/[120] Carol becomes hungry
+[32]/[120] Carol gets the right fork
+[32]/[121] Carol is thinking
+[40]/[99] David becomes hungry
+[40]/[100] David is thinking
+[44]/[108] Esan becomes hungry
+[44]/[109] Esan is thinking
+[44]/[109] Esan becomes hungry
+[44]/[110] Esan is thinking
+[40]/[100] David becomes hungry
+[40]/[101] David is thinking
+[48]/[106] Alice finishes 47th dinner
+[48]/[107] Alice is thinking
+[48]/[107] Alice becomes hungry
+[48]/[107] Alice gets the right fork
+[48]/[107] Alice gets the left fork
+[40]/[121] Bob finishes 39th dinner
+[40]/[122] Bob is thinking
+[32]/[121] Carol becomes hungry
+[32]/[121] Carol gets the right fork
+[32]/[122] Carol is thinking
+[32]/[122] Carol becomes hungry
+[32]/[122] Carol gets the right fork
+[32]/[123] Carol is thinking
+[40]/[101] David becomes hungry
 [40]/[102] David is thinking
+[44]/[110] Esan becomes hungry
+[44]/[110] Esan gets the right fork
+[44]/[110] Esan gets the left fork
+[40]/[122] Bob becomes hungry
+[40]/[122] Bob gets the right fork
+[40]/[123] Bob is thinking
+[49]/[107] Alice finishes 48th dinner
+[49]/[108] Alice is thinking
+[49]/[108] Alice becomes hungry
+[49]/[108] Alice gets the right fork
+[49]/[108] Alice gets the left fork
+[45]/[110] Esan finishes 44th dinner
+[45]/[111] Esan is thinking
+[32]/[123] Carol becomes hungry
+[32]/[123] Carol gets the right fork
+[32]/[124] Carol is thinking
+[45]/[111] Esan becomes hungry
+[45]/[111] Esan gets the right fork
+[45]/[111] Esan gets the left fork
+[40]/[123] Bob becomes hungry
+[40]/[123] Bob gets the right fork
+[40]/[124] Bob is thinking
+[40]/[124] Bob becomes hungry
+[40]/[124] Bob gets the right fork
+[40]/[125] Bob is thinking
 [40]/[102] David becomes hungry
-[40]/[102] David gets the right fork
-[40]/[102] David gets the left fork
-[41]/[102] David finishes 40th dinner
-[41]/[103] David is thinking
-[32]/[83] Bob becomes hungry
-[32]/[83] Bob gets the right fork
-[37]/[100] Esan finishes 36th dinner
-[32]/[84] Bob is thinking
-[37]/[101] Esan is thinking
-[35]/[95] Carol becomes hungry
-[37]/[101] Esan becomes hungry
-[37]/[101] Esan gets the right fork
-[37]/[101] Esan gets the left fork
-[38]/[101] Esan finishes 37th dinner
-[38]/[102] Esan is thinking
-[35]/[96] Carol is thinking
-[41]/[103] David becomes hungry
-[41]/[103] David gets the right fork
-[41]/[103] David gets the left fork
-[42]/[103] David finishes 41th dinner
-[42]/[104] David is thinking
-[39]/[92] Alice becomes hungry
-[39]/[92] Alice gets the right fork
-[39]/[92] Alice gets the left fork
-[40]/[92] Alice finishes 39th dinner
-[40]/[93] Alice is thinking
-[38]/[102] Esan becomes hungry
-[38]/[102] Esan gets the right fork
-[38]/[102] Esan gets the left fork
-[35]/[96] Carol becomes hungry
-[35]/[97] Carol is thinking
-[32]/[84] Bob becomes hungry
-[35]/[97] Carol becomes hungry
-[35]/[98] Carol is thinking
-[32]/[84] Bob gets the right fork
-[32]/[85] Bob is thinking
-[32]/[85] Bob becomes hungry
-[32]/[85] Bob gets the right fork
-[32]/[86] Bob is thinking
-[32]/[86] Bob becomes hungry
-[32]/[86] Bob gets the right fork
-[32]/[87] Bob is thinking
-[32]/[87] Bob becomes hungry
-[32]/[87] Bob gets the right fork
-[32]/[88] Bob is thinking
-[42]/[104] David becomes hungry
-[42]/[104] David gets the right fork
-[42]/[104] David gets the left fork
-[40]/[93] Alice becomes hungry
-[40]/[93] Alice gets the right fork
-[40]/[94] Alice is thinking
-[35]/[98] Carol becomes hungry
-[35]/[99] Carol is thinking
-[35]/[99] Carol becomes hungry
-[35]/[100] Carol is thinking
-[32]/[88] Bob becomes hungry
-[35]/[100] Carol becomes hungry
-[35]/[101] Carol is thinking
-[32]/[89] Bob is thinking
-[35]/[101] Carol becomes hungry
-[35]/[102] Carol is thinking
-[39]/[102] Esan finishes 38th dinner
-[32]/[89] Bob becomes hungry
-[32]/[90] Bob is thinking
-[39]/[103] Esan is thinking
-[39]/[103] Esan becomes hungry
-[39]/[103] Esan gets the right fork
-[39]/[103] Esan gets the left fork
-[35]/[102] Carol becomes hungry
-[40]/[103] Esan finishes 39th dinner
-[40]/[104] Esan is thinking
-[35]/[102] Carol gets the right fork
-[35]/[102] Carol gets the left fork
-[43]/[104] David finishes 42th dinner
-[43]/[105] David is thinking
-[40]/[94] Alice becomes hungry
-[40]/[95] Alice is thinking
-[40]/[95] Alice becomes hungry
-[40]/[96] Alice is thinking
-[40]/[104] Esan becomes hungry
-[40]/[104] Esan gets the right fork
-[40]/[105] Esan is thinking
-[36]/[102] Carol finishes 35th dinner
-[32]/[90] Bob becomes hungry
-[36]/[103] Carol is thinking
-[32]/[90] Bob gets the right fork
-[32]/[90] Bob gets the left fork
-[33]/[90] Bob finishes 32th dinner
-[33]/[91] Bob is thinking
-[43]/[105] David becomes hungry
-[43]/[105] David gets the right fork
-[40]/[96] Alice becomes hungry
-[43]/[105] David gets the left fork
-[40]/[96] Alice gets the right fork
-[40]/[97] Alice is thinking
-[40]/[105] Esan becomes hungry
-[36]/[103] Carol becomes hungry
-[40]/[105] Esan gets the right fork
-[36]/[103] Carol gets the right fork
-[40]/[106] Esan is thinking
-[36]/[103] Carol gets the left fork
-[33]/[91] Bob becomes hungry
-[33]/[92] Bob is thinking
-[44]/[105] David finishes 43th dinner
-[44]/[106] David is thinking
-[40]/[97] Alice becomes hungry
-[44]/[106] David becomes hungry
-[44]/[106] David gets the right fork
-[44]/[106] David gets the left fork
-[45]/[106] David finishes 44th dinner
-[45]/[107] David is thinking
-[40]/[98] Alice is thinking
-[37]/[103] Carol finishes 36th dinner
-[37]/[104] Carol is thinking
-[33]/[92] Bob becomes hungry
-[33]/[92] Bob gets the right fork
-[33]/[92] Bob gets the left fork
-[40]/[106] Esan becomes hungry
-[40]/[107] Esan is thinking
-[40]/[98] Alice becomes hungry
-[45]/[107] David becomes hungry
-[40]/[98] Alice gets the right fork
-[40]/[98] Alice gets the left fork
-[45]/[108] David is thinking
-[45]/[108] David becomes hungry
-[37]/[104] Carol becomes hungry
-[45]/[109] David is thinking
-[41]/[98] Alice finishes 40th dinner
-[37]/[104] Carol gets the right fork
-[34]/[92] Bob finishes 33th dinner
-[45]/[109] David becomes hungry
-[41]/[99] Alice is thinking
-[34]/[93] Bob is thinking
-[37]/[105] Carol is thinking
-[45]/[109] David gets the right fork
-[45]/[109] David gets the left fork
-[37]/[105] Carol becomes hungry
-[46]/[109] David finishes 45th dinner
-[40]/[107] Esan becomes hungry
-[40]/[107] Esan gets the right fork
-[40]/[108] Esan is thinking
-[40]/[108] Esan becomes hungry
-[40]/[108] Esan gets the right fork
-[40]/[109] Esan is thinking
-[37]/[105] Carol gets the right fork
-[37]/[105] Carol gets the left fork
-[46]/[110] David is thinking
-[46]/[110] David becomes hungry
-[46]/[110] David gets the right fork
-[46]/[110] David gets the left fork
-[47]/[110] David finishes 46th dinner
-[47]/[111] David is thinking
-[40]/[109] Esan becomes hungry
-[40]/[109] Esan gets the right fork
-[40]/[110] Esan is thinking
-[34]/[93] Bob becomes hungry
-[34]/[93] Bob gets the right fork
-[34]/[93] Bob gets the left fork
-[47]/[111] David becomes hungry
-[41]/[99] Alice becomes hungry
-[38]/[105] Carol finishes 37th dinner
-[41]/[100] Alice is thinking
-[38]/[106] Carol is thinking
-[38]/[106] Carol becomes hungry
-[38]/[106] Carol gets the right fork
-[38]/[106] Carol gets the left fork
-[39]/[106] Carol finishes 38th dinner
-[39]/[107] Carol is thinking
-[39]/[107] Carol becomes hungry
-[39]/[107] Carol gets the right fork
-[39]/[107] Carol gets the left fork
-[47]/[111] David gets the right fork
-[47]/[112] David is thinking
-[47]/[112] David becomes hungry
-[47]/[112] David gets the right fork
-[47]/[113] David is thinking
-[47]/[113] David becomes hungry
-[47]/[113] David gets the right fork
-[47]/[114] David is thinking
-[40]/[110] Esan becomes hungry
-[35]/[93] Bob finishes 34th dinner
-[40]/[111] Esan is thinking
-[40]/[107] Carol finishes 39th dinner
-[40]/[111] Esan becomes hungry
-[40]/[111] Esan gets the right fork
-[40]/[112] Esan is thinking
-[35]/[94] Bob is thinking
-[40]/[108] Carol is thinking
-[40]/[108] Carol becomes hungry
-[40]/[108] Carol gets the right fork
-[40]/[108] Carol gets the left fork
-[41]/[100] Alice becomes hungry
-[41]/[101] Alice is thinking
-[41]/[101] Alice becomes hungry
-[41]/[102] Alice is thinking
-[41]/[102] Alice becomes hungry
-[41]/[103] Alice is thinking
-[40]/[112] Esan becomes hungry
-[47]/[114] David becomes hungry
-[40]/[112] Esan gets the right fork
-[47]/[114] David gets the right fork
-[47]/[114] David gets the left fork
-[40]/[113] Esan is thinking
-[40]/[113] Esan becomes hungry
-[48]/[114] David finishes 47th dinner
-[40]/[113] Esan gets the right fork
-[48]/[115] David is thinking
-[40]/[114] Esan is thinking
-[48]/[115] David becomes hungry
-[41]/[103] Alice becomes hungry
-[40]/[114] Esan becomes hungry
-[41]/[104] Alice is thinking
-[40]/[114] Esan gets the right fork
-[41]/[104] Alice becomes hungry
-[41]/[105] Alice is thinking
-[41]/[105] Alice becomes hungry
-[35]/[94] Bob becomes hungry
-[40]/[115] Esan is thinking
-[48]/[115] David gets the right fork
-[35]/[94] Bob gets the right fork
-[35]/[94] Bob gets the left fork
+[40]/[103] David is thinking
+[46]/[111] Esan finishes 45th dinner
+[46]/[112] Esan is thinking
+[32]/[124] Carol becomes hungry
+[32]/[124] Carol gets the right fork
+[32]/[125] Carol is thinking
+[40]/[125] Bob becomes hungry
+[40]/[125] Bob gets the right fork
+[40]/[125] Bob gets the left fork
+[50]/[108] Alice finishes 49th dinner
+[50]/[109] Alice is thinking
+[50]/[109] Alice becomes hungry
+[50]/[109] Alice gets the right fork
+[50]/[109] Alice gets the left fork
+[32]/[125] Carol becomes hungry
+[32]/[125] Carol gets the right fork
+[32]/[126] Carol is thinking
+[40]/[103] David becomes hungry
+[40]/[104] David is thinking
+[46]/[112] Esan becomes hungry
+[46]/[113] Esan is thinking
+[32]/[126] Carol becomes hungry
+[32]/[126] Carol gets the right fork
+[32]/[127] Carol is thinking
+[41]/[125] Bob finishes 40th dinner
+[41]/[126] Bob is thinking
+[32]/[127] Carol becomes hungry
+[32]/[127] Carol gets the right fork
+[32]/[128] Carol is thinking
+[51]/[109] Alice finishes 50th dinner
+[51]/[110] Alice is thinking
+[46]/[113] Esan becomes hungry
+[46]/[113] Esan gets the right fork
+[46]/[113] Esan gets the left fork
+[51]/[110] Alice becomes hungry
+[51]/[110] Alice gets the right fork
+[51]/[110] Alice gets the left fork
+[32]/[128] Carol becomes hungry
+[32]/[129] Carol is thinking
+[40]/[104] David becomes hungry
+[40]/[105] David is thinking
+[41]/[126] Bob becomes hungry
+[41]/[126] Bob gets the right fork
+[41]/[127] Bob is thinking
+[52]/[110] Alice finishes 51th dinner
+[52]/[111] Alice is thinking
+[52]/[111] Alice becomes hungry
+[52]/[111] Alice gets the right fork
+[52]/[111] Alice gets the left fork
+[53]/[111] Alice finishes 52th dinner
+[53]/[112] Alice is thinking
+[40]/[105] David becomes hungry
+[40]/[105] David gets the right fork
+[40]/[105] David gets the left fork
+[47]/[113] Esan finishes 46th dinner
+[47]/[114] Esan is thinking
+[32]/[129] Carol becomes hungry
+[32]/[129] Carol gets the right fork
+[32]/[129] Carol gets the left fork
+[41]/[127] Bob becomes hungry
+[41]/[128] Bob is thinking
+[53]/[112] Alice becomes hungry
+[53]/[113] Alice is thinking
+[47]/[114] Esan becomes hungry
+[47]/[114] Esan gets the right fork
+[47]/[115] Esan is thinking
+[47]/[115] Esan becomes hungry
+[47]/[115] Esan gets the right fork
+[47]/[116] Esan is thinking
+[47]/[116] Esan becomes hungry
+[47]/[116] Esan gets the right fork
+[47]/[117] Esan is thinking
+[41]/[128] Bob becomes hungry
+[41]/[129] Bob is thinking
+[33]/[129] Carol finishes 32th dinner
+[33]/[130] Carol is thinking
+[41]/[105] David finishes 40th dinner
+[41]/[106] David is thinking
+[53]/[113] Alice becomes hungry
+[53]/[113] Alice gets the right fork
+[53]/[113] Alice gets the left fork
+[47]/[117] Esan becomes hungry
+[47]/[117] Esan gets the right fork
+[47]/[117] Esan gets the left fork
+[33]/[130] Carol becomes hungry
+[33]/[131] Carol is thinking
+[41]/[129] Bob becomes hungry
+[41]/[129] Bob gets the right fork
+[41]/[130] Bob is thinking
+[54]/[113] Alice finishes 53th dinner
+[54]/[114] Alice is thinking
+[41]/[130] Bob becomes hungry
+[41]/[130] Bob gets the right fork
+[41]/[131] Bob is thinking
+[48]/[117] Esan finishes 47th dinner
+[48]/[118] Esan is thinking
+[54]/[114] Alice becomes hungry
+[54]/[114] Alice gets the right fork
+[54]/[114] Alice gets the left fork
+[55]/[114] Alice finishes 54th dinner
+[55]/[115] Alice is thinking
+[41]/[106] David becomes hungry
+[41]/[106] David gets the right fork
+[41]/[106] David gets the left fork
+[41]/[131] Bob becomes hungry
+[41]/[132] Bob is thinking
+[33]/[131] Carol becomes hungry
+[33]/[131] Carol gets the right fork
+[33]/[131] Carol gets the left fork
+[55]/[115] Alice becomes hungry
+[55]/[116] Alice is thinking
+[48]/[118] Esan becomes hungry
+[48]/[118] Esan gets the right fork
+[48]/[119] Esan is thinking
+[41]/[132] Bob becomes hungry
+[41]/[133] Bob is thinking
+[42]/[106] David finishes 41th dinner
+[42]/[107] David is thinking
+[48]/[119] Esan becomes hungry
+[48]/[119] Esan gets the right fork
+[48]/[120] Esan is thinking
+[34]/[131] Carol finishes 33th dinner
+[34]/[132] Carol is thinking
+[42]/[107] David becomes hungry
+[42]/[107] David gets the right fork
+[42]/[107] David gets the left fork
+[48]/[120] Esan becomes hungry
+[48]/[120] Esan gets the right fork
+[48]/[120] Esan gets the left fork
+[34]/[132] Carol becomes hungry
+[34]/[133] Carol is thinking
+[55]/[116] Alice becomes hungry
+[55]/[116] Alice gets the right fork
+[55]/[117] Alice is thinking
+[55]/[117] Alice becomes hungry
+[55]/[117] Alice gets the right fork
+[55]/[118] Alice is thinking
+[41]/[133] Bob becomes hungry
+[41]/[134] Bob is thinking
+[43]/[107] David finishes 42th dinner
+[43]/[108] David is thinking
+[49]/[120] Esan finishes 48th dinner
+[49]/[121] Esan is thinking
+[43]/[108] David becomes hungry
+[43]/[108] David gets the right fork
+[43]/[108] David gets the left fork
+[44]/[108] David finishes 43th dinner
+[44]/[109] David is thinking
+[49]/[121] Esan becomes hungry
+[49]/[121] Esan gets the right fork
+[49]/[121] Esan gets the left fork
+[41]/[134] Bob becomes hungry
+[41]/[134] Bob gets the right fork
+[41]/[135] Bob is thinking
+[50]/[121] Esan finishes 49th dinner
+[50]/[122] Esan is thinking
+[44]/[109] David becomes hungry
+[44]/[109] David gets the right fork
+[44]/[109] David gets the left fork
+[55]/[118] Alice becomes hungry
+[55]/[118] Alice gets the right fork
+[55]/[119] Alice is thinking
+[34]/[133] Carol becomes hungry
+[34]/[133] Carol gets the right fork
+[34]/[133] Carol gets the left fork
+[50]/[122] Esan becomes hungry
+[50]/[122] Esan gets the right fork
+[50]/[123] Esan is thinking
+[55]/[119] Alice becomes hungry
+[55]/[120] Alice is thinking
+[55]/[120] Alice becomes hungry
+[55]/[121] Alice is thinking
+[41]/[135] Bob becomes hungry
+[41]/[136] Bob is thinking
+[50]/[123] Esan becomes hungry
+[50]/[123] Esan gets the right fork
+[50]/[124] Esan is thinking
+[50]/[124] Esan becomes hungry
+[50]/[124] Esan gets the right fork
+[50]/[125] Esan is thinking
+[35]/[133] Carol finishes 34th dinner
+[35]/[134] Carol is thinking
+[55]/[121] Alice becomes hungry
+[55]/[121] Alice gets the right fork
+[55]/[122] Alice is thinking
+[41]/[136] Bob becomes hungry
+[41]/[137] Bob is thinking
+[45]/[109] David finishes 44th dinner
+[45]/[110] David is thinking
+[45]/[110] David becomes hungry
+[45]/[110] David gets the right fork
+[45]/[110] David gets the left fork
+[46]/[110] David finishes 45th dinner
+[46]/[111] David is thinking
+[35]/[134] Carol becomes hungry
+[35]/[134] Carol gets the right fork
+[35]/[134] Carol gets the left fork
+[50]/[125] Esan becomes hungry
+[50]/[125] Esan gets the right fork
+[50]/[126] Esan is thinking
+[55]/[122] Alice becomes hungry
+[55]/[123] Alice is thinking
+[55]/[123] Alice becomes hungry
+[55]/[124] Alice is thinking
+[41]/[137] Bob becomes hungry
+[41]/[137] Bob gets the right fork
+[41]/[137] Bob gets the left fork
+[36]/[134] Carol finishes 35th dinner
+[36]/[135] Carol is thinking
+[46]/[111] David becomes hungry
+[46]/[111] David gets the right fork
+[46]/[112] David is thinking
+[36]/[135] Carol becomes hungry
+[36]/[135] Carol gets the right fork
+[36]/[135] Carol gets the left fork
+[55]/[124] Alice becomes hungry
+[55]/[125] Alice is thinking
+[55]/[125] Alice becomes hungry
+[55]/[126] Alice is thinking
+[46]/[112] David becomes hungry
+[46]/[112] David gets the right fork
+[46]/[113] David is thinking
+[42]/[137] Bob finishes 41th dinner
+[42]/[138] Bob is thinking
+[42]/[138] Bob becomes hungry
+[42]/[138] Bob gets the right fork
+[42]/[138] Bob gets the left fork
+[50]/[126] Esan becomes hungry
+[50]/[127] Esan is thinking
+[37]/[135] Carol finishes 36th dinner
+[37]/[136] Carol is thinking
+[46]/[113] David becomes hungry
+[46]/[113] David gets the right fork
+[46]/[114] David is thinking
+[55]/[126] Alice becomes hungry
+[55]/[126] Alice gets the right fork
+[55]/[126] Alice gets the left fork
+[50]/[127] Esan becomes hungry
+[50]/[128] Esan is thinking
+[56]/[126] Alice finishes 55th dinner
+[56]/[127] Alice is thinking
+[43]/[138] Bob finishes 42th dinner
+[43]/[139] Bob is thinking
+[46]/[114] David becomes hungry
+[46]/[114] David gets the right fork
+[46]/[114] David gets the left fork
+[37]/[136] Carol becomes hungry
+[37]/[136] Carol gets the right fork
+[37]/[136] Carol gets the left fork
+[50]/[128] Esan becomes hungry
+[50]/[128] Esan gets the right fork
+[50]/[129] Esan is thinking
+[38]/[136] Carol finishes 37th dinner
+[38]/[137] Carol is thinking
+[56]/[127] Alice becomes hungry
+[56]/[127] Alice gets the right fork
+[56]/[128] Alice is thinking
+[43]/[139] Bob becomes hungry
+[43]/[140] Bob is thinking
+[38]/[137] Carol becomes hungry
+[38]/[137] Carol gets the right fork
+[38]/[137] Carol gets the left fork
+[47]/[114] David finishes 46th dinner
+[47]/[115] David is thinking
+[56]/[128] Alice becomes hungry
+[56]/[129] Alice is thinking
+[47]/[115] David becomes hungry
+[47]/[115] David gets the right fork
+[47]/[115] David gets the left fork
+[56]/[129] Alice becomes hungry
+[56]/[130] Alice is thinking
+[48]/[115] David finishes 47th dinner
 [48]/[116] David is thinking
-[41]/[106] Alice is thinking
-[41]/[108] Carol finishes 40th dinner
-[41]/[109] Carol is thinking
+[39]/[137] Carol finishes 38th dinner
+[39]/[138] Carol is thinking
+[50]/[129] Esan becomes hungry
+[50]/[129] Esan gets the right fork
+[50]/[129] Esan gets the left fork
+[56]/[130] Alice becomes hungry
+[56]/[130] Alice gets the right fork
+[56]/[130] Alice gets the left fork
+[57]/[130] Alice finishes 56th dinner
+[57]/[131] Alice is thinking
+[57]/[131] Alice becomes hungry
+[57]/[131] Alice gets the right fork
+[57]/[131] Alice gets the left fork
+[51]/[129] Esan finishes 50th dinner
+[51]/[130] Esan is thinking
+[43]/[140] Bob becomes hungry
+[43]/[140] Bob gets the right fork
+[43]/[140] Bob gets the left fork
+[44]/[140] Bob finishes 43th dinner
+[44]/[141] Bob is thinking
+[51]/[130] Esan becomes hungry
+[51]/[130] Esan gets the right fork
+[51]/[130] Esan gets the left fork
 [48]/[116] David becomes hungry
-[41]/[106] Alice becomes hungry
-[48]/[116] David gets the right fork
-[41]/[106] Alice gets the right fork
-[41]/[106] Alice gets the left fork
 [48]/[117] David is thinking
+[39]/[138] Carol becomes hungry
+[39]/[139] Carol is thinking
+[52]/[130] Esan finishes 51th dinner
+[52]/[131] Esan is thinking
+[44]/[141] Bob becomes hungry
+[44]/[141] Bob gets the right fork
+[44]/[141] Bob gets the left fork
+[52]/[131] Esan becomes hungry
+[52]/[132] Esan is thinking
+[58]/[131] Alice finishes 57th dinner
+[58]/[132] Alice is thinking
 [48]/[117] David becomes hungry
+[48]/[117] David gets the right fork
 [48]/[118] David is thinking
-[48]/[118] David becomes hungry
-[48]/[119] David is thinking
-[36]/[94] Bob finishes 35th dinner
-[41]/[109] Carol becomes hungry
-[36]/[95] Bob is thinking
-[41]/[109] Carol gets the right fork
-[41]/[110] Carol is thinking
-[36]/[95] Bob becomes hungry
-[36]/[95] Bob gets the right fork
-[36]/[95] Bob gets the left fork
-[41]/[110] Carol becomes hungry
-[41]/[110] Carol gets the right fork
-[41]/[111] Carol is thinking
-[37]/[95] Bob finishes 36th dinner
-[37]/[96] Bob is thinking
-[40]/[115] Esan becomes hungry
-[40]/[115] Esan gets the right fork
-[40]/[115] Esan gets the left fork
-[48]/[119] David becomes hungry
-[42]/[106] Alice finishes 41th dinner
-[48]/[120] David is thinking
-[42]/[107] Alice is thinking
-[48]/[120] David becomes hungry
-[48]/[120] David gets the right fork
-[42]/[107] Alice becomes hungry
-[48]/[120] David gets the left fork
-[42]/[107] Alice gets the right fork
-[42]/[108] Alice is thinking
-[49]/[120] David finishes 48th dinner
-[49]/[121] David is thinking
-[41]/[115] Esan finishes 40th dinner
-[41]/[111] Carol becomes hungry
-[41]/[116] Esan is thinking
-[41]/[111] Carol gets the right fork
-[41]/[111] Carol gets the left fork
-[41]/[116] Esan becomes hungry
-[41]/[116] Esan gets the right fork
-[41]/[117] Esan is thinking
-[49]/[121] David becomes hungry
-[49]/[121] David gets the right fork
-[49]/[121] David gets the left fork
-[37]/[96] Bob becomes hungry
-[50]/[121] David finishes 49th dinner
-[37]/[97] Bob is thinking
-[42]/[108] Alice becomes hungry
-[50]/[122] David is thinking
-[42]/[109] Alice is thinking
-[42]/[109] Alice becomes hungry
-[37]/[97] Bob becomes hungry
-[42]/[110] Alice is thinking
-[50]/[122] David becomes hungry
-[41]/[117] Esan becomes hungry
-[41]/[117] Esan gets the right fork
-[50]/[122] David gets the right fork
-[41]/[118] Esan is thinking
-[42]/[111] Carol finishes 41th dinner
-[50]/[123] David is thinking
-[41]/[118] Esan becomes hungry
-[41]/[118] Esan gets the right fork
-[42]/[112] Carol is thinking
-[41]/[118] Esan gets the left fork
-[42]/[118] Esan finishes 41th dinner
-[37]/[97] Bob gets the right fork
-[42]/[119] Esan is thinking
-[37]/[97] Bob gets the left fork
-[38]/[97] Bob finishes 37th dinner
-[38]/[98] Bob is thinking
-[42]/[112] Carol becomes hungry
-[42]/[112] Carol gets the right fork
-[42]/[112] Carol gets the left fork
-[42]/[119] Esan becomes hungry
-[50]/[123] David becomes hungry
-[42]/[119] Esan gets the right fork
-[50]/[123] David gets the right fork
-[42]/[120] Esan is thinking
-[42]/[110] Alice becomes hungry
-[42]/[111] Alice is thinking
-[50]/[123] David gets the left fork
-[42]/[111] Alice becomes hungry
-[42]/[112] Alice is thinking
-[42]/[112] Alice becomes hungry
-[42]/[113] Alice is thinking
-[42]/[113] Alice becomes hungry
-[42]/[114] Alice is thinking
-[43]/[112] Carol finishes 42th dinner
-[43]/[113] Carol is thinking
-[42]/[114] Alice becomes hungry
-[42]/[120] Esan becomes hungry
-[43]/[113] Carol becomes hungry
-[51]/[123] David finishes 50th dinner
-[42]/[120] Esan gets the right fork
-[38]/[98] Bob becomes hungry
-[51]/[124] David is thinking
-[42]/[114] Alice gets the right fork
-[38]/[98] Bob gets the right fork
-[38]/[98] Bob gets the left fork
-[42]/[114] Alice gets the left fork
-[51]/[124] David becomes hungry
-[42]/[121] Esan is thinking
-[43]/[114] Alice finishes 42th dinner
-[51]/[125] David is thinking
-[42]/[121] Esan becomes hungry
-[43]/[113] Carol gets the right fork
-[42]/[122] Esan is thinking
-[43]/[113] Carol gets the left fork
-[44]/[113] Carol finishes 43th dinner
-[44]/[114] Carol is thinking
-[42]/[122] Esan becomes hungry
-[43]/[115] Alice is thinking
-[42]/[123] Esan is thinking
-[42]/[123] Esan becomes hungry
-[39]/[98] Bob finishes 38th dinner
-[42]/[124] Esan is thinking
-[39]/[99] Bob is thinking
-[44]/[114] Carol becomes hungry
-[44]/[114] Carol gets the right fork
-[44]/[114] Carol gets the left fork
-[45]/[114] Carol finishes 44th dinner
-[45]/[115] Carol is thinking
-[51]/[125] David becomes hungry
-[43]/[115] Alice becomes hungry
-[43]/[115] Alice gets the right fork
-[43]/[116] Alice is thinking
-[51]/[125] David gets the right fork
-[51]/[125] David gets the left fork
-[45]/[115] Carol becomes hungry
-[39]/[99] Bob becomes hungry
-[39]/[100] Bob is thinking
-[52]/[125] David finishes 51th dinner
-[52]/[126] David is thinking
-[52]/[126] David becomes hungry
-[52]/[126] David gets the right fork
-[52]/[126] David gets the left fork
-[53]/[126] David finishes 52th dinner
-[53]/[127] David is thinking
-[53]/[127] David becomes hungry
-[53]/[127] David gets the right fork
-[53]/[127] David gets the left fork
-[45]/[115] Carol gets the right fork
-[45]/[115] Carol gets the left fork
-[46]/[115] Carol finishes 45th dinner
-[46]/[116] Carol is thinking
-[42]/[124] Esan becomes hungry
-[42]/[124] Esan gets the right fork
-[42]/[124] Esan gets the left fork
-[43]/[124] Esan finishes 42th dinner
-[43]/[125] Esan is thinking
-[43]/[125] Esan becomes hungry
-[43]/[125] Esan gets the right fork
-[43]/[125] Esan gets the left fork
-[44]/[125] Esan finishes 43th dinner
-[44]/[126] Esan is thinking
-[44]/[126] Esan becomes hungry
-[44]/[126] Esan gets the right fork
-[44]/[126] Esan gets the left fork
-[43]/[116] Alice becomes hungry
-[45]/[126] Esan finishes 44th dinner
-[43]/[116] Alice gets the right fork
-[43]/[117] Alice is thinking
-[45]/[127] Esan is thinking
-[45]/[127] Esan becomes hungry
-[45]/[127] Esan gets the right fork
-[45]/[127] Esan gets the left fork
-[43]/[117] Alice becomes hungry
-[39]/[100] Bob becomes hungry
-[46]/[127] Esan finishes 45th dinner
-[39]/[101] Bob is thinking
-[46]/[128] Esan is thinking
-[43]/[117] Alice gets the right fork
-[46]/[116] Carol becomes hungry
-[46]/[116] Carol gets the right fork
-[46]/[117] Carol is thinking
-[43]/[118] Alice is thinking
-[46]/[117] Carol becomes hungry
-[46]/[117] Carol gets the right fork
-[43]/[118] Alice becomes hungry
-[43]/[118] Alice gets the right fork
-[43]/[119] Alice is thinking
-[46]/[117] Carol gets the left fork
-[54]/[127] David finishes 53th dinner
-[47]/[117] Carol finishes 46th dinner
-[47]/[118] Carol is thinking
-[54]/[128] David is thinking
-[47]/[118] Carol becomes hungry
-[47]/[118] Carol gets the right fork
-[47]/[118] Carol gets the left fork
-[48]/[118] Carol finishes 47th dinner
-[48]/[119] Carol is thinking
-[43]/[119] Alice becomes hungry
-[43]/[119] Alice gets the right fork
-[43]/[119] Alice gets the left fork
-[39]/[101] Bob becomes hungry
-[39]/[101] Bob gets the right fork
-[39]/[101] Bob gets the left fork
-[40]/[101] Bob finishes 39th dinner
-[40]/[102] Bob is thinking
-[40]/[102] Bob becomes hungry
-[40]/[102] Bob gets the right fork
-[40]/[102] Bob gets the left fork
-[41]/[102] Bob finishes 40th dinner
-[41]/[103] Bob is thinking
-[41]/[103] Bob becomes hungry
-[41]/[103] Bob gets the right fork
-[41]/[103] Bob gets the left fork
-[42]/[103] Bob finishes 41th dinner
-[42]/[104] Bob is thinking
-[54]/[128] David becomes hungry
-[54]/[129] David is thinking
-[48]/[119] Carol becomes hungry
-[54]/[129] David becomes hungry
-[54]/[130] David is thinking
-[48]/[119] Carol gets the right fork
-[48]/[120] Carol is thinking
-[46]/[128] Esan becomes hungry
-[48]/[120] Carol becomes hungry
-[48]/[120] Carol gets the right fork
-[44]/[119] Alice finishes 43th dinner
-[44]/[120] Alice is thinking
-[44]/[120] Alice becomes hungry
-[44]/[120] Alice gets the right fork
-[44]/[120] Alice gets the left fork
-[42]/[104] Bob becomes hungry
-[45]/[120] Alice finishes 44th dinner
-[42]/[104] Bob gets the right fork
-[45]/[121] Alice is thinking
-[42]/[105] Bob is thinking
-[45]/[121] Alice becomes hungry
-[45]/[121] Alice gets the right fork
-[45]/[121] Alice gets the left fork
-[46]/[121] Alice finishes 45th dinner
-[46]/[122] Alice is thinking
-[46]/[122] Alice becomes hungry
-[46]/[122] Alice gets the right fork
-[46]/[122] Alice gets the left fork
-[48]/[121] Carol is thinking
-[46]/[128] Esan gets the right fork
-[46]/[128] Esan gets the left fork
-[47]/[128] Esan finishes 46th dinner
-[47]/[129] Esan is thinking
-[47]/[129] Esan becomes hungry
-[47]/[129] Esan gets the right fork
-[47]/[129] Esan gets the left fork
-[54]/[130] David becomes hungry
-[54]/[131] David is thinking
-[54]/[131] David becomes hungry
-[54]/[132] David is thinking
-[42]/[105] Bob becomes hungry
-[42]/[105] Bob gets the right fork
-[47]/[122] Alice finishes 46th dinner
-[42]/[106] Bob is thinking
-[47]/[123] Alice is thinking
-[42]/[106] Bob becomes hungry
-[42]/[106] Bob gets the right fork
-[42]/[107] Bob is thinking
-[42]/[107] Bob becomes hungry
-[42]/[107] Bob gets the right fork
-[42]/[108] Bob is thinking
-[48]/[121] Carol becomes hungry
-[48]/[122] Carol is thinking
-[48]/[129] Esan finishes 47th dinner
-[48]/[130] Esan is thinking
-[48]/[130] Esan becomes hungry
-[48]/[130] Esan gets the right fork
-[48]/[130] Esan gets the left fork
-[54]/[132] David becomes hungry
-[54]/[132] David gets the right fork
-[54]/[132] David gets the left fork
-[55]/[132] David finishes 54th dinner
-[55]/[133] David is thinking
-[55]/[133] David becomes hungry
-[55]/[133] David gets the right fork
-[55]/[133] David gets the left fork
-[56]/[133] David finishes 55th dinner
-[56]/[134] David is thinking
-[47]/[123] Alice becomes hungry
-[47]/[123] Alice gets the right fork
-[47]/[123] Alice gets the left fork
-[49]/[130] Esan finishes 48th dinner
-[49]/[131] Esan is thinking
-[49]/[131] Esan becomes hungry
-[49]/[131] Esan gets the right fork
-[49]/[131] Esan gets the left fork
-[42]/[108] Bob becomes hungry
-[48]/[122] Carol becomes hungry
-[42]/[108] Bob gets the right fork
-[48]/[123] Carol is thinking
-[42]/[109] Bob is thinking
-[48]/[123] Carol becomes hungry
-[42]/[109] Bob becomes hungry
-[48]/[124] Carol is thinking
-[48]/[123] Alice finishes 47th dinner
-[42]/[109] Bob gets the right fork
-[42]/[110] Bob is thinking
-[56]/[134] David becomes hungry
-[42]/[110] Bob becomes hungry
-[42]/[110] Bob gets the right fork
-[42]/[111] Bob is thinking
-[42]/[111] Bob becomes hungry
-[42]/[111] Bob gets the right fork
-[56]/[134] David gets the right fork
-[42]/[112] Bob is thinking
-[56]/[134] David gets the left fork
-[48]/[124] Alice is thinking
-[50]/[131] Esan finishes 49th dinner
-[50]/[132] Esan is thinking
-[50]/[132] Esan becomes hungry
-[50]/[132] Esan gets the right fork
-[50]/[132] Esan gets the left fork
-[42]/[112] Bob becomes hungry
-[51]/[132] Esan finishes 50th dinner
-[42]/[113] Bob is thinking
-[51]/[133] Esan is thinking
-[51]/[133] Esan becomes hungry
-[51]/[133] Esan gets the right fork
-[51]/[133] Esan gets the left fork
-[48]/[124] Alice becomes hungry
-[48]/[124] Carol becomes hungry
-[48]/[125] Carol is thinking
-[48]/[124] Alice gets the right fork
-[48]/[125] Carol becomes hungry
-[48]/[125] Alice is thinking
-[48]/[126] Carol is thinking
-[48]/[126] Carol becomes hungry
-[48]/[127] Carol is thinking
-[48]/[127] Carol becomes hungry
-[48]/[128] Carol is thinking
-[57]/[134] David finishes 56th dinner
-[57]/[135] David is thinking
-[48]/[125] Alice becomes hungry
-[48]/[128] Carol becomes hungry
-[48]/[125] Alice gets the right fork
-[48]/[129] Carol is thinking
-[57]/[135] David becomes hungry
-[48]/[125] Alice gets the left fork
-[52]/[133] Esan finishes 51th dinner
-[42]/[113] Bob becomes hungry
+[52]/[132] Esan becomes hungry
+[52]/[133] Esan is thinking
+[52]/[133] Esan becomes hungry
 [52]/[134] Esan is thinking
-[57]/[136] David is thinking
-[42]/[113] Bob gets the right fork
-[42]/[113] Bob gets the left fork
-[57]/[136] David becomes hungry
-[57]/[137] David is thinking
-[57]/[137] David becomes hungry
-[57]/[138] David is thinking
-[57]/[138] David becomes hungry
-[57]/[139] David is thinking
-[57]/[139] David becomes hungry
-[57]/[140] David is thinking
-[52]/[134] Esan becomes hungry
-[52]/[135] Esan is thinking
-[52]/[135] Esan becomes hungry
-[52]/[136] Esan is thinking
-[48]/[129] Carol becomes hungry
-[49]/[125] Alice finishes 48th dinner
-[49]/[126] Alice is thinking
-[49]/[126] Alice becomes hungry
-[49]/[126] Alice gets the right fork
-[49]/[126] Alice gets the left fork
-[50]/[126] Alice finishes 49th dinner
-[50]/[127] Alice is thinking
-[43]/[113] Bob finishes 42th dinner
-[43]/[114] Bob is thinking
-[48]/[129] Carol gets the right fork
-[48]/[129] Carol gets the left fork
-[57]/[140] David becomes hungry
-[57]/[140] David gets the right fork
-[57]/[140] David gets the left fork
-[58]/[140] David finishes 57th dinner
-[58]/[141] David is thinking
-[58]/[141] David becomes hungry
-[58]/[141] David gets the right fork
-[58]/[141] David gets the left fork
-[50]/[127] Alice becomes hungry
-[50]/[128] Alice is thinking
-[50]/[128] Alice becomes hungry
-[50]/[129] Alice is thinking
-[50]/[129] Alice becomes hungry
-[50]/[130] Alice is thinking
-[50]/[130] Alice becomes hungry
-[50]/[131] Alice is thinking
-[43]/[114] Bob becomes hungry
-[43]/[115] Bob is thinking
-[43]/[115] Bob becomes hungry
-[43]/[116] Bob is thinking
-[43]/[116] Bob becomes hungry
-[43]/[117] Bob is thinking
-[43]/[117] Bob becomes hungry
-[43]/[118] Bob is thinking
-[49]/[129] Carol finishes 48th dinner
-[49]/[130] Carol is thinking
-[52]/[136] Esan becomes hungry
-[52]/[136] Esan gets the right fork
-[52]/[136] Esan gets the left fork
-[50]/[131] Alice becomes hungry
-[50]/[131] Alice gets the right fork
-[50]/[132] Alice is thinking
-[53]/[136] Esan finishes 52th dinner
-[53]/[137] Esan is thinking
-[49]/[130] Carol becomes hungry
-[49]/[130] Carol gets the right fork
-[49]/[130] Carol gets the left fork
-[59]/[141] David finishes 58th dinner
-[50]/[130] Carol finishes 49th dinner
-[59]/[142] David is thinking
-[50]/[131] Carol is thinking
-[43]/[118] Bob becomes hungry
-[50]/[131] Carol becomes hungry
-[43]/[118] Bob gets the right fork
-[43]/[118] Bob gets the left fork
-[50]/[131] Carol gets the right fork
-[44]/[118] Bob finishes 43th dinner
-[44]/[119] Bob is thinking
-[50]/[131] Carol gets the left fork
-[51]/[131] Carol finishes 50th dinner
-[51]/[132] Carol is thinking
-[51]/[132] Carol becomes hungry
-[59]/[142] David becomes hungry
-[51]/[132] Carol gets the right fork
-[59]/[142] David gets the right fork
-[59]/[142] David gets the left fork
-[53]/[137] Esan becomes hungry
-[50]/[132] Alice becomes hungry
-[50]/[132] Alice gets the right fork
-[50]/[133] Alice is thinking
-[51]/[132] Carol gets the left fork
-[53]/[137] Esan gets the right fork
-[53]/[138] Esan is thinking
-[52]/[132] Carol finishes 51th dinner
-[52]/[133] Carol is thinking
-[52]/[133] Carol becomes hungry
-[52]/[133] Carol gets the right fork
-[52]/[133] Carol gets the left fork
-[53]/[133] Carol finishes 52th dinner
-[53]/[134] Carol is thinking
-[44]/[119] Bob becomes hungry
-[44]/[120] Bob is thinking
-[44]/[120] Bob becomes hungry
-[53]/[138] Esan becomes hungry
-[53]/[138] Esan gets the right fork
-[53]/[138] Esan gets the left fork
-[60]/[142] David finishes 59th dinner
-[44]/[121] Bob is thinking
-[53]/[134] Carol becomes hungry
-[60]/[143] David is thinking
-[50]/[133] Alice becomes hungry
-[50]/[133] Alice gets the right fork
-[50]/[133] Alice gets the left fork
-[53]/[135] Carol is thinking
-[44]/[121] Bob becomes hungry
-[44]/[121] Bob gets the right fork
-[44]/[122] Bob is thinking
-[44]/[122] Bob becomes hungry
-[44]/[122] Bob gets the right fork
-[44]/[123] Bob is thinking
-[51]/[133] Alice finishes 50th dinner
-[54]/[138] Esan finishes 53th dinner
-[53]/[135] Carol becomes hungry
-[51]/[134] Alice is thinking
-[54]/[139] Esan is thinking
-[53]/[135] Carol gets the right fork
-[53]/[135] Carol gets the left fork
-[51]/[134] Alice becomes hungry
-[54]/[135] Carol finishes 53th dinner
-[44]/[123] Bob becomes hungry
-[51]/[134] Alice gets the right fork
-[51]/[134] Alice gets the left fork
-[54]/[139] Esan becomes hungry
-[44]/[123] Bob gets the right fork
-[54]/[139] Esan gets the right fork
-[54]/[139] Esan gets the left fork
-[54]/[136] Carol is thinking
-[44]/[124] Bob is thinking
-[60]/[143] David becomes hungry
-[55]/[139] Esan finishes 54th dinner
-[55]/[140] Esan is thinking
-[60]/[144] David is thinking
-[54]/[136] Carol becomes hungry
-[60]/[144] David becomes hungry
-[60]/[145] David is thinking
-[54]/[136] Carol gets the right fork
-[54]/[137] Carol is thinking
-[60]/[145] David becomes hungry
-[60]/[146] David is thinking
-[54]/[137] Carol becomes hungry
-[54]/[137] Carol gets the right fork
-[54]/[138] Carol is thinking
-[60]/[146] David becomes hungry
-[60]/[147] David is thinking
-[55]/[140] Esan becomes hungry
-[52]/[134] Alice finishes 51th dinner
-[55]/[140] Esan gets the right fork
-[52]/[135] Alice is thinking
-[55]/[140] Esan gets the left fork
-[52]/[135] Alice becomes hungry
-[52]/[135] Alice gets the right fork
-[52]/[135] Alice gets the left fork
-[53]/[135] Alice finishes 52th dinner
-[53]/[136] Alice is thinking
-[60]/[147] David becomes hungry
-[60]/[147] David gets the right fork
-[60]/[147] David gets the left fork
-[44]/[124] Bob becomes hungry
-[54]/[138] Carol becomes hungry
-[54]/[139] Carol is thinking
-[44]/[125] Bob is thinking
-[44]/[125] Bob becomes hungry
-[44]/[126] Bob is thinking
-[54]/[139] Carol becomes hungry
-[54]/[140] Carol is thinking
-[54]/[140] Carol becomes hungry
-[54]/[141] Carol is thinking
-[54]/[141] Carol becomes hungry
-[54]/[142] Carol is thinking
-[56]/[140] Esan finishes 55th dinner
-[56]/[141] Esan is thinking
-[56]/[141] Esan becomes hungry
-[56]/[141] Esan gets the right fork
-[56]/[141] Esan gets the left fork
-[57]/[141] Esan finishes 56th dinner
-[57]/[142] Esan is thinking
-[57]/[142] Esan becomes hungry
-[57]/[142] Esan gets the right fork
-[57]/[142] Esan gets the left fork
-[61]/[147] David finishes 60th dinner
-[44]/[126] Bob becomes hungry
-[61]/[148] David is thinking
-[53]/[136] Alice becomes hungry
-[44]/[126] Bob gets the right fork
-[44]/[127] Bob is thinking
-[53]/[136] Alice gets the right fork
-[53]/[136] Alice gets the left fork
-[44]/[127] Bob becomes hungry
-[44]/[127] Bob gets the right fork
-[54]/[136] Alice finishes 53th dinner
-[44]/[128] Bob is thinking
-[54]/[137] Alice is thinking
-[54]/[137] Alice becomes hungry
-[54]/[137] Alice gets the right fork
-[54]/[137] Alice gets the left fork
-[55]/[137] Alice finishes 54th dinner
-[55]/[138] Alice is thinking
-[55]/[138] Alice becomes hungry
-[55]/[138] Alice gets the right fork
-[55]/[138] Alice gets the left fork
-[61]/[148] David becomes hungry
-[61]/[149] David is thinking
-[61]/[149] David becomes hungry
-[61]/[150] David is thinking
-[58]/[142] Esan finishes 57th dinner
-[44]/[128] Bob becomes hungry
-[58]/[143] Esan is thinking
-[44]/[128] Bob gets the right fork
-[58]/[143] Esan becomes hungry
-[58]/[143] Esan gets the right fork
-[44]/[129] Bob is thinking
-[54]/[142] Carol becomes hungry
-[54]/[143] Carol is thinking
-[54]/[143] Carol becomes hungry
-[54]/[144] Carol is thinking
-[54]/[144] Carol becomes hungry
-[54]/[145] Carol is thinking
-[58]/[143] Esan gets the left fork
-[59]/[143] Esan finishes 58th dinner
-[59]/[144] Esan is thinking
-[59]/[144] Esan becomes hungry
-[59]/[144] Esan gets the right fork
-[59]/[144] Esan gets the left fork
-[56]/[138] Alice finishes 55th dinner
-[56]/[139] Alice is thinking
-[54]/[145] Carol becomes hungry
-[61]/[150] David becomes hungry
-[54]/[146] Carol is thinking
-[60]/[144] Esan finishes 59th dinner
-[61]/[150] David gets the right fork
-[56]/[139] Alice becomes hungry
-[60]/[145] Esan is thinking
-[60]/[145] Esan becomes hungry
-[60]/[145] Esan gets the right fork
-[60]/[145] Esan gets the left fork
-[44]/[129] Bob becomes hungry
-[44]/[129] Bob gets the right fork
-[44]/[130] Bob is thinking
-[44]/[130] Bob becomes hungry
-[44]/[130] Bob gets the right fork
-[44]/[131] Bob is thinking
-[61]/[150] David gets the left fork
-[56]/[139] Alice gets the right fork
-[56]/[140] Alice is thinking
-[61]/[145] Esan finishes 60th dinner
-[61]/[146] Esan is thinking
-[62]/[150] David finishes 61th dinner
-[44]/[131] Bob becomes hungry
-[44]/[131] Bob gets the right fork
-[44]/[131] Bob gets the left fork
-[54]/[146] Carol becomes hungry
-[54]/[146] Carol gets the right fork
-[54]/[146] Carol gets the left fork
-[55]/[146] Carol finishes 54th dinner
-[55]/[147] Carol is thinking
-[55]/[147] Carol becomes hungry
-[55]/[147] Carol gets the right fork
-[55]/[147] Carol gets the left fork
-[62]/[151] David is thinking
-[62]/[151] David becomes hungry
-[62]/[151] David gets the right fork
-[62]/[152] David is thinking
-[62]/[152] David becomes hungry
-[62]/[152] David gets the right fork
-[62]/[153] David is thinking
-[62]/[153] David becomes hungry
-[62]/[153] David gets the right fork
-[62]/[154] David is thinking
-[62]/[154] David becomes hungry
-[62]/[154] David gets the right fork
-[62]/[155] David is thinking
-[56]/[140] Alice becomes hungry
-[56]/[141] Alice is thinking
-[62]/[155] David becomes hungry
-[62]/[155] David gets the right fork
-[62]/[156] David is thinking
-[56]/[141] Alice becomes hungry
-[61]/[146] Esan becomes hungry
-[56]/[142] Alice is thinking
-[56]/[142] Alice becomes hungry
-[56]/[143] Alice is thinking
-[56]/[143] Alice becomes hungry
-[56]/[144] Alice is thinking
-[45]/[131] Bob finishes 44th dinner
-[45]/[132] Bob is thinking
-[45]/[132] Bob becomes hungry
-[45]/[132] Bob gets the right fork
-[45]/[132] Bob gets the left fork
-[56]/[147] Carol finishes 55th dinner
-[56]/[148] Carol is thinking
-[61]/[147] Esan is thinking
-[61]/[147] Esan becomes hungry
-[61]/[148] Esan is thinking
-[62]/[156] David becomes hungry
-[62]/[156] David gets the right fork
-[62]/[157] David is thinking
-[62]/[157] David becomes hungry
-[62]/[157] David gets the right fork
-[62]/[158] David is thinking
-[62]/[158] David becomes hungry
-[62]/[158] David gets the right fork
-[62]/[159] David is thinking
-[56]/[144] Alice becomes hungry
-[56]/[148] Carol becomes hungry
-[46]/[132] Bob finishes 45th dinner
-[56]/[144] Alice gets the right fork
-[56]/[148] Carol gets the right fork
-[56]/[149] Carol is thinking
-[46]/[133] Bob is thinking
-[61]/[148] Esan becomes hungry
-[61]/[148] Esan gets the right fork
-[61]/[148] Esan gets the left fork
-[56]/[144] Alice gets the left fork
-[57]/[144] Alice finishes 56th dinner
-[57]/[145] Alice is thinking
-[57]/[145] Alice becomes hungry
-[57]/[145] Alice gets the right fork
-[57]/[145] Alice gets the left fork
-[56]/[149] Carol becomes hungry
-[56]/[150] Carol is thinking
-[56]/[150] Carol becomes hungry
-[56]/[151] Carol is thinking
-[56]/[151] Carol becomes hungry
-[56]/[152] Carol is thinking
-[62]/[148] Esan finishes 61th dinner
-[62]/[159] David becomes hungry
-[62]/[149] Esan is thinking
-[46]/[133] Bob becomes hungry
-[62]/[149] Esan becomes hungry
-[62]/[149] Esan gets the right fork
-[62]/[149] Esan gets the left fork
-[46]/[133] Bob gets the right fork
-[46]/[134] Bob is thinking
-[62]/[160] David is thinking
-[62]/[160] David becomes hungry
-[62]/[161] David is thinking
-[62]/[161] David becomes hungry
-[62]/[162] David is thinking
-[58]/[145] Alice finishes 57th dinner
-[58]/[146] Alice is thinking
-[58]/[146] Alice becomes hungry
-[58]/[146] Alice gets the right fork
-[58]/[146] Alice gets the left fork
-[59]/[146] Alice finishes 58th dinner
-[59]/[147] Alice is thinking
-[59]/[147] Alice becomes hungry
-[59]/[147] Alice gets the right fork
-[59]/[147] Alice gets the left fork
-[63]/[149] Esan finishes 62th dinner
-[63]/[150] Esan is thinking
-[63]/[150] Esan becomes hungry
-[63]/[150] Esan gets the right fork
-[63]/[150] Esan gets the left fork
-[64]/[150] Esan finishes 63th dinner
-[64]/[151] Esan is thinking
-[60]/[147] Alice finishes 59th dinner
-[60]/[148] Alice is thinking
-[62]/[162] David becomes hungry
-[62]/[162] David gets the right fork
-[62]/[162] David gets the left fork
-[46]/[134] Bob becomes hungry
-[56]/[152] Carol becomes hungry
-[46]/[135] Bob is thinking
-[56]/[152] Carol gets the right fork
-[56]/[152] Carol gets the left fork
-[46]/[135] Bob becomes hungry
-[46]/[136] Bob is thinking
-[63]/[162] David finishes 62th dinner
-[63]/[163] David is thinking
-[63]/[163] David becomes hungry
-[63]/[163] David gets the right fork
-[63]/[163] David gets the left fork
-[60]/[148] Alice becomes hungry
-[64]/[163] David finishes 63th dinner
-[60]/[149] Alice is thinking
-[64]/[164] David is thinking
-[57]/[152] Carol finishes 56th dinner
-[46]/[136] Bob becomes hungry
-[57]/[153] Carol is thinking
-[57]/[153] Carol becomes hungry
-[57]/[153] Carol gets the right fork
-[57]/[153] Carol gets the left fork
-[58]/[153] Carol finishes 57th dinner
-[46]/[136] Bob gets the right fork
-[58]/[154] Carol is thinking
-[46]/[136] Bob gets the left fork
-[58]/[154] Carol becomes hungry
-[58]/[154] Carol gets the right fork
-[58]/[154] Carol gets the left fork
-[64]/[151] Esan becomes hungry
-[64]/[152] Esan is thinking
-[60]/[149] Alice becomes hungry
-[60]/[150] Alice is thinking
-[60]/[150] Alice becomes hungry
-[60]/[151] Alice is thinking
-[60]/[151] Alice becomes hungry
-[60]/[152] Alice is thinking
-[59]/[154] Carol finishes 58th dinner
-[59]/[155] Carol is thinking
-[64]/[164] David becomes hungry
-[64]/[164] David gets the right fork
-[64]/[152] Esan becomes hungry
-[64]/[165] David is thinking
-[64]/[153] Esan is thinking
-[47]/[136] Bob finishes 46th dinner
-[64]/[153] Esan becomes hungry
-[47]/[137] Bob is thinking
-[64]/[153] Esan gets the right fork
-[64]/[165] David becomes hungry
-[64]/[153] Esan gets the left fork
-[64]/[165] David gets the right fork
-[64]/[165] David gets the left fork
-[65]/[165] David finishes 64th dinner
-[65]/[166] David is thinking
-[65]/[153] Esan finishes 64th dinner
-[65]/[154] Esan is thinking
-[59]/[155] Carol becomes hungry
-[59]/[155] Carol gets the right fork
-[59]/[155] Carol gets the left fork
-[60]/[152] Alice becomes hungry
-[60]/[153] Alice is thinking
-[60]/[155] Carol finishes 59th dinner
-[60]/[156] Carol is thinking
-[47]/[137] Bob becomes hungry
-[65]/[154] Esan becomes hungry
-[47]/[137] Bob gets the right fork
-[65]/[154] Esan gets the right fork
-[65]/[166] David becomes hungry
-[65]/[154] Esan gets the left fork
-[47]/[138] Bob is thinking
-[65]/[166] David gets the right fork
-[65]/[166] David gets the left fork
-[66]/[154] Esan finishes 65th dinner
-[66]/[155] Esan is thinking
-[66]/[155] Esan becomes hungry
-[66]/[155] Esan gets the right fork
-[66]/[155] Esan gets the left fork
-[67]/[155] Esan finishes 66th dinner
-[67]/[156] Esan is thinking
-[66]/[166] David finishes 65th dinner
-[66]/[167] David is thinking
-[60]/[156] Carol becomes hungry
-[60]/[156] Carol gets the right fork
-[60]/[156] Carol gets the left fork
-[61]/[156] Carol finishes 60th dinner
-[61]/[157] Carol is thinking
-[61]/[157] Carol becomes hungry
-[61]/[157] Carol gets the right fork
-[61]/[157] Carol gets the left fork
-[62]/[157] Carol finishes 61th dinner
-[62]/[158] Carol is thinking
-[62]/[158] Carol becomes hungry
-[62]/[158] Carol gets the right fork
-[62]/[158] Carol gets the left fork
-[47]/[138] Bob becomes hungry
-[47]/[138] Bob gets the right fork
-[67]/[156] Esan becomes hungry
-[47]/[138] Bob gets the left fork
-[67]/[157] Esan is thinking
-[60]/[153] Alice becomes hungry
-[60]/[154] Alice is thinking
-[60]/[154] Alice becomes hungry
-[60]/[155] Alice is thinking
-[48]/[138] Bob finishes 47th dinner
-[48]/[139] Bob is thinking
-[48]/[139] Bob becomes hungry
-[67]/[157] Esan becomes hungry
-[63]/[158] Carol finishes 62th dinner
-[67]/[157] Esan gets the right fork
-[67]/[158] Esan is thinking
-[63]/[159] Carol is thinking
-[66]/[167] David becomes hungry
-[66]/[167] David gets the right fork
-[63]/[159] Carol becomes hungry
-[66]/[168] David is thinking
-[63]/[159] Carol gets the right fork
-[66]/[168] David becomes hungry
-[60]/[155] Alice becomes hungry
-[66]/[168] David gets the right fork
-[60]/[156] Alice is thinking
-[63]/[159] Carol gets the left fork
-[66]/[169] David is thinking
-[48]/[139] Bob gets the right fork
-[66]/[169] David becomes hungry
-[48]/[139] Bob gets the left fork
-[66]/[169] David gets the right fork
-[66]/[170] David is thinking
-[66]/[170] David becomes hungry
-[66]/[170] David gets the right fork
-[66]/[171] David is thinking
-[66]/[171] David becomes hungry
-[66]/[171] David gets the right fork
-[66]/[172] David is thinking
-[67]/[158] Esan becomes hungry
-[49]/[139] Bob finishes 48th dinner
-[60]/[156] Alice becomes hungry
-[49]/[140] Bob is thinking
-[64]/[159] Carol finishes 63th dinner
-[60]/[157] Alice is thinking
-[67]/[159] Esan is thinking
-[64]/[160] Carol is thinking
-[60]/[157] Alice becomes hungry
-[60]/[157] Alice gets the right fork
-[60]/[157] Alice gets the left fork
-[61]/[157] Alice finishes 60th dinner
-[61]/[158] Alice is thinking
-[61]/[158] Alice becomes hungry
-[61]/[158] Alice gets the right fork
-[61]/[158] Alice gets the left fork
-[62]/[158] Alice finishes 61th dinner
-[62]/[159] Alice is thinking
-[62]/[159] Alice becomes hungry
-[62]/[159] Alice gets the right fork
-[62]/[159] Alice gets the left fork
-[49]/[140] Bob becomes hungry
-[49]/[140] Bob gets the right fork
-[49]/[140] Bob gets the left fork
-[50]/[140] Bob finishes 49th dinner
-[50]/[141] Bob is thinking
-[63]/[159] Alice finishes 62th dinner
-[50]/[141] Bob becomes hungry
-[63]/[160] Alice is thinking
-[50]/[141] Bob gets the right fork
-[50]/[141] Bob gets the left fork
-[63]/[160] Alice becomes hungry
-[63]/[160] Alice gets the right fork
-[63]/[160] Alice gets the left fork
-[51]/[141] Bob finishes 50th dinner
-[51]/[142] Bob is thinking
-[51]/[142] Bob becomes hungry
-[51]/[142] Bob gets the right fork
-[51]/[142] Bob gets the left fork
-[52]/[142] Bob finishes 51th dinner
-[52]/[143] Bob is thinking
-[66]/[172] David becomes hungry
-[67]/[159] Esan becomes hungry
-[67]/[159] Esan gets the right fork
-[67]/[159] Esan gets the left fork
-[52]/[143] Bob becomes hungry
-[64]/[160] Carol becomes hungry
-[68]/[159] Esan finishes 67th dinner
-[52]/[143] Bob gets the right fork
-[52]/[144] Bob is thinking
-[68]/[160] Esan is thinking
-[64]/[161] Carol is thinking
-[64]/[160] Alice finishes 63th dinner
-[66]/[173] David is thinking
-[64]/[161] Alice is thinking
-[52]/[144] Bob becomes hungry
-[68]/[160] Esan becomes hungry
-[52]/[144] Bob gets the right fork
-[68]/[160] Esan gets the right fork
-[68]/[160] Esan gets the left fork
-[52]/[145] Bob is thinking
-[52]/[145] Bob becomes hungry
-[52]/[145] Bob gets the right fork
-[52]/[146] Bob is thinking
-[66]/[173] David becomes hungry
-[64]/[161] Carol becomes hungry
-[66]/[173] David gets the right fork
-[66]/[173] David gets the left fork
-[64]/[162] Carol is thinking
-[52]/[146] Bob becomes hungry
-[67]/[173] David finishes 66th dinner
-[64]/[161] Alice becomes hungry
-[52]/[146] Bob gets the right fork
-[64]/[161] Alice gets the right fork
-[64]/[161] Alice gets the left fork
-[69]/[160] Esan finishes 68th dinner
-[52]/[147] Bob is thinking
-[69]/[161] Esan is thinking
-[52]/[147] Bob becomes hungry
-[52]/[147] Bob gets the right fork
-[52]/[147] Bob gets the left fork
-[69]/[161] Esan becomes hungry
-[67]/[174] David is thinking
-[69]/[162] Esan is thinking
-[53]/[147] Bob finishes 52th dinner
-[53]/[148] Bob is thinking
-[64]/[162] Carol becomes hungry
-[64]/[162] Carol gets the right fork
-[64]/[163] Carol is thinking
-[67]/[174] David becomes hungry
-[67]/[175] David is thinking
-[67]/[175] David becomes hungry
-[67]/[176] David is thinking
-[69]/[162] Esan becomes hungry
-[69]/[162] Esan gets the right fork
-[69]/[162] Esan gets the left fork
-[65]/[161] Alice finishes 64th dinner
-[65]/[162] Alice is thinking
-[64]/[163] Carol becomes hungry
-[53]/[148] Bob becomes hungry
-[64]/[164] Carol is thinking
-[53]/[148] Bob gets the right fork
-[53]/[149] Bob is thinking
-[53]/[149] Bob becomes hungry
-[53]/[149] Bob gets the right fork
-[64]/[164] Carol becomes hungry
-[53]/[150] Bob is thinking
-[64]/[165] Carol is thinking
-[64]/[165] Carol becomes hungry
-[64]/[166] Carol is thinking
-[65]/[162] Alice becomes hungry
-[65]/[162] Alice gets the right fork
-[70]/[162] Esan finishes 69th dinner
-[65]/[162] Alice gets the left fork
-[70]/[163] Esan is thinking
-[70]/[163] Esan becomes hungry
-[70]/[163] Esan gets the right fork
-[70]/[163] Esan gets the left fork
-[67]/[176] David becomes hungry
-[64]/[166] Carol becomes hungry
-[67]/[177] David is thinking
-[67]/[177] David becomes hungry
-[67]/[178] David is thinking
-[64]/[167] Carol is thinking
-[64]/[167] Carol becomes hungry
-[64]/[168] Carol is thinking
-[53]/[150] Bob becomes hungry
-[53]/[150] Bob gets the right fork
-[53]/[151] Bob is thinking
-[53]/[151] Bob becomes hungry
-[53]/[151] Bob gets the right fork
-[53]/[152] Bob is thinking
-[53]/[152] Bob becomes hungry
-[53]/[152] Bob gets the right fork
-[53]/[153] Bob is thinking
-[67]/[178] David becomes hungry
-[67]/[179] David is thinking
-[53]/[153] Bob becomes hungry
-[53]/[153] Bob gets the right fork
-[53]/[154] Bob is thinking
-[53]/[154] Bob becomes hungry
-[53]/[154] Bob gets the right fork
-[53]/[155] Bob is thinking
-[53]/[155] Bob becomes hungry
-[53]/[155] Bob gets the right fork
-[53]/[156] Bob is thinking
-[64]/[168] Carol becomes hungry
-[66]/[162] Alice finishes 65th dinner
-[64]/[169] Carol is thinking
-[71]/[163] Esan finishes 70th dinner
-[64]/[169] Carol becomes hungry
-[64]/[170] Carol is thinking
-[66]/[163] Alice is thinking
-[71]/[164] Esan is thinking
-[53]/[156] Bob becomes hungry
-[53]/[156] Bob gets the right fork
-[53]/[156] Bob gets the left fork
-[67]/[179] David becomes hungry
-[67]/[179] David gets the right fork
-[67]/[180] David is thinking
-[54]/[156] Bob finishes 53th dinner
-[71]/[164] Esan becomes hungry
-[54]/[157] Bob is thinking
-[64]/[170] Carol becomes hungry
-[71]/[164] Esan gets the right fork
-[71]/[164] Esan gets the left fork
-[54]/[157] Bob becomes hungry
-[54]/[157] Bob gets the right fork
-[66]/[163] Alice becomes hungry
+[39]/[139] Carol becomes hungry
+[39]/[139] Carol gets the right fork
